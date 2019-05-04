@@ -1,0 +1,64 @@
+table {
+    width: 100%;
+}
+
+.app {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.app > .header {
+    background-color: #444;
+    color: #FFF;
+    padding: 1em 2em;
+}
+
+.page {
+    position: absolute;
+    top: 4em;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+a {
+    color: inherit;
+}
+
+.page > .page-inner {
+    position: relative;
+}
+
+.electorate-icon {
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    border-radius: 50%;
+    background-color: #AAA;
+    overflow: hidden;
+    font-family: monospace;
+    font-weight: bold;
+    color: white;
+}
+
+.panel {
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    padding: 2em;
+    overflow-y: auto;
+}
+
+.panel.left {
+    left: 0;
+    width: 33%;
+}
+
+.panel.right {
+    left: 33%;
+    right: 0;
+}
