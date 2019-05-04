@@ -3,7 +3,9 @@
         "GRN": {
             "name": "Australian Greens",
             "alts": [
-                "Greens"
+                "Greens",
+                "The Greens (VIC)",
+                "The Greens"
             ],
             "color": "green"
         },
@@ -49,13 +51,28 @@
             ]
         },
         "PHON": {
-            "name": "Pauline Hanson’s One Nation"
+            "name": "Pauline Hanson’s One Nation",
+            "alts": [
+                "ON"
+            ]
         },
         "-": {
-            "name": "Thrown away"
+            "name": ""
         },
         "RUAP": {
             "name": "Rise Up Australia Party"
+        },
+        "CDPF": {
+            "name": "Christian Democratic Party",
+            "alts": [
+                "Christian Democratic Party (Fred Nile Group)"
+            ]
+        },
+        "FACNP": {
+            "name": "Fraser Anning's Conservative National Party"
+        },
+        "FFP": {
+            "name": "Family First Party"
         }
     },
     "coalitions": {

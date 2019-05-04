@@ -39,10 +39,10 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
             <table className="candidates">
                 <thead>
                     <tr>
-                        <td>Ballot</td>
-                        <td>Surname</td>
-                        <td>Name</td>
-                        <td>Party</td>
+                        <th>Ballot</th>
+                        <th>Surname</th>
+                        <th>Name</th>
+                        <th>Party</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -82,8 +82,8 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
             <table className="redults">
                 <thead>
                     <tr>
-                        <td>Party</td>
-                        <td>Vote %</td>
+                        <th>Party</th>
+                        <th>Vote %</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -96,9 +96,11 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
     private renderResult(index: number, result: IElectorateResult) {
         const pc = Math.round(result.pc);
         const pcs = result.pc < 1 ? "< 1%" : pc + "%";
+        const party = electService.getParty(result.party);
+        const partyStr = party ? party.name : result.party;
         return (
             <tr key={index}>
-                <td>{result.party || "-"}</td>
+                <td>{partyStr || "-"}</td>
                 <td>{pcs}</td>
             </tr>
         )

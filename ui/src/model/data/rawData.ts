@@ -70,7 +70,7 @@ class RawData {
         const json = await res.json();
         for (const key in json.parties) {
             const partyIn = json.parties[key];
-            this.makeParty({ ...partyIn, key, name: key });
+            this.makeParty({ ...partyIn, key });
         }
     }
 
@@ -80,7 +80,7 @@ class RawData {
         const reqParty = (row: any) => {
             const name = readStr(row, "party_ballot_nm");
             const key = Utils.makeAbbrev(name);
-            let party = this.getParty(key);
+            let party = this.getParty(name);
             if (! party) {
                 party = this.makeParty({
                     key: key,

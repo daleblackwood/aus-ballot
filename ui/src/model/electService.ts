@@ -34,17 +34,28 @@ class ElectService {
         this.subParties.setValue(extract(rawData.parties));
     }
 
-    public getElectorate(electorateKey: string) {
+    public getElectorate(electorateKey: string): IElectorate|null {
         electorateKey = Utils.toKey(electorateKey);
-        return this.subElectorates.value.find(e => e.key === electorateKey);
+        return this.subElectorates.value.find(e => e.key === electorateKey) || null;
     }
 
-    public getCandidates(electorateKey: string) {
+    public getCandidates(electorateKey: string): ICandidate[] {
         const result = this.subCandidates.value.filter(c => c.electorate && c.electorate.key === electorateKey);
         result.sort((a, b) => {
             return a.balletPos < b.balletPos ? -1 : 1;
         });
         return result;
+    }
+
+    public getParty(partyKey: string): IParty|null {
+        for (const party of this.subParties.value) {
+            for (const match of party.matches) {
+                if (Utils.wordMatch(match, partyKey)) {
+                    return party;
+                }
+            }
+        }
+        return null;
     }
 }
 

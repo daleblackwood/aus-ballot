@@ -2,6 +2,10 @@ table {
     width: 100%;
 }
 
+table th {
+    text-align: left;
+}
+
 .app {
     position: absolute;
     top: 0;
