@@ -36,7 +36,7 @@ export class ElectorateList extends BaseComp<{}, IElectorateListState> {
         
         return (
             <>
-                <Input icon="search" placeHolder="Search..." onChange={this.handleInput} />
+                <Input icon="search" placeholder="Search..." onChange={this.handleInput} />
                 <List divided relaxed>
                     { items }
                 </List>

@@ -3,7 +3,7 @@ import { Subject, ISubjectListener } from "../model/Subject";
 
 interface ISubjectBinding<T> {
     subject: Subject<T>;
-    listener: ISubjectListener<T>;
+    handler: (value: T) => void;
 }
 
 export class BaseComp<PROPS = {}, STATE = {}> extends React.Component<PROPS, STATE> {
@@ -16,10 +16,10 @@ export class BaseComp<PROPS = {}, STATE = {}> extends React.Component<PROPS, STA
 
     public listen<T>(subject: Subject<T>, handler: (value: T) => void) {
         this.unlisten(subject);
-        const listener = subject.listen(handler);
+        subject.listen(handler);
         this.bindings.push({
             subject,
-            listener
+            handler
         });
     }
 
@@ -27,7 +27,7 @@ export class BaseComp<PROPS = {}, STATE = {}> extends React.Component<PROPS, STA
         for (let i=this.bindings.length-1; i>=0; i--) {
             const binding = this.bindings[i];
             if (binding.subject === subject) {
-                subject.unlisten(binding.listener);
+                subject.unlisten(binding.handler);
                 this.bindings.slice(i, 1);
             }
         }
@@ -35,7 +35,7 @@ export class BaseComp<PROPS = {}, STATE = {}> extends React.Component<PROPS, STA
 
     public unlistenAll() {
         for (const binding of this.bindings) {
-            binding.subject.unlisten(binding.listener);
+            binding.subject.unlisten(binding.handler);
         }
         this.bindings = [];
     }

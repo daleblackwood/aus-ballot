@@ -1,6 +1,7 @@
-import { rawData } from "./rawData";
+import { rawData } from "./data/rawData";
 import { Subject } from "./Subject";
 import { IElectorate, KeyMap, IParty, ICandidate } from "./Types";
+import { Utils } from "../utils/Utils";
 
 
 class ElectService {
@@ -9,7 +10,7 @@ class ElectService {
     public subParties = new Subject<IParty[]>([]);
     public subCandidates = new Subject<ICandidate[]>([]);
 
-    public subElectorate = new Subject<IElectorate|null>(null);
+    public subElectorateKey = new Subject<string>("");
 
     constructor() {
         this.loadData();
@@ -34,6 +35,7 @@ class ElectService {
     }
 
     public getElectorate(electorateKey: string) {
+        electorateKey = Utils.toKey(electorateKey);
         return this.subElectorates.value.find(e => e.key === electorateKey);
     }
 

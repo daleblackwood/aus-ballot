@@ -1,7 +1,7 @@
 import React from "react";
 import { BasePage } from "./BasePage";
 import { electService } from "../model/electService";
-import { IElectorate, ICandidate } from "../model/Types";
+import { IElectorate, ICandidate, IElectorateResult } from "../model/Types";
 
 interface IElectoratePageProps {
     electorate?: string;
@@ -18,8 +18,11 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
         }
         return (
             <div className="electorate">
-                <h2>{electorate.name}</h2>
+                <h2>{electorate.name}, {electorate.state}</h2>
                 { this.renderCandidates(electorate) }
+
+                <h3>Last Election: Previous First Preferences</h3>
+                { this.renderResults(electorate) }
             </div>
         )
     }
@@ -36,7 +39,7 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
             <table className="candidates">
                 <thead>
                     <tr>
-                        <td>Ballot #</td>
+                        <td>Ballot</td>
                         <td>Surname</td>
                         <td>Name</td>
                         <td>Party</td>
@@ -56,6 +59,47 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
                 <td>{candidate.surname}</td>
                 <td>{candidate.firstname}</td>
                 <td>{candidate.party ? candidate.party.name : ""}</td>
+            </tr>
+        )
+    }
+
+    private renderResults(electorate: IElectorate) {
+        if (!electorate.results) {
+            return "There are no results for this electorate.";
+        }
+
+        const results = electorate.results.slice();
+        results.sort((a, b) => {
+            return a.votes > b.votes ? -1 : 1;
+        });
+
+        const resultElems: JSX.Element[] = [];
+        for (const result of results) {
+            resultElems.push(this.renderResult(resultElems.length, result));
+        }
+
+        return (
+            <table className="redults">
+                <thead>
+                    <tr>
+                        <td>Party</td>
+                        <td>Vote %</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    { resultElems }
+                </tbody>
+            </table>
+        );
+    }
+
+    private renderResult(index: number, result: IElectorateResult) {
+        const pc = Math.round(result.pc);
+        const pcs = result.pc < 1 ? "< 1%" : pc + "%";
+        return (
+            <tr key={index}>
+                <td>{result.party || "-"}</td>
+                <td>{pcs}</td>
             </tr>
         )
     }

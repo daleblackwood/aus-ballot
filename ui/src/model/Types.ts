@@ -8,7 +8,9 @@ export enum House {
 export interface IParty {
     key: string;
     name: string;
-    color?: string;
+    color: string;
+    matches: string[];
+    abbrev: string;
 }
 
 export interface IElectorate {
@@ -18,6 +20,14 @@ export interface IElectorate {
     abbrev: string;
     lat?: number;
     lon?: number;
+    results?: IElectorateResult[];
+}
+
+export interface IElectorateResult {
+    candidate: ICandidate|null;
+    party: string;
+    votes: number;
+    pc: number;
 }
 
 export interface ICandidate {

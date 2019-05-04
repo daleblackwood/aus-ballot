@@ -2,10 +2,10 @@ type ISubjectMethod<T> = (data: T) => void;
 
 export interface ISubjectListener<T> {
     method: ISubjectMethod<T>;
-    options: IListenOptions;
+    options: IListenerOptions;
 }
 
-export interface IListenOptions {
+export interface IListenerOptions {
     once?: boolean;
     immediate?: boolean;
 }
@@ -19,7 +19,7 @@ export class Subject<T> {
         this.value = initialValue;
     }
 
-    public listen(method: (data: T) => void, options?: IListenOptions): ISubjectListener<T> {
+    public listen(method: (data: T) => void, options?: IListenerOptions): ISubjectListener<T> {
         options = {
             immediate: true,
             once: false,

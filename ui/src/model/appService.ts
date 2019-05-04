@@ -11,7 +11,7 @@ class AppService {
     }
 
     public getElectorateLink(key?: string) {
-        return "/electorate/" + (key || ":electorate");
+        return "/electorate/" + (key || ":electorate").toLowerCase();
     }
 }
 

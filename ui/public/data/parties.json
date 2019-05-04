@@ -1,0 +1,64 @@
+{
+    "parties": {
+        "GRN": {
+            "name": "Australian Greens",
+            "alts": [
+                "Greens"
+            ],
+            "color": "green"
+        },
+        "ALP": {
+            "name": "Australian Labor Party",
+            "alts": [
+                "Australian Labour Party", 
+                "Labor",
+                "Labour"
+            ],
+            "color": "red"
+        },
+        "CA": {
+            "name": "Centre Alliance"
+        },
+        "IND": {
+            "name": "Independent"
+        },
+        "KAP": {
+            "name": "Katter’s Australian Party",
+            "alts": [
+                "Katter Party"
+            ]
+        },
+        "LD": {
+            "name": "Liberal Democratic Party"
+        },
+        "LNP": {
+            "name": "Liberal National Party of Queensland"
+        },
+        "LP": {
+            "name": "Liberal Party of Australia",
+            "alts": [
+                "Liberal",
+                "Libs"
+            ]
+        },
+        "NP": {
+            "name": "National Party of Australia",
+            "alts": [
+                "Nationals",
+                "Nats"
+            ]
+        },
+        "PHON": {
+            "name": "Pauline Hanson’s One Nation"
+        },
+        "-": {
+            "name": "Thrown away"
+        },
+        "RUAP": {
+            "name": "Rise Up Australia Party"
+        }
+    },
+    "coalitions": {
+        "COAL": ["LP", "LNP", "NP"]
+    }
+}

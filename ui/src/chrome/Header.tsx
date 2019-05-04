@@ -5,7 +5,7 @@ export class Header extends React.Component {
     public render() {
         return (
             <div className="header">
-                <h1>Electorate Information Finder</h1>
+                <h1>2019 Australian Election Electorate Info</h1>
             </div>
         );
     }
