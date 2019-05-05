@@ -1,0 +1,99 @@
+{
+    "parties": {
+        "GRN": {
+            "name": "Australian Greens",
+            "alts": [
+                "Greens",
+                "The Greens (VIC)",
+                "The Greens (WA)",
+                "The Greens (NSW)",
+                "The Greens (QLD)",
+                "The Greens (SA)",
+                "The Greens"
+            ],
+            "color": "green"
+        },
+        "ALP": {
+            "name": "Australian Labor Party",
+            "alts": [
+                "Australian Labour Party", 
+                "Labor",
+                "Labour"
+            ],
+            "color": "red"
+        },
+        "CA": {
+            "name": "Centre Alliance"
+        },
+        "IND": {
+            "name": "Independent"
+        },
+        "KAP": {
+            "name": "Katter’s Australian Party",
+            "alts": [
+                "Katter Party"
+            ]
+        },
+        "LD": {
+            "name": "Liberal Democratic Party"
+        },
+        "LNP": {
+            "name": "Liberal National Party of Queensland",
+            "color": "blue"
+        },
+        "LP": {
+            "name": "Liberal Party of Australia",
+            "alts": [
+                "Liberal",
+                "Libs"
+            ],
+            "color": "blue"
+        },
+        "NP": {
+            "name": "National Party of Australia",
+            "alts": [
+                "Nationals",
+                "Nats",
+                "National Party",
+                "The Nationals"
+            ],
+            "color": "blue"
+        },
+        "PHON": {
+            "name": "Pauline Hanson’s One Nation",
+            "alts": [
+                "ON"
+            ]
+        },
+        "UAP": {
+            "name": "United Australia Party",
+            "alts": [ 
+                "PUP",
+                "Australia United Party",
+                "UAP"
+            ],
+            "color": "yellow"
+        },
+        "-": {
+            "name": ""
+        },
+        "RUAP": {
+            "name": "Rise Up Australia Party"
+        },
+        "CDPF": {
+            "name": "Christian Democratic Party",
+            "alts": [
+                "Christian Democratic Party (Fred Nile Group)"
+            ]
+        },
+        "FACNP": {
+            "name": "Fraser Anning's Conservative National Party"
+        },
+        "FFP": {
+            "name": "Family First Party"
+        }
+    },
+    "coalitions": {
+        "COAL": ["LP", "LNP", "NP"]
+    }
+}

@@ -1,0 +1,908 @@
+[
+  {
+    "key": "BEAN",
+    "name": "Bean",
+    "abbrev": "BE",
+    "state": "ACT"
+  },
+  {
+    "key": "CANBERRA",
+    "name": "Canberra",
+    "abbrev": "CA",
+    "state": "ACT"
+  },
+  {
+    "key": "FENNER",
+    "name": "Fenner",
+    "abbrev": "FE",
+    "state": "ACT"
+  },
+  {
+    "key": "BANKS",
+    "name": "Banks",
+    "abbrev": "BA",
+    "state": "NSW"
+  },
+  {
+    "key": "BARTON",
+    "name": "Barton",
+    "abbrev": "BA",
+    "state": "NSW"
+  },
+  {
+    "key": "BENNELONG",
+    "name": "Bennelong",
+    "abbrev": "BE",
+    "state": "NSW"
+  },
+  {
+    "key": "BEROWRA",
+    "name": "Berowra",
+    "abbrev": "BE",
+    "state": "NSW"
+  },
+  {
+    "key": "BLAXLAND",
+    "name": "Blaxland",
+    "abbrev": "BL",
+    "state": "NSW"
+  },
+  {
+    "key": "BRADFIELD",
+    "name": "Bradfield",
+    "abbrev": "BR",
+    "state": "NSW"
+  },
+  {
+    "key": "CALARE",
+    "name": "Calare",
+    "abbrev": "CA",
+    "state": "NSW"
+  },
+  {
+    "key": "CHIFLEY",
+    "name": "Chifley",
+    "abbrev": "CH",
+    "state": "NSW"
+  },
+  {
+    "key": "COOK",
+    "name": "Cook",
+    "abbrev": "CO",
+    "state": "NSW"
+  },
+  {
+    "key": "COWPER",
+    "name": "Cowper",
+    "abbrev": "CO",
+    "state": "NSW"
+  },
+  {
+    "key": "CUNNINGHAM",
+    "name": "Cunningham",
+    "abbrev": "CU",
+    "state": "NSW"
+  },
+  {
+    "key": "DOBELL",
+    "name": "Dobell",
+    "abbrev": "DO",
+    "state": "NSW"
+  },
+  {
+    "key": "EDENMONARO",
+    "name": "Eden-Monaro",
+    "abbrev": "ED",
+    "state": "NSW"
+  },
+  {
+    "key": "FARRER",
+    "name": "Farrer",
+    "abbrev": "FA",
+    "state": "NSW"
+  },
+  {
+    "key": "FOWLER",
+    "name": "Fowler",
+    "abbrev": "FO",
+    "state": "NSW"
+  },
+  {
+    "key": "GILMORE",
+    "name": "Gilmore",
+    "abbrev": "GI",
+    "state": "NSW"
+  },
+  {
+    "key": "GRAYNDLER",
+    "name": "Grayndler",
+    "abbrev": "GR",
+    "state": "NSW"
+  },
+  {
+    "key": "GREENWAY",
+    "name": "Greenway",
+    "abbrev": "GR",
+    "state": "NSW"
+  },
+  {
+    "key": "HUGHES",
+    "name": "Hughes",
+    "abbrev": "HU",
+    "state": "NSW"
+  },
+  {
+    "key": "HUME",
+    "name": "Hume",
+    "abbrev": "HU",
+    "state": "NSW"
+  },
+  {
+    "key": "HUNTER",
+    "name": "Hunter",
+    "abbrev": "HU",
+    "state": "NSW"
+  },
+  {
+    "key": "KINGSFORDSMITH",
+    "name": "Kingsford Smith",
+    "abbrev": "KI",
+    "state": "NSW"
+  },
+  {
+    "key": "LINDSAY",
+    "name": "Lindsay",
+    "abbrev": "LI",
+    "state": "NSW"
+  },
+  {
+    "key": "LYNE",
+    "name": "Lyne",
+    "abbrev": "LY",
+    "state": "NSW"
+  },
+  {
+    "key": "MACARTHUR",
+    "name": "Macarthur",
+    "abbrev": "MA",
+    "state": "NSW"
+  },
+  {
+    "key": "MACKELLAR",
+    "name": "Mackellar",
+    "abbrev": "MA",
+    "state": "NSW"
+  },
+  {
+    "key": "MACQUARIE",
+    "name": "Macquarie",
+    "abbrev": "MA",
+    "state": "NSW"
+  },
+  {
+    "key": "MCMAHON",
+    "name": "McMahon",
+    "abbrev": "MC",
+    "state": "NSW"
+  },
+  {
+    "key": "MITCHELL",
+    "name": "Mitchell",
+    "abbrev": "MI",
+    "state": "NSW"
+  },
+  {
+    "key": "NEWENGLAND",
+    "name": "New England",
+    "abbrev": "NE",
+    "state": "NSW"
+  },
+  {
+    "key": "NEWCASTLE",
+    "name": "Newcastle",
+    "abbrev": "NE",
+    "state": "NSW"
+  },
+  {
+    "key": "NORTHSYDNEY",
+    "name": "North Sydney",
+    "abbrev": "NO",
+    "state": "NSW"
+  },
+  {
+    "key": "PAGE",
+    "name": "Page",
+    "abbrev": "PA",
+    "state": "NSW"
+  },
+  {
+    "key": "PARKES",
+    "name": "Parkes",
+    "abbrev": "PA",
+    "state": "NSW"
+  },
+  {
+    "key": "PARRAMATTA",
+    "name": "Parramatta",
+    "abbrev": "PA",
+    "state": "NSW"
+  },
+  {
+    "key": "PATERSON",
+    "name": "Paterson",
+    "abbrev": "PA",
+    "state": "NSW"
+  },
+  {
+    "key": "REID",
+    "name": "Reid",
+    "abbrev": "RE",
+    "state": "NSW"
+  },
+  {
+    "key": "RICHMOND",
+    "name": "Richmond",
+    "abbrev": "RI",
+    "state": "NSW"
+  },
+  {
+    "key": "RIVERINA",
+    "name": "Riverina",
+    "abbrev": "RI",
+    "state": "NSW"
+  },
+  {
+    "key": "ROBERTSON",
+    "name": "Robertson",
+    "abbrev": "RO",
+    "state": "NSW"
+  },
+  {
+    "key": "SHORTLAND",
+    "name": "Shortland",
+    "abbrev": "SH",
+    "state": "NSW"
+  },
+  {
+    "key": "SYDNEY",
+    "name": "Sydney",
+    "abbrev": "SY",
+    "state": "NSW"
+  },
+  {
+    "key": "WARRINGAH",
+    "name": "Warringah",
+    "abbrev": "WA",
+    "state": "NSW"
+  },
+  {
+    "key": "WATSON",
+    "name": "Watson",
+    "abbrev": "WA",
+    "state": "NSW"
+  },
+  {
+    "key": "WENTWORTH",
+    "name": "Wentworth",
+    "abbrev": "WE",
+    "state": "NSW"
+  },
+  {
+    "key": "WERRIWA",
+    "name": "Werriwa",
+    "abbrev": "WE",
+    "state": "NSW"
+  },
+  {
+    "key": "WHITLAM",
+    "name": "Whitlam",
+    "abbrev": "WH",
+    "state": "NSW"
+  },
+  {
+    "key": "LINGIARI",
+    "name": "Lingiari",
+    "abbrev": "LI",
+    "state": "NT"
+  },
+  {
+    "key": "SOLOMON",
+    "name": "Solomon",
+    "abbrev": "SO",
+    "state": "NT"
+  },
+  {
+    "key": "BLAIR",
+    "name": "Blair",
+    "abbrev": "BL",
+    "state": "QLD"
+  },
+  {
+    "key": "BONNER",
+    "name": "Bonner",
+    "abbrev": "BO",
+    "state": "QLD"
+  },
+  {
+    "key": "BOWMAN",
+    "name": "Bowman",
+    "abbrev": "BO",
+    "state": "QLD"
+  },
+  {
+    "key": "BRISBANE",
+    "name": "Brisbane",
+    "abbrev": "BR",
+    "state": "QLD"
+  },
+  {
+    "key": "CAPRICORNIA",
+    "name": "Capricornia",
+    "abbrev": "CA",
+    "state": "QLD"
+  },
+  {
+    "key": "DAWSON",
+    "name": "Dawson",
+    "abbrev": "DA",
+    "state": "QLD"
+  },
+  {
+    "key": "DICKSON",
+    "name": "Dickson",
+    "abbrev": "DI",
+    "state": "QLD"
+  },
+  {
+    "key": "FADDEN",
+    "name": "Fadden",
+    "abbrev": "FA",
+    "state": "QLD"
+  },
+  {
+    "key": "FAIRFAX",
+    "name": "Fairfax",
+    "abbrev": "FA",
+    "state": "QLD"
+  },
+  {
+    "key": "FISHER",
+    "name": "Fisher",
+    "abbrev": "FI",
+    "state": "QLD"
+  },
+  {
+    "key": "FLYNN",
+    "name": "Flynn",
+    "abbrev": "FL",
+    "state": "QLD"
+  },
+  {
+    "key": "FORDE",
+    "name": "Forde",
+    "abbrev": "FO",
+    "state": "QLD"
+  },
+  {
+    "key": "GRIFFITH",
+    "name": "Griffith",
+    "abbrev": "GR",
+    "state": "QLD"
+  },
+  {
+    "key": "GROOM",
+    "name": "Groom",
+    "abbrev": "GR",
+    "state": "QLD"
+  },
+  {
+    "key": "HERBERT",
+    "name": "Herbert",
+    "abbrev": "HE",
+    "state": "QLD"
+  },
+  {
+    "key": "HINKLER",
+    "name": "Hinkler",
+    "abbrev": "HI",
+    "state": "QLD"
+  },
+  {
+    "key": "KENNEDY",
+    "name": "Kennedy",
+    "abbrev": "KE",
+    "state": "QLD"
+  },
+  {
+    "key": "LEICHHARDT",
+    "name": "Leichhardt",
+    "abbrev": "LE",
+    "state": "QLD"
+  },
+  {
+    "key": "LILLEY",
+    "name": "Lilley",
+    "abbrev": "LI",
+    "state": "QLD"
+  },
+  {
+    "key": "LONGMAN",
+    "name": "Longman",
+    "abbrev": "LO",
+    "state": "QLD"
+  },
+  {
+    "key": "MARANOA",
+    "name": "Maranoa",
+    "abbrev": "MA",
+    "state": "QLD"
+  },
+  {
+    "key": "MCPHERSON",
+    "name": "McPherson",
+    "abbrev": "MC",
+    "state": "QLD"
+  },
+  {
+    "key": "MONCRIEFF",
+    "name": "Moncrieff",
+    "abbrev": "MO",
+    "state": "QLD"
+  },
+  {
+    "key": "MORETON",
+    "name": "Moreton",
+    "abbrev": "MO",
+    "state": "QLD"
+  },
+  {
+    "key": "OXLEY",
+    "name": "Oxley",
+    "abbrev": "OX",
+    "state": "QLD"
+  },
+  {
+    "key": "PETRIE",
+    "name": "Petrie",
+    "abbrev": "PE",
+    "state": "QLD"
+  },
+  {
+    "key": "RANKIN",
+    "name": "Rankin",
+    "abbrev": "RA",
+    "state": "QLD"
+  },
+  {
+    "key": "RYAN",
+    "name": "Ryan",
+    "abbrev": "RY",
+    "state": "QLD"
+  },
+  {
+    "key": "WIDEBAY",
+    "name": "Wide Bay",
+    "abbrev": "WI",
+    "state": "QLD"
+  },
+  {
+    "key": "WRIGHT",
+    "name": "Wright",
+    "abbrev": "WR",
+    "state": "QLD"
+  },
+  {
+    "key": "ADELAIDE",
+    "name": "Adelaide",
+    "abbrev": "AD",
+    "state": "SA"
+  },
+  {
+    "key": "BARKER",
+    "name": "Barker",
+    "abbrev": "BA",
+    "state": "SA"
+  },
+  {
+    "key": "BOOTHBY",
+    "name": "Boothby",
+    "abbrev": "BO",
+    "state": "SA"
+  },
+  {
+    "key": "GREY",
+    "name": "Grey",
+    "abbrev": "GR",
+    "state": "SA"
+  },
+  {
+    "key": "HINDMARSH",
+    "name": "Hindmarsh",
+    "abbrev": "HI",
+    "state": "SA"
+  },
+  {
+    "key": "KINGSTON",
+    "name": "Kingston",
+    "abbrev": "KI",
+    "state": "SA"
+  },
+  {
+    "key": "MAKIN",
+    "name": "Makin",
+    "abbrev": "MA",
+    "state": "SA"
+  },
+  {
+    "key": "MAYO",
+    "name": "Mayo",
+    "abbrev": "MA",
+    "state": "SA"
+  },
+  {
+    "key": "SPENCE",
+    "name": "Spence",
+    "abbrev": "SP",
+    "state": "SA"
+  },
+  {
+    "key": "STURT",
+    "name": "Sturt",
+    "abbrev": "ST",
+    "state": "SA"
+  },
+  {
+    "key": "BASS",
+    "name": "Bass",
+    "abbrev": "BA",
+    "state": "TAS"
+  },
+  {
+    "key": "BRADDON",
+    "name": "Braddon",
+    "abbrev": "BR",
+    "state": "TAS"
+  },
+  {
+    "key": "CLARK",
+    "name": "Clark",
+    "abbrev": "CL",
+    "state": "TAS"
+  },
+  {
+    "key": "FRANKLIN",
+    "name": "Franklin",
+    "abbrev": "FR",
+    "state": "TAS"
+  },
+  {
+    "key": "LYONS",
+    "name": "Lyons",
+    "abbrev": "LY",
+    "state": "TAS"
+  },
+  {
+    "key": "ASTON",
+    "name": "Aston",
+    "abbrev": "AS",
+    "state": "VIC"
+  },
+  {
+    "key": "BALLARAT",
+    "name": "Ballarat",
+    "abbrev": "BA",
+    "state": "VIC"
+  },
+  {
+    "key": "BENDIGO",
+    "name": "Bendigo",
+    "abbrev": "BE",
+    "state": "VIC"
+  },
+  {
+    "key": "BRUCE",
+    "name": "Bruce",
+    "abbrev": "BR",
+    "state": "VIC"
+  },
+  {
+    "key": "CALWELL",
+    "name": "Calwell",
+    "abbrev": "CA",
+    "state": "VIC"
+  },
+  {
+    "key": "CASEY",
+    "name": "Casey",
+    "abbrev": "CA",
+    "state": "VIC"
+  },
+  {
+    "key": "CHISHOLM",
+    "name": "Chisholm",
+    "abbrev": "CH",
+    "state": "VIC"
+  },
+  {
+    "key": "COOPER",
+    "name": "Cooper",
+    "abbrev": "CO",
+    "state": "VIC"
+  },
+  {
+    "key": "CORANGAMITE",
+    "name": "Corangamite",
+    "abbrev": "CO",
+    "state": "VIC"
+  },
+  {
+    "key": "CORIO",
+    "name": "Corio",
+    "abbrev": "CO",
+    "state": "VIC"
+  },
+  {
+    "key": "DEAKIN",
+    "name": "Deakin",
+    "abbrev": "DE",
+    "state": "VIC"
+  },
+  {
+    "key": "DUNKLEY",
+    "name": "Dunkley",
+    "abbrev": "DU",
+    "state": "VIC"
+  },
+  {
+    "key": "FLINDERS",
+    "name": "Flinders",
+    "abbrev": "FL",
+    "state": "VIC"
+  },
+  {
+    "key": "FRASER",
+    "name": "Fraser",
+    "abbrev": "FR",
+    "state": "VIC"
+  },
+  {
+    "key": "GELLIBRAND",
+    "name": "Gellibrand",
+    "abbrev": "GE",
+    "state": "VIC"
+  },
+  {
+    "key": "GIPPSLAND",
+    "name": "Gippsland",
+    "abbrev": "GI",
+    "state": "VIC"
+  },
+  {
+    "key": "GOLDSTEIN",
+    "name": "Goldstein",
+    "abbrev": "GO",
+    "state": "VIC"
+  },
+  {
+    "key": "GORTON",
+    "name": "Gorton",
+    "abbrev": "GO",
+    "state": "VIC"
+  },
+  {
+    "key": "HIGGINS",
+    "name": "Higgins",
+    "abbrev": "HI",
+    "state": "VIC"
+  },
+  {
+    "key": "HOLT",
+    "name": "Holt",
+    "abbrev": "HO",
+    "state": "VIC"
+  },
+  {
+    "key": "HOTHAM",
+    "name": "Hotham",
+    "abbrev": "HO",
+    "state": "VIC"
+  },
+  {
+    "key": "INDI",
+    "name": "Indi",
+    "abbrev": "IN",
+    "state": "VIC"
+  },
+  {
+    "key": "ISAACS",
+    "name": "Isaacs",
+    "abbrev": "IS",
+    "state": "VIC"
+  },
+  {
+    "key": "JAGAJAGA",
+    "name": "Jagajaga",
+    "abbrev": "JA",
+    "state": "VIC"
+  },
+  {
+    "key": "KOOYONG",
+    "name": "Kooyong",
+    "abbrev": "KO",
+    "state": "VIC"
+  },
+  {
+    "key": "LATROBE",
+    "name": "La Trobe",
+    "abbrev": "LA",
+    "state": "VIC"
+  },
+  {
+    "key": "LALOR",
+    "name": "Lalor",
+    "abbrev": "LA",
+    "state": "VIC"
+  },
+  {
+    "key": "MACNAMARA",
+    "name": "Macnamara",
+    "abbrev": "MA",
+    "state": "VIC"
+  },
+  {
+    "key": "MALLEE",
+    "name": "Mallee",
+    "abbrev": "MA",
+    "state": "VIC"
+  },
+  {
+    "key": "MARIBYRNONG",
+    "name": "Maribyrnong",
+    "abbrev": "MA",
+    "state": "VIC"
+  },
+  {
+    "key": "MCEWEN",
+    "name": "McEwen",
+    "abbrev": "MC",
+    "state": "VIC"
+  },
+  {
+    "key": "MELBOURNE",
+    "name": "Melbourne",
+    "abbrev": "ME",
+    "state": "VIC"
+  },
+  {
+    "key": "MENZIES",
+    "name": "Menzies",
+    "abbrev": "ME",
+    "state": "VIC"
+  },
+  {
+    "key": "MONASH",
+    "name": "Monash",
+    "abbrev": "MO",
+    "state": "VIC"
+  },
+  {
+    "key": "NICHOLLS",
+    "name": "Nicholls",
+    "abbrev": "NI",
+    "state": "VIC"
+  },
+  {
+    "key": "SCULLIN",
+    "name": "Scullin",
+    "abbrev": "SC",
+    "state": "VIC"
+  },
+  {
+    "key": "WANNON",
+    "name": "Wannon",
+    "abbrev": "WA",
+    "state": "VIC"
+  },
+  {
+    "key": "WILLS",
+    "name": "Wills",
+    "abbrev": "WI",
+    "state": "VIC"
+  },
+  {
+    "key": "BRAND",
+    "name": "Brand",
+    "abbrev": "BR",
+    "state": "WA"
+  },
+  {
+    "key": "BURT",
+    "name": "Burt",
+    "abbrev": "BU",
+    "state": "WA"
+  },
+  {
+    "key": "CANNING",
+    "name": "Canning",
+    "abbrev": "CA",
+    "state": "WA"
+  },
+  {
+    "key": "COWAN",
+    "name": "Cowan",
+    "abbrev": "CO",
+    "state": "WA"
+  },
+  {
+    "key": "CURTIN",
+    "name": "Curtin",
+    "abbrev": "CU",
+    "state": "WA"
+  },
+  {
+    "key": "DURACK",
+    "name": "Durack",
+    "abbrev": "DU",
+    "state": "WA"
+  },
+  {
+    "key": "FORREST",
+    "name": "Forrest",
+    "abbrev": "FO",
+    "state": "WA"
+  },
+  {
+    "key": "FREMANTLE",
+    "name": "Fremantle",
+    "abbrev": "FR",
+    "state": "WA"
+  },
+  {
+    "key": "HASLUCK",
+    "name": "Hasluck",
+    "abbrev": "HA",
+    "state": "WA"
+  },
+  {
+    "key": "MOORE",
+    "name": "Moore",
+    "abbrev": "MO",
+    "state": "WA"
+  },
+  {
+    "key": "OCONNOR",
+    "name": "O'Connor",
+    "abbrev": "OC",
+    "state": "WA"
+  },
+  {
+    "key": "PEARCE",
+    "name": "Pearce",
+    "abbrev": "PE",
+    "state": "WA"
+  },
+  {
+    "key": "PERTH",
+    "name": "Perth",
+    "abbrev": "PE",
+    "state": "WA"
+  },
+  {
+    "key": "STIRLING",
+    "name": "Stirling",
+    "abbrev": "ST",
+    "state": "WA"
+  },
+  {
+    "key": "SWAN",
+    "name": "Swan",
+    "abbrev": "SW",
+    "state": "WA"
+  },
+  {
+    "key": "TANGNEY",
+    "name": "Tangney",
+    "abbrev": "TA",
+    "state": "WA"
+  }
+]

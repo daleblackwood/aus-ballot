@@ -22,12 +22,19 @@ export class Utils {
 
         return result;
     }
+    
+    public static keyMatch(search: string, word: string) {
+        if (this.toKey(word) === this.toKey(search)) {
+            return true;
+        }
+        return false;
+    }
 
-    public static  wordMatch(search: string, phrase: string) {
+    public static wordMatch(search: string, phrase: string) {
         search = this.toKey(search);
         const words = phrase.split(" ");
         for (const word of words) {
-            if (this.toKey(word) === search) {
+            if (this.keyMatch(word, search)) {
                 return true;
             }
         }

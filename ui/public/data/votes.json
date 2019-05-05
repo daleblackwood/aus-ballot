@@ -1,0 +1,7060 @@
+{
+  "Bean": [
+    {
+      "party": "BTA",
+      "votes": 4214,
+      "pc": 4.5170003858851775
+    },
+    {
+      "party": "GRN",
+      "votes": 12365,
+      "pc": 13.25408395146422
+    },
+    {
+      "party": "LP",
+      "votes": 33750,
+      "pc": 36.17673541139648
+    },
+    {
+      "party": "ALP",
+      "votes": 40177,
+      "pc": 43.06585773699781
+    },
+    {
+      "party": "",
+      "votes": 2786,
+      "pc": 2.9863225142563135
+    }
+  ],
+  "Canberra": [
+    {
+      "party": "BTA",
+      "votes": 3440,
+      "pc": 4.118626007207595
+    },
+    {
+      "party": "LP",
+      "votes": 26757,
+      "pc": 32.035487231062106
+    },
+    {
+      "party": "",
+      "votes": 1909,
+      "pc": 2.2855979789997964
+    },
+    {
+      "party": "ALP",
+      "votes": 34643,
+      "pc": 41.47719789758509
+    },
+    {
+      "party": "GRN",
+      "votes": 15280,
+      "pc": 18.294362032015133
+    },
+    {
+      "party": "IND",
+      "votes": 1494,
+      "pc": 1.7887288531302756
+    }
+  ],
+  "Fenner": [
+    {
+      "party": "IND",
+      "votes": 3213,
+      "pc": 3.8658677447300027
+    },
+    {
+      "party": "ALP",
+      "votes": 37067,
+      "pc": 44.598854557705266
+    },
+    {
+      "party": "LP",
+      "votes": 26839,
+      "pc": 32.292569063432474
+    },
+    {
+      "party": "GRN",
+      "votes": 10485,
+      "pc": 12.615506786023678
+    },
+    {
+      "party": "BTA",
+      "votes": 3018,
+      "pc": 3.631244585619405
+    },
+    {
+      "party": "",
+      "votes": 2490,
+      "pc": 2.995957262489171
+    }
+  ],
+  "Banks": [
+    {
+      "candidateKey": "COLEMANDAVID",
+      "party": "LP",
+      "votes": 39423,
+      "pc": 40.85793051985739
+    },
+    {
+      "candidateKey": "GAMBIANCHRIS",
+      "party": "ALP",
+      "votes": 35890,
+      "pc": 37.196335295580795
+    },
+    {
+      "party": "AJP",
+      "votes": 1555,
+      "pc": 1.6115993698698285
+    },
+    {
+      "party": "FFP",
+      "votes": 1621,
+      "pc": 1.6800016582372939
+    },
+    {
+      "party": "IND",
+      "votes": 1341,
+      "pc": 1.389810131829865
+    },
+    {
+      "party": "",
+      "votes": 6656,
+      "pc": 6.898267142028024
+    },
+    {
+      "party": "CDPF",
+      "votes": 4777,
+      "pc": 4.9508747201724566
+    },
+    {
+      "party": "GRN",
+      "votes": 5225,
+      "pc": 5.415181162424343
+    }
+  ],
+  "Barton": [
+    {
+      "party": "",
+      "votes": 7991,
+      "pc": 8.350663057903922
+    },
+    {
+      "party": "IND",
+      "votes": 2236,
+      "pc": 2.3366390436082054
+    },
+    {
+      "candidateKey": "SUSILOSONNY",
+      "party": "CDPF",
+      "votes": 3714,
+      "pc": 3.8811616314672963
+    },
+    {
+      "party": "GRN",
+      "votes": 7741,
+      "pc": 8.089410928699069
+    },
+    {
+      "party": "LP",
+      "votes": 31038,
+      "pc": 32.434974345040914
+    },
+    {
+      "candidateKey": "BURNEYLINDA",
+      "party": "ALP",
+      "votes": 41878,
+      "pc": 43.76286666736334
+    },
+    {
+      "party": "SOL",
+      "votes": 1095,
+      "pc": 1.1442843259172564
+    }
+  ],
+  "Bennelong": [
+    {
+      "candidateKey": "WORSLEYJULIE",
+      "party": "CDPF",
+      "votes": 5903,
+      "pc": 6.074732693237834
+    },
+    {
+      "party": "GRN",
+      "votes": 8424,
+      "pc": 8.669074742984161
+    },
+    {
+      "candidateKey": "ALEXANDERJOHN",
+      "party": "LP",
+      "votes": 46497,
+      "pc": 47.84971133956964
+    },
+    {
+      "party": "ALP",
+      "votes": 26270,
+      "pc": 27.034258487439928
+    },
+    {
+      "party": "",
+      "votes": 4942,
+      "pc": 5.085774855155239
+    },
+    {
+      "party": "IND",
+      "votes": 2885,
+      "pc": 2.9689316991345334
+    },
+    {
+      "party": "ARTS",
+      "votes": 992,
+      "pc": 1.0208597038271947
+    },
+    {
+      "party": "PIR",
+      "votes": 1260,
+      "pc": 1.2966564786514774
+    }
+  ],
+  "Berowra": [
+    {
+      "party": "",
+      "votes": 4082,
+      "pc": 4.16110255965912
+    },
+    {
+      "candidateKey": "GALLAGHERMICK",
+      "party": "IND",
+      "votes": 2859,
+      "pc": 2.914402797174283
+    },
+    {
+      "candidateKey": "WOODWARDROGER",
+      "party": "IND",
+      "votes": 826,
+      "pc": 0.8420065444092193
+    },
+    {
+      "party": "GRN",
+      "votes": 10815,
+      "pc": 11.024577212815625
+    },
+    {
+      "party": "CDPF",
+      "votes": 5213,
+      "pc": 5.314019510902252
+    },
+    {
+      "candidateKey": "LEESERJULIAN",
+      "party": "LP",
+      "votes": 53678,
+      "pc": 54.71819284600251
+    },
+    {
+      "party": "ALP",
+      "votes": 18693,
+      "pc": 19.055240114578133
+    },
+    {
+      "candidateKey": "CLARKEBRENDANMICHAEL",
+      "party": "FUT",
+      "votes": 1933,
+      "pc": 1.970458414458863
+    }
+  ],
+  "Blaxland": [
+    {
+      "party": "",
+      "votes": 10429,
+      "pc": 11.547489868680382
+    },
+    {
+      "party": "SEP",
+      "votes": 980,
+      "pc": 1.0851030847930554
+    },
+    {
+      "party": "CDPF",
+      "votes": 4810,
+      "pc": 5.325863099851628
+    },
+    {
+      "party": "GRN",
+      "votes": 3698,
+      "pc": 4.094603273025223
+    },
+    {
+      "party": "LP",
+      "votes": 19825,
+      "pc": 21.951192506145226
+    },
+    {
+      "candidateKey": "CLAREJASON",
+      "party": "ALP",
+      "votes": 50572,
+      "pc": 55.99574816750449
+    }
+  ],
+  "Bradfield": [
+    {
+      "party": "",
+      "votes": 3446,
+      "pc": 3.549649773382777
+    },
+    {
+      "party": "IND",
+      "votes": 4248,
+      "pc": 4.375772558714462
+    },
+    {
+      "party": "CDPF",
+      "votes": 3497,
+      "pc": 3.6021837659662133
+    },
+    {
+      "party": "GRN",
+      "votes": 10936,
+      "pc": 11.264936135146272
+    },
+    {
+      "candidateKey": "FLETCHERPAUL",
+      "party": "LP",
+      "votes": 57231,
+      "pc": 58.952410383189125
+    },
+    {
+      "party": "ALA",
+      "votes": 1796,
+      "pc": 1.8500206015657188
+    },
+    {
+      "party": "ALP",
+      "votes": 15926,
+      "pc": 16.405026782035435
+    }
+  ],
+  "Calare": [
+    {
+      "candidateKey": "GEEANDREW",
+      "party": "NP",
+      "votes": 47717,
+      "pc": 45.114779517434386
+    },
+    {
+      "party": "",
+      "votes": 5490,
+      "pc": 5.190605854322668
+    },
+    {
+      "party": "IND",
+      "votes": 3836,
+      "pc": 3.62680583919522
+    },
+    {
+      "party": "XEN",
+      "votes": 5412,
+      "pc": 5.116859541638303
+    },
+    {
+      "party": "CDPF",
+      "votes": 2386,
+      "pc": 2.2558807957038045
+    },
+    {
+      "party": "GRN",
+      "votes": 7238,
+      "pc": 6.84327963089025
+    },
+    {
+      "candidateKey": "JENNINGSJESS",
+      "party": "ALP",
+      "votes": 27132,
+      "pc": 25.652371227592468
+    },
+    {
+      "party": "LDP",
+      "votes": 6557,
+      "pc": 6.199417593222903
+    }
+  ],
+  "Chifley": [
+    {
+      "party": "",
+      "votes": 7785,
+      "pc": 8.339224885918119
+    },
+    {
+      "candidateKey": "KHANAMMARAZIZ",
+      "party": "IND",
+      "votes": 2194,
+      "pc": 2.3501938856396083
+    },
+    {
+      "candidateKey": "GREENJOSH",
+      "party": "CDPF",
+      "votes": 7820,
+      "pc": 8.37671658418493
+    },
+    {
+      "party": "GRN",
+      "votes": 3883,
+      "pc": 4.159436124858067
+    },
+    {
+      "party": "LP",
+      "votes": 19394,
+      "pc": 20.774685605330248
+    },
+    {
+      "candidateKey": "HUSICED",
+      "party": "ALP",
+      "votes": 52278,
+      "pc": 55.99974291406903
+    }
+  ],
+  "Cook": [
+    {
+      "party": "",
+      "votes": 4983,
+      "pc": 5.170803586252698
+    },
+    {
+      "party": "IND",
+      "votes": 3153,
+      "pc": 3.2718329736011955
+    },
+    {
+      "party": "CDPF",
+      "votes": 4430,
+      "pc": 4.596961647019757
+    },
+    {
+      "party": "GRN",
+      "votes": 6198,
+      "pc": 6.4315955503901705
+    },
+    {
+      "candidateKey": "MORRISONSCOTT",
+      "party": "LP",
+      "votes": 53321,
+      "pc": 55.330607670596045
+    },
+    {
+      "party": "ALP",
+      "votes": 24283,
+      "pc": 25.19819857214013
+    }
+  ],
+  "Cowper": [
+    {
+      "party": "",
+      "votes": 5613,
+      "pc": 5.146094817232496
+    },
+    {
+      "party": "CEC",
+      "votes": 726,
+      "pc": 0.6656092708552988
+    },
+    {
+      "party": "CDPF",
+      "votes": 3538,
+      "pc": 3.243699173947723
+    },
+    {
+      "party": "GRN",
+      "votes": 6901,
+      "pc": 6.326955341835284
+    },
+    {
+      "party": "ALP",
+      "votes": 14079,
+      "pc": 12.907869041834369
+    },
+    {
+      "party": "NP",
+      "votes": 47559,
+      "pc": 43.60290814408699
+    },
+    {
+      "party": "IND",
+      "votes": 3457,
+      "pc": 3.1694369825713054
+    },
+    {
+      "candidateKey": "OAKESHOTTROBERT",
+      "party": "IND",
+      "votes": 27200,
+      "pc": 24.937427227636537
+    }
+  ],
+  "Cunningham": [
+    {
+      "party": "",
+      "votes": 4933,
+      "pc": 4.843064296022855
+    },
+    {
+      "candidateKey": "FLANAGANJOHN",
+      "party": "NCP",
+      "votes": 1582,
+      "pc": 1.5531578585664216
+    },
+    {
+      "party": "GRN",
+      "votes": 14200,
+      "pc": 13.941113521898348
+    },
+    {
+      "party": "LP",
+      "votes": 28263,
+      "pc": 27.747724751367116
+    },
+    {
+      "party": "CDPF",
+      "votes": 3939,
+      "pc": 3.8671863494899714
+    },
+    {
+      "candidateKey": "BIRDSHARON",
+      "party": "ALP",
+      "votes": 46414,
+      "pc": 45.567805845449996
+    },
+    {
+      "party": "FUT",
+      "votes": 2526,
+      "pc": 2.479947377205298
+    }
+  ],
+  "Dobell": [
+    {
+      "party": "",
+      "votes": 5956,
+      "pc": 5.803371333917958
+    },
+    {
+      "party": "IND",
+      "votes": 976,
+      "pc": 0.9509889895741986
+    },
+    {
+      "candidateKey": "STEPHENSONGREGORYFRANCIS",
+      "party": "IND",
+      "votes": 1176,
+      "pc": 1.145863782519731
+    },
+    {
+      "party": "PHON",
+      "votes": 8326,
+      "pc": 8.112637630322519
+    },
+    {
+      "party": "CDPF",
+      "votes": 2549,
+      "pc": 2.4836792360908118
+    },
+    {
+      "party": "GRN",
+      "votes": 5607,
+      "pc": 5.463314820228003
+    },
+    {
+      "party": "LP",
+      "votes": 36586,
+      "pc": 35.648445873526256
+    },
+    {
+      "candidateKey": "MCBRIDEEMMA",
+      "party": "ALP",
+      "votes": 41454,
+      "pc": 40.39169833382052
+    }
+  ],
+  "Eden-Monaro": [
+    {
+      "party": "",
+      "votes": 6399,
+      "pc": 6.343934647261768
+    },
+    {
+      "party": "IND",
+      "votes": 981,
+      "pc": 0.972558194868541
+    },
+    {
+      "party": "ADVP",
+      "votes": 1448,
+      "pc": 1.4355395169925051
+    },
+    {
+      "party": "IND",
+      "votes": 1683,
+      "pc": 1.6685172700955704
+    },
+    {
+      "party": "CDPF",
+      "votes": 1763,
+      "pc": 1.7478288456200184
+    },
+    {
+      "party": "GRN",
+      "votes": 7177,
+      "pc": 7.115239719237023
+    },
+    {
+      "party": "LP",
+      "votes": 39049,
+      "pc": 38.71297140817702
+    },
+    {
+      "candidateKey": "KELLYMIKE",
+      "party": "ALP",
+      "votes": 39565,
+      "pc": 39.22453107030971
+    },
+    {
+      "party": "AJP",
+      "votes": 1986,
+      "pc": 1.9689098623944166
+    },
+    {
+      "party": "IND",
+      "votes": 817,
+      "pc": 0.809969465043423
+    }
+  ],
+  "Farrer": [
+    {
+      "party": "",
+      "votes": 6602,
+      "pc": 6.398464833641852
+    },
+    {
+      "party": "MAP",
+      "votes": 1783,
+      "pc": 1.7280313235963987
+    },
+    {
+      "party": "CDPF",
+      "votes": 3474,
+      "pc": 3.366898944573129
+    },
+    {
+      "party": "GRN",
+      "votes": 7936,
+      "pc": 7.691338521627043
+    },
+    {
+      "candidateKey": "LEYSUSSAN",
+      "party": "LP",
+      "votes": 55893,
+      "pc": 54.16985685349047
+    },
+    {
+      "party": "ALA",
+      "votes": 5874,
+      "pc": 5.692908578129694
+    },
+    {
+      "party": "ALP",
+      "votes": 17486,
+      "pc": 16.946918521820876
+    },
+    {
+      "candidateKey": "MILLSBRIAN",
+      "party": "IND",
+      "votes": 4133,
+      "pc": 4.0055824231205355
+    }
+  ],
+  "Fowler": [
+    {
+      "party": "",
+      "votes": 9850,
+      "pc": 10.410061297822871
+    },
+    {
+      "party": "CDPF",
+      "votes": 4792,
+      "pc": 5.064468399915452
+    },
+    {
+      "party": "GRN",
+      "votes": 5264,
+      "pc": 5.5633058549989425
+    },
+    {
+      "party": "LP",
+      "votes": 21812,
+      "pc": 23.052208835341364
+    },
+    {
+      "candidateKey": "HAYESCHRIS",
+      "party": "ALP",
+      "votes": 51559,
+      "pc": 54.49059395476643
+    },
+    {
+      "party": "SMK",
+      "votes": 1343,
+      "pc": 1.4193616571549357
+    }
+  ],
+  "Gilmore": [
+    {
+      "candidateKey": "PHILLIPSFIONA",
+      "party": "ALP",
+      "votes": 40476,
+      "pc": 37.61325515049577
+    },
+    {
+      "party": "",
+      "votes": 4442,
+      "pc": 4.127830797966751
+    },
+    {
+      "party": "CDPF",
+      "votes": 5160,
+      "pc": 4.795048833297711
+    },
+    {
+      "party": "LP",
+      "votes": 46713,
+      "pc": 43.40913103678992
+    },
+    {
+      "candidateKey": "MCCALLUMCARMELMARY",
+      "party": "GRN",
+      "votes": 10820,
+      "pc": 10.054734181449852
+    }
+  ],
+  "Grayndler": [
+    {
+      "party": "",
+      "votes": 6343,
+      "pc": 6.728902561926484
+    },
+    {
+      "party": "SEP",
+      "votes": 333,
+      "pc": 0.3532594282077123
+    },
+    {
+      "candidateKey": "CASEYJIM",
+      "party": "GRN",
+      "votes": 19555,
+      "pc": 20.74470906487031
+    },
+    {
+      "party": "DRF",
+      "votes": 1029,
+      "pc": 1.0916034583355434
+    },
+    {
+      "party": "CDPF",
+      "votes": 1085,
+      "pc": 1.1510104492653688
+    },
+    {
+      "party": "AJP",
+      "votes": 1831,
+      "pc": 1.9423964355805443
+    },
+    {
+      "party": "FUT",
+      "votes": 1157,
+      "pc": 1.2273908661751445
+    },
+    {
+      "party": "ASXP",
+      "votes": 934,
+      "pc": 0.9908237415795894
+    },
+    {
+      "candidateKey": "ALBANESEANTHONY",
+      "party": "ALP",
+      "votes": 40503,
+      "pc": 42.967167029120034
+    },
+    {
+      "party": "LP",
+      "votes": 20498,
+      "pc": 21.745080358563623
+    },
+    {
+      "party": "REP",
+      "votes": 537,
+      "pc": 0.5696706094520766
+    },
+    {
+      "party": "CYC",
+      "votes": 460,
+      "pc": 0.48798599692356653
+    }
+  ],
+  "Greenway": [
+    {
+      "party": "",
+      "votes": 7282,
+      "pc": 7.556685518601151
+    },
+    {
+      "party": "IND",
+      "votes": 1749,
+      "pc": 1.8149743164011831
+    },
+    {
+      "party": "CDPF",
+      "votes": 4484,
+      "pc": 4.653141700824989
+    },
+    {
+      "party": "GRN",
+      "votes": 3351,
+      "pc": 3.4774036216468636
+    },
+    {
+      "party": "LP",
+      "votes": 30657,
+      "pc": 31.8134177346547
+    },
+    {
+      "candidateKey": "ROWLANDMICHELLE",
+      "party": "ALP",
+      "votes": 43722,
+      "pc": 45.371244746536604
+    },
+    {
+      "party": "LDP",
+      "votes": 2923,
+      "pc": 3.0332589633165568
+    },
+    {
+      "party": "FUT",
+      "votes": 924,
+      "pc": 0.9588543558345872
+    },
+    {
+      "party": "FFP",
+      "votes": 1273,
+      "pc": 1.3210190421833654
+    }
+  ],
+  "Hughes": [
+    {
+      "party": "",
+      "votes": 4314,
+      "pc": 4.3980018350494445
+    },
+    {
+      "party": "CDPF",
+      "votes": 4490,
+      "pc": 4.57742889183403
+    },
+    {
+      "party": "GRN",
+      "votes": 6912,
+      "pc": 7.046589866449179
+    },
+    {
+      "candidateKey": "KELLYCRAIG",
+      "party": "LP",
+      "votes": 48734,
+      "pc": 49.68294423488633
+    },
+    {
+      "candidateKey": "STEINWALLDIEDREE",
+      "party": "ALP",
+      "votes": 29895,
+      "pc": 30.477112855540827
+    },
+    {
+      "party": "AJP",
+      "votes": 3745,
+      "pc": 3.8179223162401876
+    }
+  ],
+  "Hume": [
+    {
+      "party": "",
+      "votes": 5311,
+      "pc": 5.298336974630632
+    },
+    {
+      "party": "CEC",
+      "votes": 1530,
+      "pc": 1.5263520186753659
+    },
+    {
+      "party": "CDPF",
+      "votes": 3533,
+      "pc": 3.52457626273207
+    },
+    {
+      "party": "GRN",
+      "votes": 6274,
+      "pc": 6.259040892267481
+    },
+    {
+      "candidateKey": "TAYLORANGUS",
+      "party": "LP",
+      "votes": 51103,
+      "pc": 50.98115503945571
+    },
+    {
+      "party": "ALP",
+      "votes": 30221,
+      "pc": 30.14894402378316
+    },
+    {
+      "party": "BTA",
+      "votes": 2267,
+      "pc": 2.261594788455591
+    }
+  ],
+  "Hunter": [
+    {
+      "party": "",
+      "votes": 8249,
+      "pc": 7.8775724585780456
+    },
+    {
+      "candidateKey": "STRETTONRICHARD",
+      "party": "CDPF",
+      "votes": 3260,
+      "pc": 3.113212051759538
+    },
+    {
+      "party": "GRN",
+      "votes": 6842,
+      "pc": 6.533925416606981
+    },
+    {
+      "candidateKey": "FITZGIBBONJOEL",
+      "party": "ALP",
+      "votes": 49962,
+      "pc": 47.71236212576995
+    },
+    {
+      "party": "IND",
+      "votes": 4740,
+      "pc": 4.526572124337488
+    },
+    {
+      "party": "IND",
+      "votes": 1934,
+      "pc": 1.846917824571456
+    },
+    {
+      "party": "NP",
+      "votes": 25409,
+      "pc": 24.264909516306165
+    },
+    {
+      "party": "IND",
+      "votes": 3216,
+      "pc": 3.0711932387910044
+    },
+    {
+      "party": "IND",
+      "votes": 1103,
+      "pc": 1.0533352432793774
+    }
+  ],
+  "Kingsford Smith": [
+    {
+      "party": "",
+      "votes": 4849,
+      "pc": 4.999845333718281
+    },
+    {
+      "party": "CDPF",
+      "votes": 2144,
+      "pc": 2.210696720043719
+    },
+    {
+      "party": "GRN",
+      "votes": 9698,
+      "pc": 9.999690667436562
+    },
+    {
+      "party": "LP",
+      "votes": 34591,
+      "pc": 35.667075673056104
+    },
+    {
+      "party": "FUT",
+      "votes": 2059,
+      "pc": 2.1230524937360156
+    },
+    {
+      "candidateKey": "THISTLETHWAITEMATT",
+      "party": "ALP",
+      "votes": 43642,
+      "pc": 44.99963911200932
+    }
+  ],
+  "Lindsay": [
+    {
+      "party": "",
+      "votes": 11913,
+      "pc": 11.773018806391999
+    },
+    {
+      "party": "",
+      "votes": 2128,
+      "pc": 2.10299538487385
+    },
+    {
+      "candidateKey": "SALEAMJIM",
+      "party": "AFN",
+      "votes": 1068,
+      "pc": 1.0554506912806727
+    },
+    {
+      "party": "XEN",
+      "votes": 1850,
+      "pc": 1.8282619652333754
+    },
+    {
+      "party": "CDPF",
+      "votes": 2701,
+      "pc": 2.669262469240728
+    },
+    {
+      "party": "GRN",
+      "votes": 3199,
+      "pc": 3.1614108252873336
+    },
+    {
+      "party": "LP",
+      "votes": 35081,
+      "pc": 34.66878810937948
+    },
+    {
+      "party": "ALA",
+      "votes": 2110,
+      "pc": 2.0852068900769845
+    },
+    {
+      "party": "ALP",
+      "votes": 36675,
+      "pc": 36.24405814861299
+    },
+    {
+      "party": "AJP",
+      "votes": 1454,
+      "pc": 1.4369150797023393
+    },
+    {
+      "party": "FFP",
+      "votes": 1513,
+      "pc": 1.4952218126476198
+    },
+    {
+      "party": "DHJP",
+      "votes": 1497,
+      "pc": 1.4794098172726284
+    }
+  ],
+  "Lyne": [
+    {
+      "party": "",
+      "votes": 4797,
+      "pc": 4.59258408248844
+    },
+    {
+      "party": "IND",
+      "votes": 9227,
+      "pc": 8.833807239758356
+    },
+    {
+      "party": "GRN",
+      "votes": 9406,
+      "pc": 9.005179462140141
+    },
+    {
+      "party": "CDPF",
+      "votes": 3026,
+      "pc": 2.8970522062976896
+    },
+    {
+      "party": "ALP",
+      "votes": 26470,
+      "pc": 25.342026404725658
+    },
+    {
+      "candidateKey": "GILLESPIEDAVID",
+      "party": "NP",
+      "votes": 49399,
+      "pc": 47.293946443787036
+    },
+    {
+      "party": "IND",
+      "votes": 2126,
+      "pc": 2.035404160802673
+    }
+  ],
+  "Macarthur": [
+    {
+      "party": "",
+      "votes": 6379,
+      "pc": 6.624710512924365
+    },
+    {
+      "party": "XEN",
+      "votes": 3316,
+      "pc": 3.4437278665711233
+    },
+    {
+      "candidateKey": "GENTJAMES",
+      "party": "CDPF",
+      "votes": 3875,
+      "pc": 4.024259795827232
+    },
+    {
+      "party": "GRN",
+      "votes": 3836,
+      "pc": 3.983757568204713
+    },
+    {
+      "party": "LP",
+      "votes": 32235,
+      "pc": 33.47664890799763
+    },
+    {
+      "candidateKey": "FREELANDERMIKE",
+      "party": "ALP",
+      "votes": 46650,
+      "pc": 48.44689534847493
+    }
+  ],
+  "Mackellar": [
+    {
+      "party": "",
+      "votes": 5223,
+      "pc": 5.2632639693656476
+    },
+    {
+      "party": "IND",
+      "votes": 6797,
+      "pc": 6.849397893888246
+    },
+    {
+      "party": "IND",
+      "votes": 2669,
+      "pc": 2.689575250667607
+    },
+    {
+      "party": "CDPF",
+      "votes": 2411,
+      "pc": 2.4295863354663174
+    },
+    {
+      "party": "GRN",
+      "votes": 13204,
+      "pc": 13.30578928805361
+    },
+    {
+      "candidateKey": "FALINSKIJASON",
+      "party": "LP",
+      "votes": 48103,
+      "pc": 48.47382475940948
+    },
+    {
+      "party": "IND",
+      "votes": 4542,
+      "pc": 4.57701415831108
+    },
+    {
+      "party": "ALP",
+      "votes": 16286,
+      "pc": 16.41154834483801
+    }
+  ],
+  "Macquarie": [
+    {
+      "party": "",
+      "votes": 6389,
+      "pc": 6.52998231825104
+    },
+    {
+      "party": "CDPF",
+      "votes": 3567,
+      "pc": 3.645710898294171
+    },
+    {
+      "party": "GRN",
+      "votes": 10257,
+      "pc": 10.48333520712176
+    },
+    {
+      "party": "LP",
+      "votes": 34946,
+      "pc": 35.7171328992958
+    },
+    {
+      "party": "ALA",
+      "votes": 1693,
+      "pc": 1.730358438691346
+    },
+    {
+      "candidateKey": "TEMPLEMANSUSAN",
+      "party": "ALP",
+      "votes": 32480,
+      "pc": 33.196717122678635
+    },
+    {
+      "party": "LDP",
+      "votes": 752,
+      "pc": 0.7685939432344314
+    },
+    {
+      "party": "AJP",
+      "votes": 2554,
+      "pc": 2.610357621038215
+    },
+    {
+      "party": "ASP",
+      "votes": 3550,
+      "pc": 3.6283357692582863
+    },
+    {
+      "party": "DHJP",
+      "votes": 1653,
+      "pc": 1.689475782136323
+    }
+  ],
+  "McMahon": [
+    {
+      "party": "LP",
+      "votes": 25855,
+      "pc": 27.079253029461974
+    },
+    {
+      "party": "CDPF",
+      "votes": 6198,
+      "pc": 6.491479801841242
+    },
+    {
+      "party": "",
+      "votes": 9441,
+      "pc": 9.888038207354496
+    },
+    {
+      "party": "AFN",
+      "votes": 1797,
+      "pc": 1.8820892552288984
+    },
+    {
+      "candidateKey": "ONEILLASTRID",
+      "party": "GRN",
+      "votes": 4665,
+      "pc": 4.885891138365504
+    },
+    {
+      "candidateKey": "BOWENCHRIS",
+      "party": "ALP",
+      "votes": 45979,
+      "pc": 48.15613904628243
+    },
+    {
+      "party": "IND",
+      "votes": 1544,
+      "pc": 1.617109521465453
+    }
+  ],
+  "Mitchell": [
+    {
+      "party": "",
+      "votes": 4308,
+      "pc": 4.510711368919231
+    },
+    {
+      "party": "CDPF",
+      "votes": 6303,
+      "pc": 6.599585366364417
+    },
+    {
+      "party": "GRN",
+      "votes": 7287,
+      "pc": 7.6298871275103135
+    },
+    {
+      "candidateKey": "HAWKEALEX",
+      "party": "LP",
+      "votes": 55168,
+      "pc": 57.76391012083011
+    },
+    {
+      "party": "ALP",
+      "votes": 22440,
+      "pc": 23.495906016375933
+    }
+  ],
+  "New England": [
+    {
+      "party": "",
+      "votes": 7196,
+      "pc": 7.041095890410959
+    },
+    {
+      "candidateKey": "TABERROB",
+      "party": "IND",
+      "votes": 2661,
+      "pc": 2.6037181996086107
+    },
+    {
+      "party": "IND",
+      "votes": 856,
+      "pc": 0.837573385518591
+    },
+    {
+      "party": "GRN",
+      "votes": 2775,
+      "pc": 2.7152641878669272
+    },
+    {
+      "party": "CDPF",
+      "votes": 1317,
+      "pc": 1.2886497064579256
+    },
+    {
+      "party": "CM",
+      "votes": 1337,
+      "pc": 1.3082191780821917
+    },
+    {
+      "party": "ALP",
+      "votes": 6662,
+      "pc": 6.518590998043053
+    },
+    {
+      "party": "LDP",
+      "votes": 1151,
+      "pc": 1.1262230919765166
+    },
+    {
+      "party": "SOL",
+      "votes": 809,
+      "pc": 0.7915851272015656
+    },
+    {
+      "candidateKey": "JOYCEBARNABY",
+      "party": "NP",
+      "votes": 49673,
+      "pc": 48.60371819960861
+    },
+    {
+      "party": "IND",
+      "votes": 27763,
+      "pc": 27.165362035225048
+    }
+  ],
+  "Newcastle": [
+    {
+      "party": "",
+      "votes": 4939,
+      "pc": 4.741106226121681
+    },
+    {
+      "party": "IND",
+      "votes": 2735,
+      "pc": 2.6254151707719773
+    },
+    {
+      "candidateKey": "MACKENZIEJOHN",
+      "party": "GRN",
+      "votes": 13558,
+      "pc": 13.01476376063125
+    },
+    {
+      "party": "LP",
+      "votes": 29689,
+      "pc": 28.499433639871754
+    },
+    {
+      "party": "CDPF",
+      "votes": 2132,
+      "pc": 2.0465759210551577
+    },
+    {
+      "candidateKey": "CLAYDONSHARON",
+      "party": "ALP",
+      "votes": 46762,
+      "pc": 44.88835985946589
+    },
+    {
+      "party": "DLP",
+      "votes": 968,
+      "pc": 0.9292145832933361
+    },
+    {
+      "party": "DRF",
+      "votes": 3391,
+      "pc": 3.2551308387889493
+    }
+  ],
+  "North Sydney": [
+    {
+      "party": "",
+      "votes": 4623,
+      "pc": 4.7610710607621005
+    },
+    {
+      "party": "CDPF",
+      "votes": 1894,
+      "pc": 1.9505664263645726
+    },
+    {
+      "candidateKey": "CHESTERFIELDEVANSARTHUR",
+      "party": "GRN",
+      "votes": 12036,
+      "pc": 12.39546858908342
+    },
+    {
+      "candidateKey": "ZIMMERMANTRENT",
+      "party": "LP",
+      "votes": 47614,
+      "pc": 49.03604531410917
+    },
+    {
+      "party": "ALP",
+      "votes": 15537,
+      "pc": 16.001029866117406
+    },
+    {
+      "party": "LDP",
+      "votes": 1289,
+      "pc": 1.3274974253347065
+    },
+    {
+      "party": "FUT",
+      "votes": 1629,
+      "pc": 1.6776519052523173
+    },
+    {
+      "party": "FFP",
+      "votes": 649,
+      "pc": 0.6683831101956745
+    },
+    {
+      "party": "IND",
+      "votes": 11829,
+      "pc": 12.18228630278064
+    }
+  ],
+  "Page": [
+    {
+      "party": "GRN",
+      "votes": 11649,
+      "pc": 10.707490371623173
+    },
+    {
+      "party": "ALP",
+      "votes": 36471,
+      "pc": 33.5232965356227
+    },
+    {
+      "party": "LDP",
+      "votes": 4199,
+      "pc": 3.8596233213533964
+    },
+    {
+      "party": "AJP",
+      "votes": 2984,
+      "pc": 2.7428235272489956
+    },
+    {
+      "candidateKey": "HOGANKEVIN",
+      "party": "NP",
+      "votes": 46327,
+      "pc": 42.582702931254765
+    },
+    {
+      "party": "",
+      "votes": 4181,
+      "pc": 3.8430781392185156
+    },
+    {
+      "party": "CDPF",
+      "votes": 2982,
+      "pc": 2.7409851736784536
+    }
+  ],
+  "Parkes": [
+    {
+      "party": "",
+      "votes": 5170,
+      "pc": 5.237193188609864
+    },
+    {
+      "party": "CDPF",
+      "votes": 3950,
+      "pc": 4.00133715570773
+    },
+    {
+      "party": "GRN",
+      "votes": 5851,
+      "pc": 5.927043974188843
+    },
+    {
+      "party": "ALP",
+      "votes": 26728,
+      "pc": 27.07537708803955
+    },
+    {
+      "party": "SOL",
+      "votes": 2149,
+      "pc": 2.1769300120546613
+    },
+    {
+      "candidateKey": "COULTONMARK",
+      "party": "NP",
+      "votes": 54869,
+      "pc": 55.58211858139936
+    }
+  ],
+  "Parramatta": [
+    {
+      "party": "",
+      "votes": 8367,
+      "pc": 9.256657336622819
+    },
+    {
+      "party": "IND",
+      "votes": 2048,
+      "pc": 2.2657624268439744
+    },
+    {
+      "party": "LP",
+      "votes": 28194,
+      "pc": 31.191848565644047
+    },
+    {
+      "candidateKey": "BRADLEYPHIL",
+      "party": "GRN",
+      "votes": 5640,
+      "pc": 6.239697308300789
+    },
+    {
+      "party": "CDPF",
+      "votes": 4347,
+      "pc": 4.809213510493533
+    },
+    {
+      "candidateKey": "OWENSJULIE",
+      "party": "ALP",
+      "votes": 38109,
+      "pc": 42.16110367411964
+    },
+    {
+      "party": "LDP",
+      "votes": 2013,
+      "pc": 2.22704090099459
+    },
+    {
+      "party": "FFP",
+      "votes": 1202,
+      "pc": 1.329807830598856
+    },
+    {
+      "party": "SOL",
+      "votes": 469,
+      "pc": 0.51886844638175
+    }
+  ],
+  "Paterson": [
+    {
+      "candidateKey": "DAVISJAN",
+      "party": "CEC",
+      "votes": 533,
+      "pc": 0.5066010208058093
+    },
+    {
+      "party": "",
+      "votes": 5143,
+      "pc": 4.888272138844798
+    },
+    {
+      "party": "RUAP",
+      "votes": 1007,
+      "pc": 0.9571242550683864
+    },
+    {
+      "party": "CDPF",
+      "votes": 2058,
+      "pc": 1.956069232304607
+    },
+    {
+      "party": "LP",
+      "votes": 31527,
+      "pc": 29.965497904211535
+    },
+    {
+      "party": "GRN",
+      "votes": 5797,
+      "pc": 5.509880145612152
+    },
+    {
+      "candidateKey": "BURSTONGRAHAM",
+      "party": "PHON",
+      "votes": 13056,
+      "pc": 12.409348832346428
+    },
+    {
+      "candidateKey": "SWANSONMERYL",
+      "party": "ALP",
+      "votes": 46090,
+      "pc": 43.807206470806285
+    }
+  ],
+  "Reid": [
+    {
+      "party": "",
+      "votes": 4748,
+      "pc": 4.979810163091929
+    },
+    {
+      "party": "CDPF",
+      "votes": 3713,
+      "pc": 3.8942786721904663
+    },
+    {
+      "party": "GRN",
+      "votes": 7673,
+      "pc": 8.047616550422152
+    },
+    {
+      "party": "LP",
+      "votes": 44212,
+      "pc": 46.37054905868163
+    },
+    {
+      "party": "ALP",
+      "votes": 32918,
+      "pc": 34.525145524149146
+    },
+    {
+      "party": "FFP",
+      "votes": 2081,
+      "pc": 2.182600031464681
+    }
+  ],
+  "Richmond": [
+    {
+      "party": "",
+      "votes": 3748,
+      "pc": 3.6692577291328097
+    },
+    {
+      "party": "PHON",
+      "votes": 6160,
+      "pc": 6.030583674348482
+    },
+    {
+      "party": "GRN",
+      "votes": 20108,
+      "pc": 19.6855481369804
+    },
+    {
+      "party": "CDPF",
+      "votes": 1484,
+      "pc": 1.452822430638498
+    },
+    {
+      "candidateKey": "ELLIOTJUSTINE",
+      "party": "ALP",
+      "votes": 30551,
+      "pc": 29.909149648542282
+    },
+    {
+      "party": "AJP",
+      "votes": 3089,
+      "pc": 3.0241027548802695
+    },
+    {
+      "candidateKey": "FRASERMATTHEW",
+      "party": "NP",
+      "votes": 37006,
+      "pc": 36.22853562547726
+    }
+  ],
+  "Riverina": [
+    {
+      "candidateKey": "FOLEYRICHARD",
+      "party": "IND",
+      "votes": 6058,
+      "pc": 5.841626166782381
+    },
+    {
+      "party": "",
+      "votes": 4784,
+      "pc": 4.613129676772352
+    },
+    {
+      "party": "GRN",
+      "votes": 4444,
+      "pc": 4.285273470647226
+    },
+    {
+      "party": "CDPF",
+      "votes": 3207,
+      "pc": 3.0924554501272854
+    },
+    {
+      "candidateKey": "MCCORMACKMICHAEL",
+      "party": "NP",
+      "votes": 56581,
+      "pc": 54.56009411401682
+    },
+    {
+      "party": "ALP",
+      "votes": 25244,
+      "pc": 24.342359021831367
+    },
+    {
+      "party": "FFP",
+      "votes": 3386,
+      "pc": 3.2650620998225723
+    }
+  ],
+  "Robertson": [
+    {
+      "party": "",
+      "votes": 5042,
+      "pc": 5.025967164744465
+    },
+    {
+      "party": "IND",
+      "votes": 2726,
+      "pc": 2.717331711839233
+    },
+    {
+      "party": "CDPF",
+      "votes": 2539,
+      "pc": 2.530926344959579
+    },
+    {
+      "party": "GRN",
+      "votes": 7954,
+      "pc": 7.92870742331961
+    },
+    {
+      "candidateKey": "WICKSLUCY",
+      "party": "LP",
+      "votes": 42573,
+      "pc": 42.43762397950538
+    },
+    {
+      "candidateKey": "CHARLTONANNE",
+      "party": "ALP",
+      "votes": 36611,
+      "pc": 36.49458228251877
+    },
+    {
+      "party": "LDP",
+      "votes": 1347,
+      "pc": 1.342716733619753
+    },
+    {
+      "party": "AAPP",
+      "votes": 1527,
+      "pc": 1.5221443594932167
+    }
+  ],
+  "Shortland": [
+    {
+      "party": "",
+      "votes": 4845,
+      "pc": 4.709232817861066
+    },
+    {
+      "party": "CDPF",
+      "votes": 4081,
+      "pc": 3.9666417192344703
+    },
+    {
+      "party": "LP",
+      "votes": 34514,
+      "pc": 33.546844473819775
+    },
+    {
+      "party": "GRN",
+      "votes": 9279,
+      "pc": 9.018982727953112
+    },
+    {
+      "candidateKey": "CONROYPAT",
+      "party": "ALP",
+      "votes": 50164,
+      "pc": 48.75829826113158
+    }
+  ],
+  "Sydney": [
+    {
+      "party": "",
+      "votes": 5603,
+      "pc": 5.992321101996727
+    },
+    {
+      "party": "SAL",
+      "votes": 500,
+      "pc": 0.5347422007850016
+    },
+    {
+      "party": "GRN",
+      "votes": 16537,
+      "pc": 17.686063548763144
+    },
+    {
+      "party": "LP",
+      "votes": 25622,
+      "pc": 27.40232933702662
+    },
+    {
+      "party": "CDPF",
+      "votes": 1489,
+      "pc": 1.5924622739377348
+    },
+    {
+      "candidateKey": "PLIBERSEKTANYA",
+      "party": "ALP",
+      "votes": 38449,
+      "pc": 41.12060575596505
+    },
+    {
+      "party": "SOL",
+      "votes": 383,
+      "pc": 0.4096125258013112
+    },
+    {
+      "party": "FUT",
+      "votes": 1361,
+      "pc": 1.4555682705367743
+    },
+    {
+      "party": "SPP",
+      "votes": 606,
+      "pc": 0.6481075473514218
+    },
+    {
+      "party": "AJP",
+      "votes": 1497,
+      "pc": 1.6010181491502948
+    },
+    {
+      "party": "ASXP",
+      "votes": 1456,
+      "pc": 1.5571692886859245
+    }
+  ],
+  "Warringah": [
+    {
+      "party": "",
+      "votes": 5611,
+      "pc": 6.080605134540568
+    },
+    {
+      "party": "IND",
+      "votes": 253,
+      "pc": 0.2741744963533709
+    },
+    {
+      "party": "ARTS",
+      "votes": 669,
+      "pc": 0.7249910595272928
+    },
+    {
+      "party": "XEN",
+      "votes": 5506,
+      "pc": 5.966817300085612
+    },
+    {
+      "party": "CDPF",
+      "votes": 1039,
+      "pc": 1.1259577142733292
+    },
+    {
+      "party": "GRN",
+      "votes": 10565,
+      "pc": 11.449223533491553
+    },
+    {
+      "candidateKey": "ABBOTTTONY",
+      "party": "LP",
+      "votes": 44759,
+      "pc": 48.50504459399417
+    },
+    {
+      "party": "ALP",
+      "votes": 12820,
+      "pc": 13.892952740119425
+    },
+    {
+      "party": "FUT",
+      "votes": 800,
+      "pc": 0.8669549291806192
+    },
+    {
+      "party": "IND",
+      "votes": 368,
+      "pc": 0.39879926742308486
+    },
+    {
+      "party": "IND",
+      "votes": 9887,
+      "pc": 10.714479231010978
+    }
+  ],
+  "Watson": [
+    {
+      "party": "",
+      "votes": 9924,
+      "pc": 10.652640618291112
+    },
+    {
+      "party": "CDPF",
+      "votes": 7957,
+      "pc": 8.541219407471019
+    },
+    {
+      "party": "GRN",
+      "votes": 5555,
+      "pc": 5.962859596393302
+    },
+    {
+      "candidateKey": "BURKETONY",
+      "party": "ALP",
+      "votes": 46105,
+      "pc": 49.49012451696007
+    },
+    {
+      "candidateKey": "ZAMANMOHAMMAD",
+      "party": "LP",
+      "votes": 21133,
+      "pc": 22.684628595963932
+    },
+    {
+      "party": "FUT",
+      "votes": 1611,
+      "pc": 1.7292829540575354
+    },
+    {
+      "party": "SOL",
+      "votes": 875,
+      "pc": 0.9392443108630313
+    }
+  ],
+  "Wentworth": [
+    {
+      "party": "",
+      "votes": 4549,
+      "pc": 5.131936688439886
+    },
+    {
+      "party": "ARTS",
+      "votes": 1478,
+      "pc": 1.667399961643032
+    },
+    {
+      "party": "IND",
+      "votes": 390,
+      "pc": 0.43997698581920325
+    },
+    {
+      "party": "IND",
+      "votes": 573,
+      "pc": 0.6464277253189833
+    },
+    {
+      "party": "CDPF",
+      "votes": 901,
+      "pc": 1.016459651854108
+    },
+    {
+      "party": "GRN",
+      "votes": 12496,
+      "pc": 14.097313884094268
+    },
+    {
+      "party": "LP",
+      "votes": 52353,
+      "pc": 59.06183368869936
+    },
+    {
+      "party": "ALP",
+      "votes": 14913,
+      "pc": 16.82404305005584
+    },
+    {
+      "party": "FUT",
+      "votes": 988,
+      "pc": 1.114608364075315
+    }
+  ],
+  "Werriwa": [
+    {
+      "party": "",
+      "votes": 8581,
+      "pc": 8.761307712727941
+    },
+    {
+      "party": "CDPF",
+      "votes": 5986,
+      "pc": 6.111780441485777
+    },
+    {
+      "candidateKey": "WESTERBERGSIGNE",
+      "party": "GRN",
+      "votes": 4109,
+      "pc": 4.195340099242409
+    },
+    {
+      "party": "LP",
+      "votes": 32670,
+      "pc": 33.356476281881115
+    },
+    {
+      "candidateKey": "STANLEYANNEMAREE",
+      "party": "ALP",
+      "votes": 46596,
+      "pc": 47.57509546466276
+    }
+  ],
+  "Whitlam": [
+    {
+      "party": "",
+      "votes": 5628,
+      "pc": 5.407950494383534
+    },
+    {
+      "party": "NCP",
+      "votes": 2081,
+      "pc": 1.9996348576425256
+    },
+    {
+      "party": "CDPF",
+      "votes": 4048,
+      "pc": 3.8897270080427404
+    },
+    {
+      "party": "GRN",
+      "votes": 8162,
+      "pc": 7.842873478173135
+    },
+    {
+      "party": "LP",
+      "votes": 25870,
+      "pc": 24.858507336478684
+    },
+    {
+      "candidateKey": "JONESSTEPHEN",
+      "party": "ALP",
+      "votes": 51939,
+      "pc": 49.90823396016105
+    },
+    {
+      "party": "NP",
+      "votes": 6341,
+      "pc": 6.093072865118335
+    }
+  ],
+  "Lingiari": [
+    {
+      "party": "",
+      "votes": 3826,
+      "pc": 7.799567823215233
+    },
+    {
+      "party": "IND",
+      "votes": 71,
+      "pc": 0.1447384515024259
+    },
+    {
+      "party": "IND",
+      "votes": 427,
+      "pc": 0.8704692787540262
+    },
+    {
+      "party": "IND",
+      "votes": 1854,
+      "pc": 3.7795082969788396
+    },
+    {
+      "party": "IND",
+      "votes": 1808,
+      "pc": 3.6857340889631836
+    },
+    {
+      "party": "CLP",
+      "votes": 14420,
+      "pc": 29.396175643168753
+    },
+    {
+      "party": "ALP",
+      "votes": 17982,
+      "pc": 36.6575610551637
+    },
+    {
+      "party": "ASP",
+      "votes": 3162,
+      "pc": 6.445957516206629
+    },
+    {
+      "party": "GRN",
+      "votes": 3501,
+      "pc": 7.137032657887227
+    },
+    {
+      "party": "HMP",
+      "votes": 54,
+      "pc": 0.11008276593142252
+    },
+    {
+      "party": "CEC",
+      "votes": 269,
+      "pc": 0.5483752599176417
+    },
+    {
+      "party": "AFN",
+      "votes": 44,
+      "pc": 0.08969706853671464
+    },
+    {
+      "party": "LDP",
+      "votes": 73,
+      "pc": 0.14881559098136748
+    },
+    {
+      "party": "RUAP",
+      "votes": 1548,
+      "pc": 3.155705956700779
+    },
+    {
+      "party": "SOL",
+      "votes": 15,
+      "pc": 0.03057854609206181
+    }
+  ],
+  "Solomon": [
+    {
+      "party": "IND",
+      "votes": 1573,
+      "pc": 2.8021234145646288
+    },
+    {
+      "party": "",
+      "votes": 3904,
+      "pc": 6.954538976770699
+    },
+    {
+      "party": "CLP",
+      "votes": 17989,
+      "pc": 32.045389767707
+    },
+    {
+      "party": "ALP",
+      "votes": 21382,
+      "pc": 38.089639447057145
+    },
+    {
+      "party": "ASP",
+      "votes": 1422,
+      "pc": 2.533133817870885
+    },
+    {
+      "party": "GRN",
+      "votes": 5357,
+      "pc": 9.542895824426394
+    },
+    {
+      "party": "HMP",
+      "votes": 1089,
+      "pc": 1.9399315946985893
+    },
+    {
+      "party": "CEC",
+      "votes": 175,
+      "pc": 0.3117429100755309
+    },
+    {
+      "party": "AFN",
+      "votes": 754,
+      "pc": 1.3431665954111442
+    },
+    {
+      "party": "LDP",
+      "votes": 1202,
+      "pc": 2.1412284452045034
+    },
+    {
+      "party": "RUAP",
+      "votes": 935,
+      "pc": 1.665597833832122
+    },
+    {
+      "party": "SOL",
+      "votes": 354,
+      "pc": 0.6306113723813596
+    }
+  ],
+  "Blair": [
+    {
+      "party": "IND",
+      "votes": 744,
+      "pc": 0.7884362680683311
+    },
+    {
+      "party": "",
+      "votes": 5253,
+      "pc": 5.5667415539824505
+    },
+    {
+      "candidateKey": "TURNERJOHN",
+      "party": "IND",
+      "votes": 1913,
+      "pc": 2.027256157009029
+    },
+    {
+      "party": "IND",
+      "votes": 1439,
+      "pc": 1.5249459539654953
+    },
+    {
+      "party": "DLP",
+      "votes": 110,
+      "pc": 0.11656987834343605
+    },
+    {
+      "party": "ALP",
+      "votes": 36580,
+      "pc": 38.76478318002628
+    },
+    {
+      "party": "PHON",
+      "votes": 13273,
+      "pc": 14.065745411385697
+    },
+    {
+      "party": "GRN",
+      "votes": 5983,
+      "pc": 6.340341655716163
+    },
+    {
+      "party": "LDP",
+      "votes": 121,
+      "pc": 0.12822686617777967
+    },
+    {
+      "party": "FFP",
+      "votes": 2565,
+      "pc": 2.7181976177355773
+    },
+    {
+      "party": "LNP",
+      "votes": 26383,
+      "pc": 27.958755457589756
+    }
+  ],
+  "Bonner": [
+    {
+      "party": "IND",
+      "votes": 2396,
+      "pc": 2.583371968904655
+    },
+    {
+      "party": "",
+      "votes": 2838,
+      "pc": 3.059937248644161
+    },
+    {
+      "party": "ALP",
+      "votes": 31344,
+      "pc": 33.79516318587124
+    },
+    {
+      "candidateKey": "VASTAROSS",
+      "party": "LNP",
+      "votes": 41756,
+      "pc": 45.02140230950866
+    },
+    {
+      "party": "FFP",
+      "votes": 3157,
+      "pc": 3.4038836835692794
+    },
+    {
+      "party": "GRN",
+      "votes": 8518,
+      "pc": 9.184124553893927
+    },
+    {
+      "party": "LDP",
+      "votes": 2738,
+      "pc": 2.9521170496080735
+    }
+  ],
+  "Bowman": [
+    {
+      "party": "",
+      "votes": 3654,
+      "pc": 3.807082799362361
+    },
+    {
+      "candidateKey": "LAMINGANDREW",
+      "party": "LNP",
+      "votes": 45946,
+      "pc": 47.870888423509314
+    },
+    {
+      "party": "ALP",
+      "votes": 29592,
+      "pc": 30.831744444097147
+    },
+    {
+      "party": "GRN",
+      "votes": 9012,
+      "pc": 9.389553964929828
+    },
+    {
+      "party": "FFP",
+      "votes": 4459,
+      "pc": 4.645807937152919
+    },
+    {
+      "party": "ALA",
+      "votes": 3316,
+      "pc": 3.4549224309484363
+    }
+  ],
+  "Brisbane": [
+    {
+      "party": "",
+      "votes": 2240,
+      "pc": 2.3808764601468915
+    },
+    {
+      "party": "ALP",
+      "votes": 23794,
+      "pc": 25.29043504139962
+    },
+    {
+      "party": "GRN",
+      "votes": 17843,
+      "pc": 18.965169052857583
+    },
+    {
+      "party": "FFP",
+      "votes": 1552,
+      "pc": 1.6496072616732034
+    },
+    {
+      "party": "LDP",
+      "votes": 1912,
+      "pc": 2.032248121339668
+    },
+    {
+      "party": "LNP",
+      "votes": 45856,
+      "pc": 48.73994239129279
+    },
+    {
+      "party": "ADVP",
+      "votes": 886,
+      "pc": 0.9417216712902438
+    }
+  ],
+  "Capricornia": [
+    {
+      "party": "",
+      "votes": 3297,
+      "pc": 3.569611207951236
+    },
+    {
+      "party": "IND",
+      "votes": 46,
+      "pc": 0.04980349274059959
+    },
+    {
+      "candidateKey": "MURRAYKEN",
+      "party": "IND",
+      "votes": 4312,
+      "pc": 4.668536102118813
+    },
+    {
+      "party": "ALP",
+      "votes": 33907,
+      "pc": 36.710587572945876
+    },
+    {
+      "party": "GRN",
+      "votes": 4201,
+      "pc": 4.5483581087664975
+    },
+    {
+      "party": "FFP",
+      "votes": 4580,
+      "pc": 4.958695581564046
+    },
+    {
+      "party": "LNP",
+      "votes": 35680,
+      "pc": 38.63018741270855
+    },
+    {
+      "party": "KAP",
+      "votes": 6298,
+      "pc": 6.818747766962961
+    },
+    {
+      "party": "GLT",
+      "votes": 42,
+      "pc": 0.045472754241417015
+    }
+  ],
+  "Dawson": [
+    {
+      "party": "",
+      "votes": 4254,
+      "pc": 4.542784831754643
+    },
+    {
+      "party": "IND",
+      "votes": 4138,
+      "pc": 4.418910116079151
+    },
+    {
+      "party": "ALP",
+      "votes": 29280,
+      "pc": 31.267686853261857
+    },
+    {
+      "party": "GRN",
+      "votes": 4617,
+      "pc": 4.930427260980533
+    },
+    {
+      "party": "FFP",
+      "votes": 3370,
+      "pc": 3.5987740674690043
+    },
+    {
+      "party": "LNP",
+      "votes": 38104,
+      "pc": 40.69070832843886
+    },
+    {
+      "party": "KAP",
+      "votes": 5847,
+      "pc": 6.243926401332721
+    },
+    {
+      "party": "GLT",
+      "votes": 4033,
+      "pc": 4.306782140683233
+    }
+  ],
+  "Dickson": [
+    {
+      "candidateKey": "PROHASKATHOR",
+      "party": "IND",
+      "votes": 3217,
+      "pc": 3.2917557736188847
+    },
+    {
+      "party": "",
+      "votes": 3268,
+      "pc": 3.343940897788783
+    },
+    {
+      "party": "ALP",
+      "votes": 33055,
+      "pc": 33.82312312619591
+    },
+    {
+      "party": "FFP",
+      "votes": 4000,
+      "pc": 4.092950915286148
+    },
+    {
+      "party": "GRN",
+      "votes": 9301,
+      "pc": 9.517134115769117
+    },
+    {
+      "party": "LNP",
+      "votes": 42222,
+      "pc": 43.20314338630294
+    },
+    {
+      "party": "LDP",
+      "votes": 2666,
+      "pc": 2.727951785038218
+    }
+  ],
+  "Fadden": [
+    {
+      "party": "",
+      "votes": 4048,
+      "pc": 4.4921875
+    },
+    {
+      "party": "ALP",
+      "votes": 22371,
+      "pc": 24.82577237215909
+    },
+    {
+      "party": "GRN",
+      "votes": 6548,
+      "pc": 7.266512784090909
+    },
+    {
+      "party": "PHON",
+      "votes": 10306,
+      "pc": 11.436878551136363
+    },
+    {
+      "party": "FFP",
+      "votes": 3298,
+      "pc": 3.659889914772727
+    },
+    {
+      "party": "LNP",
+      "votes": 42506,
+      "pc": 47.17018821022727
+    },
+    {
+      "party": "ADVP",
+      "votes": 1035,
+      "pc": 1.1485706676136365
+    }
+  ],
+  "Fairfax": [
+    {
+      "party": "",
+      "votes": 5909,
+      "pc": 6.241945365812436
+    },
+    {
+      "party": "IND",
+      "votes": 2752,
+      "pc": 2.9070627257938435
+    },
+    {
+      "party": "IND",
+      "votes": 1900,
+      "pc": 2.0070563877210406
+    },
+    {
+      "party": "ALP",
+      "votes": 18314,
+      "pc": 19.345910886696384
+    },
+    {
+      "party": "GRN",
+      "votes": 11233,
+      "pc": 11.865928633300236
+    },
+    {
+      "party": "PHON",
+      "votes": 8590,
+      "pc": 9.074007563433545
+    },
+    {
+      "party": "FFP",
+      "votes": 2328,
+      "pc": 2.4591722476918854
+    },
+    {
+      "party": "LNP",
+      "votes": 43044,
+      "pc": 45.469334291086554
+    },
+    {
+      "party": "SOL",
+      "votes": 596,
+      "pc": 0.6295818984640736
+    }
+  ],
+  "Fisher": [
+    {
+      "party": "",
+      "votes": 6394,
+      "pc": 6.811910722846641
+    },
+    {
+      "party": "IND",
+      "votes": 134,
+      "pc": 0.14275821658765248
+    },
+    {
+      "candidateKey": "JESSOPMIKE",
+      "party": "IND",
+      "votes": 2906,
+      "pc": 3.095935652266553
+    },
+    {
+      "party": "IND",
+      "votes": 85,
+      "pc": 0.09055558514888404
+    },
+    {
+      "party": "ALP",
+      "votes": 21410,
+      "pc": 22.80935385926597
+    },
+    {
+      "party": "GRN",
+      "votes": 10763,
+      "pc": 11.46646779949928
+    },
+    {
+      "party": "PHON",
+      "votes": 416,
+      "pc": 0.44318968731689123
+    },
+    {
+      "party": "FFP",
+      "votes": 3048,
+      "pc": 3.2472167474564535
+    },
+    {
+      "party": "LNP",
+      "votes": 42167,
+      "pc": 44.923027752623454
+    },
+    {
+      "party": "SOL",
+      "votes": 466,
+      "pc": 0.4964576785809407
+    },
+    {
+      "party": "RUAP",
+      "votes": 2210,
+      "pc": 2.354445213870985
+    },
+    {
+      "party": "ADVP",
+      "votes": 914,
+      "pc": 0.9737388803068237
+    },
+    {
+      "party": "ALA",
+      "votes": 2952,
+      "pc": 3.144942204229478
+    }
+  ],
+  "Flynn": [
+    {
+      "party": "",
+      "votes": 5755,
+      "pc": 6.194766471835609
+    },
+    {
+      "party": "IND",
+      "votes": 1927,
+      "pc": 2.074251084487788
+    },
+    {
+      "candidateKey": "SCOTTDUNCANGEORGE",
+      "party": "IND",
+      "votes": 864,
+      "pc": 0.9300222817838344
+    },
+    {
+      "party": "IND",
+      "votes": 483,
+      "pc": 0.5199082894694352
+    },
+    {
+      "party": "GRN",
+      "votes": 2416,
+      "pc": 2.6006178620251665
+    },
+    {
+      "party": "ALP",
+      "votes": 29094,
+      "pc": 31.317208641457032
+    },
+    {
+      "party": "FFP",
+      "votes": 2173,
+      "pc": 2.339049095273463
+    },
+    {
+      "party": "PHON",
+      "votes": 14948,
+      "pc": 16.09024660660273
+    },
+    {
+      "party": "KAP",
+      "votes": 2948,
+      "pc": 3.1732704707161385
+    },
+    {
+      "party": "LNP",
+      "votes": 32293,
+      "pc": 34.760659196348804
+    }
+  ],
+  "Forde": [
+    {
+      "party": "",
+      "votes": 4486,
+      "pc": 5.0748902665278965
+    },
+    {
+      "party": "IND",
+      "votes": 5242,
+      "pc": 5.930132585184849
+    },
+    {
+      "party": "LNP",
+      "votes": 34096,
+      "pc": 38.57188108059188
+    },
+    {
+      "candidateKey": "HARDMANDES",
+      "party": "ALP",
+      "votes": 31587,
+      "pc": 35.73351735372641
+    },
+    {
+      "party": "FFP",
+      "votes": 4687,
+      "pc": 5.302276121091452
+    },
+    {
+      "party": "GRN",
+      "votes": 5393,
+      "pc": 6.100954794334585
+    },
+    {
+      "party": "ALA",
+      "votes": 2905,
+      "pc": 3.2863477985429204
+    }
+  ],
+  "Griffith": [
+    {
+      "party": "",
+      "votes": 3712,
+      "pc": 4.069952305246423
+    },
+    {
+      "party": "IND",
+      "votes": 1376,
+      "pc": 1.5086892165999672
+    },
+    {
+      "party": "ALP",
+      "votes": 28983,
+      "pc": 31.777863055753524
+    },
+    {
+      "party": "GRN",
+      "votes": 14859,
+      "pc": 16.291869963269555
+    },
+    {
+      "party": "FFP",
+      "votes": 1347,
+      "pc": 1.4768927142152295
+    },
+    {
+      "party": "LDP",
+      "votes": 1786,
+      "pc": 1.958225974453155
+    },
+    {
+      "party": "LNP",
+      "votes": 36030,
+      "pc": 39.504413135244775
+    },
+    {
+      "party": "ALA",
+      "votes": 1413,
+      "pc": 1.5492571679184255
+    },
+    {
+      "party": "DRF",
+      "votes": 1699,
+      "pc": 1.862836467298942
+    }
+  ],
+  "Groom": [
+    {
+      "party": "",
+      "votes": 3380,
+      "pc": 3.5719192196730325
+    },
+    {
+      "candidateKey": "MCVEIGHJOHN",
+      "party": "LNP",
+      "votes": 49270,
+      "pc": 52.06759170215689
+    },
+    {
+      "party": "ALP",
+      "votes": 20259,
+      "pc": 21.409322920519514
+    },
+    {
+      "party": "XEN",
+      "votes": 6960,
+      "pc": 7.355194606190622
+    },
+    {
+      "party": "FFP",
+      "votes": 9140,
+      "pc": 9.658976824796305
+    },
+    {
+      "party": "GRN",
+      "votes": 5618,
+      "pc": 5.936994726663637
+    }
+  ],
+  "Herbert": [
+    {
+      "party": "",
+      "votes": 6525,
+      "pc": 6.8784128523539465
+    },
+    {
+      "party": "ALP",
+      "votes": 26900,
+      "pc": 28.3569817208155
+    },
+    {
+      "party": "GRN",
+      "votes": 5533,
+      "pc": 5.832683266218297
+    },
+    {
+      "party": "PHON",
+      "votes": 11950,
+      "pc": 12.59724652653328
+    },
+    {
+      "party": "FFP",
+      "votes": 3175,
+      "pc": 3.3469671733676285
+    },
+    {
+      "party": "LDP",
+      "votes": 1096,
+      "pc": 1.1553625266176129
+    },
+    {
+      "party": "LNP",
+      "votes": 31361,
+      "pc": 33.059602369758174
+    },
+    {
+      "party": "KAP",
+      "votes": 6070,
+      "pc": 6.398768737745357
+    },
+    {
+      "party": "UAP",
+      "votes": 315,
+      "pc": 0.33206131011363876
+    },
+    {
+      "party": "GLT",
+      "votes": 1937,
+      "pc": 2.041913516476566
+    }
+  ],
+  "Hinkler": [
+    {
+      "party": "",
+      "votes": 4305,
+      "pc": 4.5850551697695225
+    },
+    {
+      "party": "IND",
+      "votes": 1720,
+      "pc": 1.8318919609764408
+    },
+    {
+      "party": "ALP",
+      "votes": 23911,
+      "pc": 25.46649341796958
+    },
+    {
+      "party": "GRN",
+      "votes": 3540,
+      "pc": 3.77028926852128
+    },
+    {
+      "party": "PHON",
+      "votes": 17162,
+      "pc": 18.27844757806842
+    },
+    {
+      "party": "FFP",
+      "votes": 2281,
+      "pc": 2.4293869552251524
+    },
+    {
+      "party": "LNP",
+      "votes": 39233,
+      "pc": 41.78524261917948
+    },
+    {
+      "party": "KAP",
+      "votes": 24,
+      "pc": 0.025561283176415456
+    },
+    {
+      "party": "ALA",
+      "votes": 1670,
+      "pc": 1.778639287692242
+    },
+    {
+      "party": "GLT",
+      "votes": 46,
+      "pc": 0.04899245942146295
+    }
+  ],
+  "Kennedy": [
+    {
+      "party": "",
+      "votes": 3736,
+      "pc": 3.991580926739105
+    },
+    {
+      "party": "IND",
+      "votes": 268,
+      "pc": 0.2863339636954176
+    },
+    {
+      "party": "IND",
+      "votes": 27,
+      "pc": 0.028847078432001023
+    },
+    {
+      "party": "ALP",
+      "votes": 17565,
+      "pc": 18.766627135485113
+    },
+    {
+      "party": "GRN",
+      "votes": 4455,
+      "pc": 4.7597679412801694
+    },
+    {
+      "party": "PHON",
+      "votes": 375,
+      "pc": 0.4006538671111254
+    },
+    {
+      "party": "FFP",
+      "votes": 3341,
+      "pc": 3.569558853382053
+    },
+    {
+      "party": "LNP",
+      "votes": 29284,
+      "pc": 31.28732758528585
+    },
+    {
+      "party": "RUAP",
+      "votes": 64,
+      "pc": 0.0683782599869654
+    },
+    {
+      "party": "KAP",
+      "votes": 34482,
+      "pc": 36.8409243886022
+    }
+  ],
+  "Leichhardt": [
+    {
+      "party": "",
+      "votes": 6694,
+      "pc": 7.303793739293625
+    },
+    {
+      "candidateKey": "MCCARTHYDANIEL",
+      "party": "IND",
+      "votes": 5828,
+      "pc": 6.35890497648689
+    },
+    {
+      "party": "IND",
+      "votes": 667,
+      "pc": 0.7277607445636164
+    },
+    {
+      "party": "ALP",
+      "votes": 23854,
+      "pc": 26.026993704378565
+    },
+    {
+      "party": "GRN",
+      "votes": 7460,
+      "pc": 8.139572945194269
+    },
+    {
+      "party": "PHON",
+      "votes": 6400,
+      "pc": 6.983011641989723
+    },
+    {
+      "party": "FFP",
+      "votes": 2150,
+      "pc": 2.3458554734809223
+    },
+    {
+      "party": "LNP",
+      "votes": 33588,
+      "pc": 36.64771797361731
+    },
+    {
+      "party": "RUAP",
+      "votes": 1375,
+      "pc": 1.5002564074587292
+    },
+    {
+      "party": "KAP",
+      "votes": 3635,
+      "pc": 3.96613239353635
+    }
+  ],
+  "Lilley": [
+    {
+      "party": "",
+      "votes": 2800,
+      "pc": 2.9341493062832713
+    },
+    {
+      "party": "ALP",
+      "votes": 40533,
+      "pc": 42.47495493984994
+    },
+    {
+      "party": "GRN",
+      "votes": 10807,
+      "pc": 11.324768411786897
+    },
+    {
+      "party": "FFP",
+      "votes": 3320,
+      "pc": 3.4790627488787353
+    },
+    {
+      "party": "LDP",
+      "votes": 2125,
+      "pc": 2.226809741375697
+    },
+    {
+      "party": "LNP",
+      "votes": 35843,
+      "pc": 37.56025485182546
+    }
+  ],
+  "Longman": [
+    {
+      "party": "",
+      "votes": 830,
+      "pc": 0.8620241989925741
+    },
+    {
+      "party": "",
+      "votes": 8217,
+      "pc": 8.534039570026485
+    },
+    {
+      "party": "DRF",
+      "votes": 2677,
+      "pc": 2.7802876875941216
+    },
+    {
+      "party": "LNP",
+      "votes": 34359,
+      "pc": 35.684686088175724
+    },
+    {
+      "party": "ARTS",
+      "votes": 228,
+      "pc": 0.23679700887988786
+    },
+    {
+      "party": "IND",
+      "votes": 945,
+      "pc": 0.9814612868047983
+    },
+    {
+      "party": "FFP",
+      "votes": 3002,
+      "pc": 3.1178272835851897
+    },
+    {
+      "candidateKey": "LAMBSUSAN",
+      "party": "ALP",
+      "votes": 31161,
+      "pc": 32.36329646362362
+    },
+    {
+      "party": "GRN",
+      "votes": 3865,
+      "pc": 4.014124733863011
+    },
+    {
+      "party": "PHON",
+      "votes": 8293,
+      "pc": 8.61297190631978
+    },
+    {
+      "party": "IND",
+      "votes": 1111,
+      "pc": 1.153866126603313
+    },
+    {
+      "party": "KAP",
+      "votes": 1597,
+      "pc": 1.658617645531495
+    }
+  ],
+  "Maranoa": [
+    {
+      "party": "",
+      "votes": 5269,
+      "pc": 5.527812165593068
+    },
+    {
+      "candidateKey": "LITTLEPROUDDAVID",
+      "party": "LNP",
+      "votes": 44297,
+      "pc": 46.47285927107157
+    },
+    {
+      "party": "ALP",
+      "votes": 16456,
+      "pc": 17.264315239514048
+    },
+    {
+      "party": "RUAP",
+      "votes": 841,
+      "pc": 0.882309742126356
+    },
+    {
+      "party": "GRN",
+      "votes": 3056,
+      "pc": 3.206110073648209
+    },
+    {
+      "party": "FFP",
+      "votes": 2905,
+      "pc": 3.047692985585094
+    },
+    {
+      "party": "PHON",
+      "votes": 16047,
+      "pc": 16.835225246018588
+    },
+    {
+      "party": "KAP",
+      "votes": 4306,
+      "pc": 4.517509809270023
+    },
+    {
+      "party": "CM",
+      "votes": 2141,
+      "pc": 2.246165467173042
+    }
+  ],
+  "McPherson": [
+    {
+      "party": "",
+      "votes": 4151,
+      "pc": 4.469351938585441
+    },
+    {
+      "party": "IND",
+      "votes": 3850,
+      "pc": 4.145267396664406
+    },
+    {
+      "candidateKey": "ANDREWSKAREN",
+      "party": "LNP",
+      "votes": 47284,
+      "pc": 50.91034378802072
+    },
+    {
+      "party": "ALP",
+      "votes": 23069,
+      "pc": 24.838226902247058
+    },
+    {
+      "party": "FFP",
+      "votes": 5404,
+      "pc": 5.818448054954402
+    },
+    {
+      "party": "GRN",
+      "votes": 9119,
+      "pc": 9.818361919527979
+    }
+  ],
+  "Moncrieff": [
+    {
+      "party": "",
+      "votes": 4206,
+      "pc": 4.4981551788674405
+    },
+    {
+      "party": "ALP",
+      "votes": 21954,
+      "pc": 23.478958344473558
+    },
+    {
+      "party": "GRN",
+      "votes": 9020,
+      "pc": 9.646542965616813
+    },
+    {
+      "party": "PHON",
+      "votes": 387,
+      "pc": 0.4138816106090583
+    },
+    {
+      "party": "FFP",
+      "votes": 5771,
+      "pc": 6.171862467247741
+    },
+    {
+      "party": "LNP",
+      "votes": 52119,
+      "pc": 55.73926527993155
+    },
+    {
+      "party": "ADVP",
+      "votes": 48,
+      "pc": 0.051334153253836695
+    }
+  ],
+  "Moreton": [
+    {
+      "party": "",
+      "votes": 3750,
+      "pc": 4.1133304814241995
+    },
+    {
+      "party": "IND",
+      "votes": 87,
+      "pc": 0.09542926716904143
+    },
+    {
+      "party": "ALP",
+      "votes": 32128,
+      "pc": 35.24082178858578
+    },
+    {
+      "party": "GRN",
+      "votes": 11379,
+      "pc": 12.481490012833591
+    },
+    {
+      "party": "FFP",
+      "votes": 2525,
+      "pc": 2.769642524158961
+    },
+    {
+      "party": "LDP",
+      "votes": 2813,
+      "pc": 3.0855463051323397
+    },
+    {
+      "party": "LNP",
+      "votes": 33075,
+      "pc": 36.27957484616144
+    },
+    {
+      "party": "KAP",
+      "votes": 1295,
+      "pc": 1.4204701262518236
+    },
+    {
+      "party": "ALA",
+      "votes": 64,
+      "pc": 0.07020084021630635
+    },
+    {
+      "party": "DRF",
+      "votes": 90,
+      "pc": 0.0987199315541808
+    },
+    {
+      "party": "XEN",
+      "votes": 3961,
+      "pc": 4.344773876512335
+    }
+  ],
+  "Oxley": [
+    {
+      "party": "KAP",
+      "votes": 1170,
+      "pc": 1.3155231734466708
+    },
+    {
+      "party": "XEN",
+      "votes": 111,
+      "pc": 0.12480604466032516
+    },
+    {
+      "party": "",
+      "votes": 3559,
+      "pc": 4.0016640805954715
+    },
+    {
+      "party": "ALP",
+      "votes": 39173,
+      "pc": 44.04528997728755
+    },
+    {
+      "party": "GRN",
+      "votes": 7588,
+      "pc": 8.531786188131058
+    },
+    {
+      "party": "PHON",
+      "votes": 7023,
+      "pc": 7.8965121770221955
+    },
+    {
+      "party": "FFP",
+      "votes": 2793,
+      "pc": 3.1403899345611554
+    },
+    {
+      "party": "LDP",
+      "votes": 64,
+      "pc": 0.0719602419663136
+    },
+    {
+      "party": "LNP",
+      "votes": 27457,
+      "pc": 30.872068182329265
+    }
+  ],
+  "Petrie": [
+    {
+      "party": "",
+      "votes": 3886,
+      "pc": 4.019487168878453
+    },
+    {
+      "candidateKey": "HOWARTHLUKE",
+      "party": "LNP",
+      "votes": 41475,
+      "pc": 42.89969900392019
+    },
+    {
+      "party": "ALP",
+      "votes": 35616,
+      "pc": 36.83943772691071
+    },
+    {
+      "party": "FFP",
+      "votes": 4746,
+      "pc": 4.909028848043525
+    },
+    {
+      "party": "GRN",
+      "votes": 6840,
+      "pc": 7.074959401731504
+    },
+    {
+      "party": "LDP",
+      "votes": 2877,
+      "pc": 2.9758272220440842
+    },
+    {
+      "party": "ARTS",
+      "votes": 1239,
+      "pc": 1.28156062847154
+    }
+  ],
+  "Rankin": [
+    {
+      "party": "",
+      "votes": 5225,
+      "pc": 5.764054364133792
+    },
+    {
+      "party": "LNP",
+      "votes": 24455,
+      "pc": 26.977980760744856
+    },
+    {
+      "party": "CRNT",
+      "votes": 2050,
+      "pc": 2.261495013679287
+    },
+    {
+      "candidateKey": "CHALMERSJIM",
+      "party": "ALP",
+      "votes": 42147,
+      "pc": 46.495234312946785
+    },
+    {
+      "party": "FFP",
+      "votes": 5011,
+      "pc": 5.527976348071661
+    },
+    {
+      "candidateKey": "DAVIESRIC",
+      "party": "LDP",
+      "votes": 3513,
+      "pc": 3.875430235636749
+    },
+    {
+      "candidateKey": "COTTERNEIL",
+      "party": "GRN",
+      "votes": 5373,
+      "pc": 5.927323272438443
+    },
+    {
+      "party": "KAP",
+      "votes": 2874,
+      "pc": 3.170505692348425
+    }
+  ],
+  "Ryan": [
+    {
+      "party": "",
+      "votes": 2250,
+      "pc": 2.356736600643127
+    },
+    {
+      "party": "ALP",
+      "votes": 21411,
+      "pc": 22.426705491719996
+    },
+    {
+      "party": "DLP",
+      "votes": 1456,
+      "pc": 1.525070440238397
+    },
+    {
+      "party": "GRN",
+      "votes": 17486,
+      "pc": 18.315509421709212
+    },
+    {
+      "party": "FFP",
+      "votes": 2276,
+      "pc": 2.38397000136167
+    },
+    {
+      "party": "LDP",
+      "votes": 1975,
+      "pc": 2.0686910161200784
+    },
+    {
+      "party": "LNP",
+      "votes": 48588,
+      "pc": 50.892941312021456
+    },
+    {
+      "party": "ADVP",
+      "votes": 29,
+      "pc": 0.03037571618606697
+    }
+  ],
+  "Wide Bay": [
+    {
+      "party": "",
+      "votes": 4681,
+      "pc": 4.998291547430914
+    },
+    {
+      "party": "ALP",
+      "votes": 20068,
+      "pc": 21.42826634775552
+    },
+    {
+      "party": "GRN",
+      "votes": 7292,
+      "pc": 7.786272583607398
+    },
+    {
+      "party": "PHON",
+      "votes": 13847,
+      "pc": 14.785589202579763
+    },
+    {
+      "party": "FFP",
+      "votes": 2368,
+      "pc": 2.5285098022466155
+    },
+    {
+      "party": "LNP",
+      "votes": 39027,
+      "pc": 41.67236150856362
+    },
+    {
+      "party": "KAP",
+      "votes": 2333,
+      "pc": 2.491137402297869
+    },
+    {
+      "party": "GLT",
+      "votes": 4036,
+      "pc": 4.309571605518301
+    }
+  ],
+  "Wright": [
+    {
+      "candidateKey": "BUCHHOLZSCOTT",
+      "party": "LNP",
+      "votes": 36935,
+      "pc": 40.0171184641054
+    },
+    {
+      "party": "",
+      "votes": 3980,
+      "pc": 4.312119439207784
+    },
+    {
+      "candidateKey": "SMITHROD",
+      "party": "ALP",
+      "votes": 20110,
+      "pc": 21.78812108604737
+    },
+    {
+      "party": "MAP",
+      "votes": 902,
+      "pc": 0.9772692799410605
+    },
+    {
+      "party": "FFP",
+      "votes": 3163,
+      "pc": 3.426943162365382
+    },
+    {
+      "party": "GRN",
+      "votes": 6768,
+      "pc": 7.332769940843789
+    },
+    {
+      "party": "LDP",
+      "votes": 1979,
+      "pc": 2.14414180155583
+    },
+    {
+      "candidateKey": "SMITHROD",
+      "party": "PHON",
+      "votes": 18461,
+      "pc": 20.00151682593339
+    }
+  ],
+  "Adelaide": [
+    {
+      "party": "",
+      "votes": 4136,
+      "pc": 3.884406961127755
+    },
+    {
+      "party": "ALP",
+      "votes": 39982,
+      "pc": 37.549893404209364
+    },
+    {
+      "party": "LP",
+      "votes": 33324,
+      "pc": 31.296899799956794
+    },
+    {
+      "party": "CDPF",
+      "votes": 161,
+      "pc": 0.15120636381565972
+    },
+    {
+      "party": "GRN",
+      "votes": 10203,
+      "pc": 9.582351118081839
+    },
+    {
+      "party": "FFP",
+      "votes": 2278,
+      "pc": 2.139429172497347
+    },
+    {
+      "party": "LDP",
+      "votes": 844,
+      "pc": 0.7926594475802285
+    },
+    {
+      "party": "AJP",
+      "votes": 1508,
+      "pc": 1.4162683020746265
+    },
+    {
+      "party": "XEN",
+      "votes": 14041,
+      "pc": 13.186885430656387
+    }
+  ],
+  "Barker": [
+    {
+      "party": "",
+      "votes": 4661,
+      "pc": 4.265190336749634
+    },
+    {
+      "party": "IND",
+      "votes": 204,
+      "pc": 0.18667642752562225
+    },
+    {
+      "party": "ALP",
+      "votes": 17087,
+      "pc": 15.635980966325036
+    },
+    {
+      "party": "LP",
+      "votes": 47637,
+      "pc": 43.59169106881405
+    },
+    {
+      "party": "CDPF",
+      "votes": 51,
+      "pc": 0.04666910688140556
+    },
+    {
+      "party": "GRN",
+      "votes": 3779,
+      "pc": 3.4580893118594433
+    },
+    {
+      "party": "FFP",
+      "votes": 5938,
+      "pc": 5.433748169838946
+    },
+    {
+      "party": "LDP",
+      "votes": 16,
+      "pc": 0.014641288433382138
+    },
+    {
+      "party": "XEN",
+      "votes": 29907,
+      "pc": 27.367313323572475
+    }
+  ],
+  "Boothby": [
+    {
+      "party": "",
+      "votes": 4674,
+      "pc": 4.154482023021199
+    },
+    {
+      "party": "IND",
+      "votes": 312,
+      "pc": 0.277321007955202
+    },
+    {
+      "party": "IND",
+      "votes": 519,
+      "pc": 0.4613128305408648
+    },
+    {
+      "party": "ALP",
+      "votes": 29041,
+      "pc": 25.813074974445584
+    },
+    {
+      "party": "LP",
+      "votes": 44954,
+      "pc": 39.95733522954536
+    },
+    {
+      "party": "CDPF",
+      "votes": 126,
+      "pc": 0.11199502244344695
+    },
+    {
+      "party": "GRN",
+      "votes": 8818,
+      "pc": 7.837873872272344
+    },
+    {
+      "party": "FFP",
+      "votes": 2503,
+      "pc": 2.2247900093329185
+    },
+    {
+      "party": "LDP",
+      "votes": 44,
+      "pc": 0.039109372916759255
+    },
+    {
+      "party": "AJP",
+      "votes": 1543,
+      "pc": 1.3714946002399893
+    },
+    {
+      "party": "XEN",
+      "votes": 19971,
+      "pc": 17.75121105728634
+    }
+  ],
+  "Grey": [
+    {
+      "party": "",
+      "votes": 4402,
+      "pc": 4.010166619598984
+    },
+    {
+      "party": "IND",
+      "votes": 1144,
+      "pc": 1.0421696076377185
+    },
+    {
+      "candidateKey": "BOLTONKARIN",
+      "party": "IND",
+      "votes": 426,
+      "pc": 0.3880806406063532
+    },
+    {
+      "party": "ALP",
+      "votes": 23778,
+      "pc": 21.66145885525321
+    },
+    {
+      "party": "LP",
+      "votes": 44424,
+      "pc": 40.469705113372385
+    },
+    {
+      "party": "CDPF",
+      "votes": 93,
+      "pc": 0.08472182999152782
+    },
+    {
+      "party": "GRN",
+      "votes": 2829,
+      "pc": 2.5771834090971204
+    },
+    {
+      "party": "FFP",
+      "votes": 4539,
+      "pc": 4.134971896038116
+    },
+    {
+      "party": "XEN",
+      "votes": 28136,
+      "pc": 25.631542028404585
+    }
+  ],
+  "Hindmarsh": [
+    {
+      "party": "",
+      "votes": 5173,
+      "pc": 4.746350549137986
+    },
+    {
+      "party": "ALP",
+      "votes": 41516,
+      "pc": 38.09191753296204
+    },
+    {
+      "party": "LP",
+      "votes": 32492,
+      "pc": 29.81218288084119
+    },
+    {
+      "party": "CDPF",
+      "votes": 553,
+      "pc": 0.5073906541027076
+    },
+    {
+      "party": "GRN",
+      "votes": 6852,
+      "pc": 6.286872987182194
+    },
+    {
+      "party": "FFP",
+      "votes": 2923,
+      "pc": 2.6819220288285974
+    },
+    {
+      "party": "AJP",
+      "votes": 1842,
+      "pc": 1.6900788152932864
+    },
+    {
+      "party": "XEN",
+      "votes": 17638,
+      "pc": 16.183284551652
+    }
+  ],
+  "Kingston": [
+    {
+      "party": "",
+      "votes": 4106,
+      "pc": 3.864179638239003
+    },
+    {
+      "party": "IND",
+      "votes": 106,
+      "pc": 0.09975719475239511
+    },
+    {
+      "party": "IND",
+      "votes": 117,
+      "pc": 0.11010935647198328
+    },
+    {
+      "party": "ALP",
+      "votes": 46334,
+      "pc": 43.60518737412713
+    },
+    {
+      "party": "LP",
+      "votes": 26678,
+      "pc": 25.106815486833934
+    },
+    {
+      "party": "GRN",
+      "votes": 5963,
+      "pc": 5.611812757627661
+    },
+    {
+      "party": "FFP",
+      "votes": 4232,
+      "pc": 3.9827589452088317
+    },
+    {
+      "party": "LDP",
+      "votes": 22,
+      "pc": 0.020704323439176345
+    },
+    {
+      "party": "AJP",
+      "votes": 265,
+      "pc": 0.2493929868809878
+    },
+    {
+      "party": "XEN",
+      "votes": 18435,
+      "pc": 17.349281936418905
+    }
+  ],
+  "Makin": [
+    {
+      "party": "",
+      "votes": 5031,
+      "pc": 4.619792288408738
+    },
+    {
+      "party": "IND",
+      "votes": 2126,
+      "pc": 1.952231843601069
+    },
+    {
+      "party": "ALP",
+      "votes": 44355,
+      "pc": 40.729653538535
+    },
+    {
+      "party": "LP",
+      "votes": 28518,
+      "pc": 26.187087354569748
+    },
+    {
+      "party": "CDPF",
+      "votes": 74,
+      "pc": 0.06795162578856026
+    },
+    {
+      "party": "GRN",
+      "votes": 4887,
+      "pc": 4.487562097685053
+    },
+    {
+      "party": "FFP",
+      "votes": 4855,
+      "pc": 4.458177610857568
+    },
+    {
+      "party": "AJP",
+      "votes": 1684,
+      "pc": 1.5463586192964252
+    },
+    {
+      "party": "XEN",
+      "votes": 17371,
+      "pc": 15.95118502125784
+    }
+  ],
+  "Mayo": [
+    {
+      "party": "",
+      "votes": 3262,
+      "pc": 2.987945627083868
+    },
+    {
+      "party": "IND",
+      "votes": 20,
+      "pc": 0.018319715678012678
+    },
+    {
+      "party": "IND",
+      "votes": 28,
+      "pc": 0.025647601949217745
+    },
+    {
+      "party": "ALP",
+      "votes": 17674,
+      "pc": 16.189132744659805
+    },
+    {
+      "party": "LP",
+      "votes": 38782,
+      "pc": 35.523760671234385
+    },
+    {
+      "party": "GRN",
+      "votes": 8626,
+      "pc": 7.901293371926868
+    },
+    {
+      "party": "FFP",
+      "votes": 4748,
+      "pc": 4.349100501960209
+    },
+    {
+      "party": "LDP",
+      "votes": 1099,
+      "pc": 1.0066683765067965
+    },
+    {
+      "party": "AJP",
+      "votes": 70,
+      "pc": 0.06411900487304437
+    },
+    {
+      "party": "XEN",
+      "votes": 34863,
+      "pc": 31.934012384127797
+    }
+  ],
+  "Spence": [
+    {
+      "party": "",
+      "votes": 5908,
+      "pc": 5.843256715591249
+    },
+    {
+      "party": "ALP",
+      "votes": 43000,
+      "pc": 42.52878110535269
+    },
+    {
+      "party": "IND",
+      "votes": 2098,
+      "pc": 2.0750089013727897
+    },
+    {
+      "party": "CDPF",
+      "votes": 657,
+      "pc": 0.6498002136329469
+    },
+    {
+      "party": "LP",
+      "votes": 19708,
+      "pc": 19.4920283261463
+    },
+    {
+      "party": "FFP",
+      "votes": 5734,
+      "pc": 5.671163508327728
+    },
+    {
+      "party": "GRN",
+      "votes": 4344,
+      "pc": 4.296395933061676
+    },
+    {
+      "party": "AJP",
+      "votes": 581,
+      "pc": 0.5746330656327887
+    },
+    {
+      "party": "XEN",
+      "votes": 19078,
+      "pc": 18.86893223088183
+    }
+  ],
+  "Sturt": [
+    {
+      "party": "",
+      "votes": 4083,
+      "pc": 3.5907132178348427
+    },
+    {
+      "party": "IND",
+      "votes": 637,
+      "pc": 0.5601969923489579
+    },
+    {
+      "party": "ALP",
+      "votes": 25548,
+      "pc": 22.467680942749098
+    },
+    {
+      "party": "LP",
+      "votes": 48638,
+      "pc": 42.77372262773723
+    },
+    {
+      "party": "GRN",
+      "votes": 8303,
+      "pc": 7.30190836338053
+    },
+    {
+      "party": "FFP",
+      "votes": 3191,
+      "pc": 2.806261542520447
+    },
+    {
+      "party": "LDP",
+      "votes": 153,
+      "pc": 0.13455280977926304
+    },
+    {
+      "party": "AJP",
+      "votes": 1388,
+      "pc": 1.2206490194354058
+    },
+    {
+      "party": "XEN",
+      "votes": 21769,
+      "pc": 19.144314484214227
+    }
+  ],
+  "Bass": [
+    {
+      "party": "",
+      "votes": 2762,
+      "pc": 3.9691321654906804
+    },
+    {
+      "party": "ALP",
+      "votes": 26496,
+      "pc": 38.07607742825528
+    },
+    {
+      "party": "LP",
+      "votes": 26188,
+      "pc": 37.63346602095219
+    },
+    {
+      "party": "CDPF",
+      "votes": 1773,
+      "pc": 2.54788969204018
+    },
+    {
+      "party": "GRN",
+      "votes": 7386,
+      "pc": 10.61405147513185
+    },
+    {
+      "party": "ARF",
+      "votes": 3320,
+      "pc": 4.771006078721601
+    },
+    {
+      "party": "REP",
+      "votes": 1662,
+      "pc": 2.3883771394082225
+    }
+  ],
+  "Braddon": [
+    {
+      "party": "",
+      "votes": 3713,
+      "pc": 5.122015146707867
+    },
+    {
+      "party": "ALP",
+      "votes": 27213,
+      "pc": 37.53983253093487
+    },
+    {
+      "party": "LP",
+      "votes": 28907,
+      "pc": 39.876674345780856
+    },
+    {
+      "party": "CDPF",
+      "votes": 1219,
+      "pc": 1.68158805920735
+    },
+    {
+      "party": "GRN",
+      "votes": 4700,
+      "pc": 6.483563476845402
+    },
+    {
+      "party": "LDP",
+      "votes": 1380,
+      "pc": 1.9036845953290753
+    },
+    {
+      "party": "ARF",
+      "votes": 3919,
+      "pc": 5.40618835441641
+    },
+    {
+      "party": "REP",
+      "votes": 1440,
+      "pc": 1.9864534907781655
+    }
+  ],
+  "Clark": [
+    {
+      "party": "",
+      "votes": 2004,
+      "pc": 2.916436242978141
+    },
+    {
+      "candidateKey": "WILKIEANDREW",
+      "party": "IND",
+      "votes": 29372,
+      "pc": 42.74529208021655
+    },
+    {
+      "party": "ALP",
+      "votes": 15357,
+      "pc": 22.34915737695375
+    },
+    {
+      "party": "LP",
+      "votes": 13287,
+      "pc": 19.336670838548184
+    },
+    {
+      "party": "CDPF",
+      "votes": 981,
+      "pc": 1.4276566638530723
+    },
+    {
+      "party": "DLP",
+      "votes": 632,
+      "pc": 0.9197543440929068
+    },
+    {
+      "party": "GRN",
+      "votes": 7079,
+      "pc": 10.302121838344442
+    },
+    {
+      "party": "ARTS",
+      "votes": 2,
+      "pc": 0.002910615012952237
+    }
+  ],
+  "Franklin": [
+    {
+      "party": "",
+      "votes": 2338,
+      "pc": 3.412092643131303
+    },
+    {
+      "party": "ALP",
+      "votes": 31005,
+      "pc": 45.24890179652953
+    },
+    {
+      "party": "LP",
+      "votes": 23311,
+      "pc": 34.0202273755491
+    },
+    {
+      "party": "CDPF",
+      "votes": 1312,
+      "pc": 1.9147414661198756
+    },
+    {
+      "party": "GRN",
+      "votes": 8956,
+      "pc": 13.07044555683659
+    },
+    {
+      "party": "ARTS",
+      "votes": 1599,
+      "pc": 2.3335911618335983
+    }
+  ],
+  "Lyons": [
+    {
+      "party": "",
+      "votes": 3108,
+      "pc": 4.4252701721413015
+    },
+    {
+      "party": "ALP",
+      "votes": 27114,
+      "pc": 38.60578360599718
+    },
+    {
+      "party": "LP",
+      "votes": 27264,
+      "pc": 38.81935842125497
+    },
+    {
+      "party": "CDPF",
+      "votes": 1059,
+      "pc": 1.5078381957199607
+    },
+    {
+      "party": "GRN",
+      "votes": 6169,
+      "pc": 8.783620235501829
+    },
+    {
+      "party": "ARTS",
+      "votes": 72,
+      "pc": 0.1025159113237367
+    },
+    {
+      "party": "ARF",
+      "votes": 4015,
+      "pc": 5.71668588840004
+    },
+    {
+      "party": "REP",
+      "votes": 1432,
+      "pc": 2.0389275696609857
+    }
+  ],
+  "Aston": [
+    {
+      "party": "",
+      "votes": 4251,
+      "pc": 4.200177848038732
+    },
+    {
+      "party": "IND",
+      "votes": 2104,
+      "pc": 2.078845963837565
+    },
+    {
+      "party": "ALP",
+      "votes": 30034,
+      "pc": 29.674933306985473
+    },
+    {
+      "party": "LP",
+      "votes": 47941,
+      "pc": 47.36784902677601
+    },
+    {
+      "party": "GRN",
+      "votes": 8730,
+      "pc": 8.625629878470507
+    },
+    {
+      "party": "ASP",
+      "votes": 195,
+      "pc": 0.19266870862562988
+    },
+    {
+      "party": "FFP",
+      "votes": 3057,
+      "pc": 3.020452524454105
+    },
+    {
+      "party": "LDP",
+      "votes": 1362,
+      "pc": 1.3457168264005532
+    },
+    {
+      "party": "ASXP",
+      "votes": 349,
+      "pc": 0.3448275862068966
+    },
+    {
+      "party": "AJP",
+      "votes": 2531,
+      "pc": 2.500741033494714
+    },
+    {
+      "party": "RUAP",
+      "votes": 115,
+      "pc": 0.11362513585614069
+    },
+    {
+      "party": "DHJP",
+      "votes": 541,
+      "pc": 0.5345321608536705
+    }
+  ],
+  "Ballarat": [
+    {
+      "party": "",
+      "votes": 5254,
+      "pc": 5.292742877865979
+    },
+    {
+      "party": "IND",
+      "votes": 1722,
+      "pc": 1.734697989281541
+    },
+    {
+      "party": "ALP",
+      "votes": 40699,
+      "pc": 40.99911351089979
+    },
+    {
+      "party": "LP",
+      "votes": 32609,
+      "pc": 32.849458032800094
+    },
+    {
+      "party": "NP",
+      "votes": 3963,
+      "pc": 3.992223072893581
+    },
+    {
+      "party": "GRN",
+      "votes": 10197,
+      "pc": 10.272192448724665
+    },
+    {
+      "party": "FFP",
+      "votes": 1807,
+      "pc": 1.820324777370351
+    },
+    {
+      "party": "RUAP",
+      "votes": 1078,
+      "pc": 1.085949147761615
+    },
+    {
+      "party": "AUC",
+      "votes": 1939,
+      "pc": 1.9532981424023856
+    }
+  ],
+  "Bendigo": [
+    {
+      "party": "",
+      "votes": 4575,
+      "pc": 4.622612913003941
+    },
+    {
+      "party": "IND",
+      "votes": 1860,
+      "pc": 1.8793573810245527
+    },
+    {
+      "party": "ALP",
+      "votes": 36400,
+      "pc": 36.77882186521168
+    },
+    {
+      "party": "LP",
+      "votes": 35627,
+      "pc": 35.99777710417298
+    },
+    {
+      "party": "NP",
+      "votes": 3458,
+      "pc": 3.4939880771951093
+    },
+    {
+      "party": "GRN",
+      "votes": 10294,
+      "pc": 10.401131656057391
+    },
+    {
+      "party": "FFP",
+      "votes": 2671,
+      "pc": 2.698797615439022
+    },
+    {
+      "party": "AJP",
+      "votes": 2066,
+      "pc": 2.087501263008993
+    },
+    {
+      "party": "RUAP",
+      "votes": 2019,
+      "pc": 2.040012124886329
+    }
+  ],
+  "Bruce": [
+    {
+      "party": "",
+      "votes": 5190,
+      "pc": 5.338956897438535
+    },
+    {
+      "party": "ALP",
+      "votes": 49850,
+      "pc": 51.28073243493467
+    },
+    {
+      "party": "LP",
+      "votes": 27903,
+      "pc": 28.703837053801053
+    },
+    {
+      "party": "GRN",
+      "votes": 6017,
+      "pc": 6.189692418475466
+    },
+    {
+      "party": "FFP",
+      "votes": 3605,
+      "pc": 3.708466207180331
+    },
+    {
+      "party": "AJP",
+      "votes": 1721,
+      "pc": 1.7703939923876144
+    },
+    {
+      "party": "RUAP",
+      "votes": 1844,
+      "pc": 1.8969241847546547
+    },
+    {
+      "party": "DRF",
+      "votes": 711,
+      "pc": 0.7314062339265508
+    },
+    {
+      "party": "REP",
+      "votes": 369,
+      "pc": 0.37959057710112126
+    }
+  ],
+  "Calwell": [
+    {
+      "party": "",
+      "votes": 5766,
+      "pc": 6.875827281508245
+    },
+    {
+      "party": "IND",
+      "votes": 2025,
+      "pc": 2.414767645690981
+    },
+    {
+      "party": "IND",
+      "votes": 293,
+      "pc": 0.3493960099691148
+    },
+    {
+      "party": "ALP",
+      "votes": 45825,
+      "pc": 54.64529746359962
+    },
+    {
+      "party": "LP",
+      "votes": 20031,
+      "pc": 23.88652380782027
+    },
+    {
+      "party": "NP",
+      "votes": 169,
+      "pc": 0.20152875660334613
+    },
+    {
+      "party": "GRN",
+      "votes": 6257,
+      "pc": 7.461333905722702
+    },
+    {
+      "party": "FFP",
+      "votes": 525,
+      "pc": 0.6260508711050692
+    },
+    {
+      "party": "AJP",
+      "votes": 2621,
+      "pc": 3.12548444412645
+    },
+    {
+      "party": "CYA",
+      "votes": 152,
+      "pc": 0.18125663315803908
+    },
+    {
+      "party": "RUAP",
+      "votes": 195,
+      "pc": 0.23253318069616857
+    }
+  ],
+  "Casey": [
+    {
+      "party": "",
+      "votes": 4099,
+      "pc": 4.026443488340111
+    },
+    {
+      "candidateKey": "CHARLETONPETER",
+      "party": "IND",
+      "votes": 2566,
+      "pc": 2.520579163474195
+    },
+    {
+      "party": "ALP",
+      "votes": 27543,
+      "pc": 27.055460599988212
+    },
+    {
+      "party": "LP",
+      "votes": 46453,
+      "pc": 45.630734170252055
+    },
+    {
+      "party": "GRN",
+      "votes": 12542,
+      "pc": 12.319993713286575
+    },
+    {
+      "party": "ASP",
+      "votes": 244,
+      "pc": 0.23968094929372702
+    },
+    {
+      "party": "FFP",
+      "votes": 362,
+      "pc": 0.3555922280505295
+    },
+    {
+      "party": "LDP",
+      "votes": 202,
+      "pc": 0.1984243924480855
+    },
+    {
+      "party": "ASXP",
+      "votes": 486,
+      "pc": 0.4773973006424235
+    },
+    {
+      "party": "AJP",
+      "votes": 4203,
+      "pc": 4.128602581481699
+    },
+    {
+      "party": "RUAP",
+      "votes": 2397,
+      "pc": 2.3545706371191137
+    },
+    {
+      "party": "DHJP",
+      "votes": 705,
+      "pc": 0.6925207756232686
+    }
+  ],
+  "Chisholm": [
+    {
+      "party": "",
+      "votes": 2664,
+      "pc": 2.7190054808781654
+    },
+    {
+      "party": "ALP",
+      "votes": 33060,
+      "pc": 33.742613062249305
+    },
+    {
+      "party": "LP",
+      "votes": 44880,
+      "pc": 45.80666891209162
+    },
+    {
+      "party": "GRN",
+      "votes": 10995,
+      "pc": 11.222021494840625
+    },
+    {
+      "party": "FFP",
+      "votes": 2395,
+      "pc": 2.444451248762465
+    },
+    {
+      "party": "AJP",
+      "votes": 2023,
+      "pc": 2.0647703032344324
+    },
+    {
+      "party": "RUAP",
+      "votes": 1176,
+      "pc": 1.200281698766037
+    },
+    {
+      "party": "AUC",
+      "votes": 403,
+      "pc": 0.41132102432203477
+    },
+    {
+      "party": "DRF",
+      "votes": 235,
+      "pc": 0.23985221021260092
+    },
+    {
+      "party": "REP",
+      "votes": 146,
+      "pc": 0.14901456464272228
+    }
+  ],
+  "Cooper": [
+    {
+      "party": "",
+      "votes": 7269,
+      "pc": 7.637750598915647
+    },
+    {
+      "party": "IND",
+      "votes": 445,
+      "pc": 0.4675744967007103
+    },
+    {
+      "party": "IND",
+      "votes": 1422,
+      "pc": 1.494136931030135
+    },
+    {
+      "party": "IND",
+      "votes": 44,
+      "pc": 0.04623208506703652
+    },
+    {
+      "party": "ALP",
+      "votes": 30809,
+      "pc": 32.37191610978019
+    },
+    {
+      "party": "LP",
+      "votes": 17317,
+      "pc": 18.19547766149708
+    },
+    {
+      "party": "GRN",
+      "votes": 32237,
+      "pc": 33.87235741604674
+    },
+    {
+      "party": "SEP",
+      "votes": 8,
+      "pc": 0.008405833648552095
+    },
+    {
+      "party": "SAL",
+      "votes": 17,
+      "pc": 0.017862396503173204
+    },
+    {
+      "party": "ASXP",
+      "votes": 2250,
+      "pc": 2.364140713655277
+    },
+    {
+      "party": "AJP",
+      "votes": 1470,
+      "pc": 1.5445719329214476
+    },
+    {
+      "party": "CYC",
+      "votes": 366,
+      "pc": 0.38456688942125833
+    },
+    {
+      "party": "AEQ",
+      "votes": 649,
+      "pc": 0.6819232547387888
+    },
+    {
+      "party": "DRF",
+      "votes": 30,
+      "pc": 0.031521876182070356
+    },
+    {
+      "party": "REP",
+      "votes": 573,
+      "pc": 0.6020678350775438
+    },
+    {
+      "party": "AUP",
+      "votes": 266,
+      "pc": 0.2794939688143572
+    }
+  ],
+  "Corangamite": [
+    {
+      "party": "",
+      "votes": 4317,
+      "pc": 4.696935078499854
+    },
+    {
+      "party": "IND",
+      "votes": 942,
+      "pc": 1.0249045272056663
+    },
+    {
+      "party": "ALP",
+      "votes": 29831,
+      "pc": 32.45639803723167
+    },
+    {
+      "party": "LP",
+      "votes": 38256,
+      "pc": 41.622874302314194
+    },
+    {
+      "party": "GRN",
+      "votes": 10588,
+      "pc": 11.519839845067512
+    },
+    {
+      "party": "FFP",
+      "votes": 1164,
+      "pc": 1.266442536801906
+    },
+    {
+      "party": "SAL",
+      "votes": 225,
+      "pc": 0.2448020367529458
+    },
+    {
+      "party": "LDP",
+      "votes": 551,
+      "pc": 0.5994929877816584
+    },
+    {
+      "party": "AJP",
+      "votes": 1959,
+      "pc": 2.131409733328981
+    },
+    {
+      "party": "RUAP",
+      "votes": 1027,
+      "pc": 1.117385296645668
+    },
+    {
+      "party": "BTA",
+      "votes": 283,
+      "pc": 0.307906561782594
+    },
+    {
+      "party": "DRF",
+      "votes": 777,
+      "pc": 0.8453830335868394
+    },
+    {
+      "party": "DHJP",
+      "votes": 1991,
+      "pc": 2.1662260230005117
+    }
+  ],
+  "Corio": [
+    {
+      "party": "",
+      "votes": 4524,
+      "pc": 4.664879356568365
+    },
+    {
+      "party": "IND",
+      "votes": 289,
+      "pc": 0.29799958754382344
+    },
+    {
+      "party": "ALP",
+      "votes": 40149,
+      "pc": 41.39925757888224
+    },
+    {
+      "party": "LP",
+      "votes": 33865,
+      "pc": 34.91957104557641
+    },
+    {
+      "party": "GRN",
+      "votes": 10807,
+      "pc": 11.143534749432872
+    },
+    {
+      "party": "FFP",
+      "votes": 416,
+      "pc": 0.42895442359249336
+    },
+    {
+      "party": "SAL",
+      "votes": 876,
+      "pc": 0.9032790266034233
+    },
+    {
+      "party": "LDP",
+      "votes": 161,
+      "pc": 0.16601361105382553
+    },
+    {
+      "party": "AJP",
+      "votes": 2584,
+      "pc": 2.6644669003918335
+    },
+    {
+      "party": "RUAP",
+      "votes": 1557,
+      "pc": 1.6054856671478657
+    },
+    {
+      "party": "BTA",
+      "votes": 855,
+      "pc": 0.8816250773355331
+    },
+    {
+      "party": "DRF",
+      "votes": 266,
+      "pc": 0.2742833573932769
+    },
+    {
+      "party": "DHJP",
+      "votes": 631,
+      "pc": 0.6506496184780367
+    }
+  ],
+  "Deakin": [
+    {
+      "party": "",
+      "votes": 2983,
+      "pc": 3.009999697284643
+    },
+    {
+      "party": "IND",
+      "votes": 106,
+      "pc": 0.10695942605168361
+    },
+    {
+      "party": "IND",
+      "votes": 312,
+      "pc": 0.31482397102004983
+    },
+    {
+      "party": "IND",
+      "votes": 444,
+      "pc": 0.4480187279900709
+    },
+    {
+      "party": "ALP",
+      "votes": 28910,
+      "pc": 29.17166987881295
+    },
+    {
+      "party": "LP",
+      "votes": 48361,
+      "pc": 48.79872455929689
+    },
+    {
+      "party": "GRN",
+      "votes": 10907,
+      "pc": 11.005721320242575
+    },
+    {
+      "party": "FFP",
+      "votes": 2097,
+      "pc": 2.115980343682835
+    },
+    {
+      "party": "AJP",
+      "votes": 2861,
+      "pc": 2.8868954522062906
+    },
+    {
+      "party": "RUAP",
+      "votes": 306,
+      "pc": 0.3087696638850489
+    },
+    {
+      "party": "AUC",
+      "votes": 1693,
+      "pc": 1.7083236632594372
+    },
+    {
+      "party": "VEP",
+      "votes": 123,
+      "pc": 0.12411329626751966
+    }
+  ],
+  "Dunkley": [
+    {
+      "party": "",
+      "votes": 5821,
+      "pc": 6.036816178376977
+    },
+    {
+      "party": "IND",
+      "votes": 965,
+      "pc": 1.0007778065854291
+    },
+    {
+      "party": "ALP",
+      "votes": 33087,
+      "pc": 34.31371532278973
+    },
+    {
+      "party": "LP",
+      "votes": 37240,
+      "pc": 38.62068965517241
+    },
+    {
+      "party": "GRN",
+      "votes": 8588,
+      "pc": 8.9064039408867
+    },
+    {
+      "party": "FFP",
+      "votes": 1167,
+      "pc": 1.210267046927664
+    },
+    {
+      "party": "LDP",
+      "votes": 834,
+      "pc": 0.8649209229971481
+    },
+    {
+      "party": "AJP",
+      "votes": 2614,
+      "pc": 2.7109152190821884
+    },
+    {
+      "party": "RUAP",
+      "votes": 580,
+      "pc": 0.6015037593984963
+    },
+    {
+      "party": "AUC",
+      "votes": 561,
+      "pc": 0.5817993259009593
+    },
+    {
+      "party": "ARTS",
+      "votes": 439,
+      "pc": 0.4552761213378273
+    },
+    {
+      "party": "DHJP",
+      "votes": 4529,
+      "pc": 4.696914700544465
+    }
+  ],
+  "Flinders": [
+    {
+      "party": "",
+      "votes": 3840,
+      "pc": 4.043978263616833
+    },
+    {
+      "party": "IND",
+      "votes": 2306,
+      "pc": 2.428493196849067
+    },
+    {
+      "party": "IND",
+      "votes": 167,
+      "pc": 0.1758709296937529
+    },
+    {
+      "party": "ALP",
+      "votes": 25091,
+      "pc": 26.42381734698176
+    },
+    {
+      "party": "LP",
+      "votes": 46016,
+      "pc": 48.46033952567505
+    },
+    {
+      "party": "GRN",
+      "votes": 10017,
+      "pc": 10.549096423606724
+    },
+    {
+      "party": "FFP",
+      "votes": 226,
+      "pc": 0.23800497072328236
+    },
+    {
+      "party": "LDP",
+      "votes": 203,
+      "pc": 0.2137832259151607
+    },
+    {
+      "party": "AJP",
+      "votes": 3492,
+      "pc": 3.6774927334765577
+    },
+    {
+      "party": "RUAP",
+      "votes": 2398,
+      "pc": 2.5253801760815535
+    },
+    {
+      "party": "AUC",
+      "votes": 116,
+      "pc": 0.12216184338009184
+    },
+    {
+      "party": "ARTS",
+      "votes": 103,
+      "pc": 0.10847129196680569
+    },
+    {
+      "party": "DHJP",
+      "votes": 981,
+      "pc": 1.0331100720333628
+    }
+  ],
+  "Fraser": [
+    {
+      "party": "",
+      "votes": 5343,
+      "pc": 5.649245604203893
+    },
+    {
+      "candidateKey": "TRANVAN",
+      "party": "IND",
+      "votes": 1321,
+      "pc": 1.396715972890388
+    },
+    {
+      "party": "IND",
+      "votes": 1090,
+      "pc": 1.1524757081381702
+    },
+    {
+      "party": "IND",
+      "votes": 1023,
+      "pc": 1.081635458188393
+    },
+    {
+      "party": "ALP",
+      "votes": 52214,
+      "pc": 55.20675837130864
+    },
+    {
+      "party": "LP",
+      "votes": 22652,
+      "pc": 23.95034838600535
+    },
+    {
+      "party": "GRN",
+      "votes": 8709,
+      "pc": 9.208175176307638
+    },
+    {
+      "party": "AJP",
+      "votes": 1600,
+      "pc": 1.6917074614872223
+    },
+    {
+      "party": "AUC",
+      "votes": 627,
+      "pc": 0.6629378614703052
+    }
+  ],
+  "Gellibrand": [
+    {
+      "party": "",
+      "votes": 3650,
+      "pc": 3.9109796736207096
+    },
+    {
+      "party": "IND",
+      "votes": 2801,
+      "pc": 3.0012750865237283
+    },
+    {
+      "party": "ALP",
+      "votes": 41456,
+      "pc": 44.42015708208771
+    },
+    {
+      "party": "LP",
+      "votes": 26715,
+      "pc": 28.625156707062267
+    },
+    {
+      "party": "GRN",
+      "votes": 16996,
+      "pc": 18.211235762426735
+    },
+    {
+      "party": "AFN",
+      "votes": 704,
+      "pc": 0.7543369014325972
+    },
+    {
+      "party": "RUAP",
+      "votes": 1005,
+      "pc": 1.0768587868462502
+    }
+  ],
+  "Gippsland": [
+    {
+      "party": "",
+      "votes": 6639,
+      "pc": 6.862937655705677
+    },
+    {
+      "party": "IND",
+      "votes": 1379,
+      "pc": 1.4255145394213176
+    },
+    {
+      "party": "IND",
+      "votes": 1577,
+      "pc": 1.6301932042548353
+    },
+    {
+      "party": "ALP",
+      "votes": 18213,
+      "pc": 18.82733597279221
+    },
+    {
+      "party": "LP",
+      "votes": 279,
+      "pc": 0.2884108459017749
+    },
+    {
+      "party": "NP",
+      "votes": 50308,
+      "pc": 52.00492055780105
+    },
+    {
+      "party": "GRN",
+      "votes": 7056,
+      "pc": 7.2940033286126305
+    },
+    {
+      "party": "FFP",
+      "votes": 3100,
+      "pc": 3.204564954464166
+    },
+    {
+      "party": "LDP",
+      "votes": 4465,
+      "pc": 4.615607265058871
+    },
+    {
+      "party": "AJP",
+      "votes": 29,
+      "pc": 0.029978188283697034
+    },
+    {
+      "party": "RUAP",
+      "votes": 1545,
+      "pc": 1.5971138240797211
+    },
+    {
+      "party": "AUC",
+      "votes": 763,
+      "pc": 0.7887364710503737
+    },
+    {
+      "party": "REP",
+      "votes": 1384,
+      "pc": 1.4306831925736792
+    }
+  ],
+  "Goldstein": [
+    {
+      "party": "",
+      "votes": 2363,
+      "pc": 2.463947947405191
+    },
+    {
+      "party": "GRN",
+      "votes": 14871,
+      "pc": 15.506292816700206
+    },
+    {
+      "party": "AJP",
+      "votes": 2222,
+      "pc": 2.316924392354775
+    },
+    {
+      "party": "ALP",
+      "votes": 20466,
+      "pc": 21.340312607530525
+    },
+    {
+      "candidateKey": "WILSONTIM",
+      "party": "LP",
+      "votes": 52694,
+      "pc": 54.94510077891203
+    },
+    {
+      "party": "FFP",
+      "votes": 1549,
+      "pc": 1.6151736650574018
+    },
+    {
+      "party": "DRF",
+      "votes": 1738,
+      "pc": 1.8122477920398739
+    }
+  ],
+  "Gorton": [
+    {
+      "party": "",
+      "votes": 4442,
+      "pc": 5.048932131531388
+    },
+    {
+      "party": "ALP",
+      "votes": 51159,
+      "pc": 58.14910376339808
+    },
+    {
+      "party": "LP",
+      "votes": 24028,
+      "pc": 27.311062867275144
+    },
+    {
+      "party": "GRN",
+      "votes": 8350,
+      "pc": 9.490901237795384
+    }
+  ],
+  "Higgins": [
+    {
+      "party": "",
+      "votes": 3611,
+      "pc": 3.7541065413565105
+    },
+    {
+      "party": "ALP",
+      "votes": 15301,
+      "pc": 15.907389695180271
+    },
+    {
+      "party": "LP",
+      "votes": 47749,
+      "pc": 49.64132740050734
+    },
+    {
+      "party": "GRN",
+      "votes": 22396,
+      "pc": 23.283569676051066
+    },
+    {
+      "party": "FFP",
+      "votes": 135,
+      "pc": 0.1403501476275627
+    },
+    {
+      "party": "LDP",
+      "votes": 1052,
+      "pc": 1.0936915207718219
+    },
+    {
+      "party": "AJP",
+      "votes": 1454,
+      "pc": 1.5116230714850085
+    },
+    {
+      "party": "RUAP",
+      "votes": 144,
+      "pc": 0.14970682413606687
+    },
+    {
+      "party": "AEQ",
+      "votes": 1198,
+      "pc": 1.245477606354223
+    },
+    {
+      "party": "XEN",
+      "votes": 1932,
+      "pc": 2.0085665571588973
+    },
+    {
+      "party": "DHJP",
+      "votes": 1216,
+      "pc": 1.2641909593712313
+    }
+  ],
+  "Holt": [
+    {
+      "party": "",
+      "votes": 4216,
+      "pc": 4.902325581395349
+    },
+    {
+      "party": "IND",
+      "votes": 298,
+      "pc": 0.34651162790697676
+    },
+    {
+      "party": "ALP",
+      "votes": 39920,
+      "pc": 46.418604651162795
+    },
+    {
+      "party": "LP",
+      "votes": 27610,
+      "pc": 32.104651162790695
+    },
+    {
+      "party": "GRN",
+      "votes": 5336,
+      "pc": 6.2046511627906975
+    },
+    {
+      "party": "ASP",
+      "votes": 103,
+      "pc": 0.1197674418604651
+    },
+    {
+      "party": "FFP",
+      "votes": 3902,
+      "pc": 4.537209302325581
+    },
+    {
+      "party": "LDP",
+      "votes": 108,
+      "pc": 0.12558139534883722
+    },
+    {
+      "party": "ASXP",
+      "votes": 144,
+      "pc": 0.16744186046511628
+    },
+    {
+      "party": "AJP",
+      "votes": 620,
+      "pc": 0.7209302325581395
+    },
+    {
+      "party": "RUAP",
+      "votes": 3414,
+      "pc": 3.969767441860465
+    },
+    {
+      "party": "DHJP",
+      "votes": 329,
+      "pc": 0.3825581395348837
+    }
+  ],
+  "Hotham": [
+    {
+      "party": "",
+      "votes": 3822,
+      "pc": 3.9087348257841508
+    },
+    {
+      "party": "ALP",
+      "votes": 40481,
+      "pc": 41.399658420347514
+    },
+    {
+      "party": "LP",
+      "votes": 37901,
+      "pc": 38.76110900890766
+    },
+    {
+      "party": "GRN",
+      "votes": 8511,
+      "pc": 8.704144977040528
+    },
+    {
+      "party": "FFP",
+      "votes": 2468,
+      "pc": 2.5240077315633918
+    },
+    {
+      "party": "AJP",
+      "votes": 2313,
+      "pc": 2.3654902281629355
+    },
+    {
+      "party": "RUAP",
+      "votes": 1490,
+      "pc": 1.5238134197850297
+    },
+    {
+      "party": "DRF",
+      "votes": 494,
+      "pc": 0.5052106237408085
+    },
+    {
+      "party": "REP",
+      "votes": 301,
+      "pc": 0.30783076466798254
+    }
+  ],
+  "Indi": [
+    {
+      "party": "",
+      "votes": 6555,
+      "pc": 6.574328525866047
+    },
+    {
+      "party": "IND",
+      "votes": 31125,
+      "pc": 31.216777325336487
+    },
+    {
+      "party": "IND",
+      "votes": 110,
+      "pc": 0.11032435359958276
+    },
+    {
+      "party": "IND",
+      "votes": 1746,
+      "pc": 1.7511483762261046
+    },
+    {
+      "party": "IND",
+      "votes": 459,
+      "pc": 0.46035343911098625
+    },
+    {
+      "party": "IND",
+      "votes": 118,
+      "pc": 0.1183479429522797
+    },
+    {
+      "party": "IND",
+      "votes": 33,
+      "pc": 0.033097306079874836
+    },
+    {
+      "party": "IND",
+      "votes": 41,
+      "pc": 0.04112089543257176
+    },
+    {
+      "party": "ALP",
+      "votes": 9369,
+      "pc": 9.39662608067719
+    },
+    {
+      "party": "LP",
+      "votes": 25895,
+      "pc": 25.971355786010875
+    },
+    {
+      "party": "NP",
+      "votes": 16535,
+      "pc": 16.583756243355467
+    },
+    {
+      "party": "GRN",
+      "votes": 3692,
+      "pc": 3.7028864862696325
+    },
+    {
+      "party": "CEC",
+      "votes": 10,
+      "pc": 0.010029486690871161
+    },
+    {
+      "party": "LDP",
+      "votes": 879,
+      "pc": 0.8815918801275752
+    },
+    {
+      "party": "CYA",
+      "votes": 1953,
+      "pc": 1.9587587507271378
+    },
+    {
+      "party": "RUAP",
+      "votes": 1186,
+      "pc": 1.1894971215373198
+    }
+  ],
+  "Isaacs": [
+    {
+      "party": "",
+      "votes": 3230,
+      "pc": 3.4137267750322353
+    },
+    {
+      "party": "ALP",
+      "votes": 37415,
+      "pc": 39.54321587858547
+    },
+    {
+      "party": "LP",
+      "votes": 38979,
+      "pc": 41.19617831702213
+    },
+    {
+      "party": "GRN",
+      "votes": 9795,
+      "pc": 10.352152867319115
+    },
+    {
+      "party": "FFP",
+      "votes": 639,
+      "pc": 0.675347185524953
+    },
+    {
+      "party": "AJP",
+      "votes": 3968,
+      "pc": 4.193705214652603
+    },
+    {
+      "party": "RUAP",
+      "votes": 592,
+      "pc": 0.6256737618634932
+    }
+  ],
+  "Jagajaga": [
+    {
+      "party": "",
+      "votes": 2980,
+      "pc": 3.07070873606331
+    },
+    {
+      "party": "ALP",
+      "votes": 38682,
+      "pc": 39.85944809677885
+    },
+    {
+      "party": "LP",
+      "votes": 37708,
+      "pc": 38.85580034210581
+    },
+    {
+      "party": "GRN",
+      "votes": 12633,
+      "pc": 13.01753807472745
+    },
+    {
+      "party": "FFP",
+      "votes": 1879,
+      "pc": 1.9361952063969665
+    },
+    {
+      "party": "AJP",
+      "votes": 2498,
+      "pc": 2.5740370545926674
+    },
+    {
+      "party": "DRF",
+      "votes": 666,
+      "pc": 0.6862724893349545
+    }
+  ],
+  "Kooyong": [
+    {
+      "party": "",
+      "votes": 1963,
+      "pc": 2.0022031374308966
+    },
+    {
+      "candidateKey": "ZUBACANGELINA",
+      "party": "IND",
+      "votes": 2750,
+      "pc": 2.8049203402623366
+    },
+    {
+      "party": "ALP",
+      "votes": 19722,
+      "pc": 20.115868709328655
+    },
+    {
+      "party": "LP",
+      "votes": 55390,
+      "pc": 56.49619550804758
+    },
+    {
+      "party": "GRN",
+      "votes": 17863,
+      "pc": 18.219742559311317
+    },
+    {
+      "party": "FFP",
+      "votes": 138,
+      "pc": 0.14075600252952816
+    },
+    {
+      "party": "AJP",
+      "votes": 125,
+      "pc": 0.12749637910283348
+    },
+    {
+      "party": "RUAP",
+      "votes": 91,
+      "pc": 0.09281736398686277
+    }
+  ],
+  "Lalor": [
+    {
+      "party": "",
+      "votes": 3891,
+      "pc": 4.549866111624317
+    },
+    {
+      "party": "ALP",
+      "votes": 42901,
+      "pc": 50.16546030706627
+    },
+    {
+      "party": "LP",
+      "votes": 24672,
+      "pc": 28.849729299921655
+    },
+    {
+      "party": "GRN",
+      "votes": 7847,
+      "pc": 9.17573872472784
+    },
+    {
+      "party": "AFN",
+      "votes": 2528,
+      "pc": 2.95606824214502
+    },
+    {
+      "party": "RUAP",
+      "votes": 3680,
+      "pc": 4.303137314514903
+    }
+  ],
+  "La Trobe": [
+    {
+      "party": "",
+      "votes": 4923,
+      "pc": 5.675451338451961
+    },
+    {
+      "party": "ALP",
+      "votes": 26295,
+      "pc": 30.314034723663276
+    },
+    {
+      "party": "LP",
+      "votes": 36104,
+      "pc": 41.62228217011367
+    },
+    {
+      "party": "GRN",
+      "votes": 6777,
+      "pc": 7.8128242373936505
+    },
+    {
+      "party": "ASP",
+      "votes": 779,
+      "pc": 0.8980655276567292
+    },
+    {
+      "party": "FFP",
+      "votes": 2366,
+      "pc": 2.7276290608932237
+    },
+    {
+      "party": "LDP",
+      "votes": 1342,
+      "pc": 1.5471167369901548
+    },
+    {
+      "party": "ASXP",
+      "votes": 1124,
+      "pc": 1.295796730534228
+    },
+    {
+      "party": "AJP",
+      "votes": 2581,
+      "pc": 2.9754905351502154
+    },
+    {
+      "party": "RUAP",
+      "votes": 1609,
+      "pc": 1.8549261026953496
+    },
+    {
+      "party": "AUC",
+      "votes": 495,
+      "pc": 0.5706578128242373
+    },
+    {
+      "party": "DHJP",
+      "votes": 2347,
+      "pc": 2.7057250236333035
+    }
+  ],
+  "Macnamara": [
+    {
+      "party": "",
+      "votes": 3915,
+      "pc": 4.226127507070532
+    },
+    {
+      "party": "IND",
+      "votes": 425,
+      "pc": 0.45877501673179477
+    },
+    {
+      "party": "IND",
+      "votes": 1393,
+      "pc": 1.5037025842526826
+    },
+    {
+      "party": "ALP",
+      "votes": 23547,
+      "pc": 25.418294868196632
+    },
+    {
+      "party": "LP",
+      "votes": 37240,
+      "pc": 40.199486171981256
+    },
+    {
+      "party": "GRN",
+      "votes": 21431,
+      "pc": 23.1341350201861
+    },
+    {
+      "party": "LDP",
+      "votes": 41,
+      "pc": 0.04425829573177314
+    },
+    {
+      "party": "AJP",
+      "votes": 1759,
+      "pc": 1.8987888339558283
+    },
+    {
+      "party": "AEQ",
+      "votes": 1416,
+      "pc": 1.5285304086875795
+    },
+    {
+      "party": "DRF",
+      "votes": 1348,
+      "pc": 1.4551264060104925
+    },
+    {
+      "party": "XEN",
+      "votes": 75,
+      "pc": 0.08096029707031671
+    },
+    {
+      "party": "DHJP",
+      "votes": 48,
+      "pc": 0.051814590125002696
+    }
+  ],
+  "Mallee": [
+    {
+      "party": "",
+      "votes": 4902,
+      "pc": 4.75493001464697
+    },
+    {
+      "party": "IND",
+      "votes": 17,
+      "pc": 0.01648996537107272
+    },
+    {
+      "party": "IND",
+      "votes": 58,
+      "pc": 0.05625988185424811
+    },
+    {
+      "party": "IND",
+      "votes": 389,
+      "pc": 0.377329207608664
+    },
+    {
+      "party": "IND",
+      "votes": 439,
+      "pc": 0.42582910575887795
+    },
+    {
+      "party": "IND",
+      "votes": 67,
+      "pc": 0.0649898635212866
+    },
+    {
+      "party": "IND",
+      "votes": 52,
+      "pc": 0.05043989407622244
+    },
+    {
+      "party": "IND",
+      "votes": 51,
+      "pc": 0.04946989611321817
+    },
+    {
+      "party": "ALP",
+      "votes": 22135,
+      "pc": 21.470904911099687
+    },
+    {
+      "party": "LP",
+      "votes": 6963,
+      "pc": 6.7540958163987845
+    },
+    {
+      "party": "NP",
+      "votes": 54906,
+      "pc": 53.25870815671288
+    },
+    {
+      "party": "GRN",
+      "votes": 6885,
+      "pc": 6.678435975284453
+    },
+    {
+      "party": "CEC",
+      "votes": 1635,
+      "pc": 1.585946669511994
+    },
+    {
+      "party": "FFP",
+      "votes": 17,
+      "pc": 0.01648996537107272
+    },
+    {
+      "party": "AJP",
+      "votes": 13,
+      "pc": 0.01260997351905561
+    },
+    {
+      "party": "CYA",
+      "votes": 165,
+      "pc": 0.16004966389570582
+    },
+    {
+      "party": "RUAP",
+      "votes": 4399,
+      "pc": 4.267021039255817
+    }
+  ],
+  "Maribyrnong": [
+    {
+      "party": "",
+      "votes": 3813,
+      "pc": 3.969559423669526
+    },
+    {
+      "party": "IND",
+      "votes": 493,
+      "pc": 0.5132422753393854
+    },
+    {
+      "party": "IND",
+      "votes": 83,
+      "pc": 0.08640792870825352
+    },
+    {
+      "party": "IND",
+      "votes": 2149,
+      "pc": 2.237236611976347
+    },
+    {
+      "party": "ALP",
+      "votes": 38797,
+      "pc": 40.38998084450737
+    },
+    {
+      "party": "LP",
+      "votes": 31115,
+      "pc": 32.3925626717748
+    },
+    {
+      "party": "GRN",
+      "votes": 15890,
+      "pc": 16.542433580411426
+    },
+    {
+      "party": "SEP",
+      "votes": 9,
+      "pc": 0.009369534438244358
+    },
+    {
+      "party": "SAL",
+      "votes": 12,
+      "pc": 0.01249271258432581
+    },
+    {
+      "party": "ASXP",
+      "votes": 534,
+      "pc": 0.5559257100024986
+    },
+    {
+      "party": "AJP",
+      "votes": 1859,
+      "pc": 1.9353293911884735
+    },
+    {
+      "party": "AUC",
+      "votes": 1023,
+      "pc": 1.0650037478137753
+    },
+    {
+      "party": "DRF",
+      "votes": 245,
+      "pc": 0.2550595485966519
+    },
+    {
+      "party": "REP",
+      "votes": 34,
+      "pc": 0.03539601898892313
+    }
+  ],
+  "McEwen": [
+    {
+      "party": "",
+      "votes": 4947,
+      "pc": 5.567497608463227
+    },
+    {
+      "party": "IND",
+      "votes": 46,
+      "pc": 0.05176973721231219
+    },
+    {
+      "party": "IND",
+      "votes": 2033,
+      "pc": 2.2879972989702324
+    },
+    {
+      "party": "ALP",
+      "votes": 35418,
+      "pc": 39.86044679534073
+    },
+    {
+      "party": "LP",
+      "votes": 30054,
+      "pc": 33.82364526475719
+    },
+    {
+      "party": "NP",
+      "votes": 1698,
+      "pc": 1.9109785605762197
+    },
+    {
+      "party": "GRN",
+      "votes": 7211,
+      "pc": 8.115469022564852
+    },
+    {
+      "party": "FFP",
+      "votes": 2515,
+      "pc": 2.8304541106296774
+    },
+    {
+      "party": "AJP",
+      "votes": 2381,
+      "pc": 2.679646615272073
+    },
+    {
+      "party": "CYA",
+      "votes": 1115,
+      "pc": 1.2548534128636541
+    },
+    {
+      "party": "RUAP",
+      "votes": 1326,
+      "pc": 1.4923189465983906
+    },
+    {
+      "party": "DRF",
+      "votes": 111,
+      "pc": 0.124922626751449
+    }
+  ],
+  "Melbourne": [
+    {
+      "party": "",
+      "votes": 2153,
+      "pc": 2.495942499420357
+    },
+    {
+      "party": "IND",
+      "votes": 4,
+      "pc": 0.004637143519591932
+    },
+    {
+      "party": "IND",
+      "votes": 13,
+      "pc": 0.015070716438673776
+    },
+    {
+      "party": "IND",
+      "votes": 25,
+      "pc": 0.028982146997449575
+    },
+    {
+      "party": "ALP",
+      "votes": 20149,
+      "pc": 23.358451194064457
+    },
+    {
+      "party": "LP",
+      "votes": 20846,
+      "pc": 24.16647345235335
+    },
+    {
+      "party": "GRN",
+      "votes": 37516,
+      "pc": 43.49176907025272
+    },
+    {
+      "party": "SEP",
+      "votes": 6,
+      "pc": 0.006955715279387898
+    },
+    {
+      "party": "SAL",
+      "votes": 12,
+      "pc": 0.013911430558775795
+    },
+    {
+      "party": "ASXP",
+      "votes": 2931,
+      "pc": 3.3978669139809874
+    },
+    {
+      "party": "AJP",
+      "votes": 1523,
+      "pc": 1.7655923950846277
+    },
+    {
+      "party": "CYC",
+      "votes": 5,
+      "pc": 0.005796429399489914
+    },
+    {
+      "party": "AEQ",
+      "votes": 6,
+      "pc": 0.006955715279387898
+    },
+    {
+      "party": "DRF",
+      "votes": 1039,
+      "pc": 1.2044980292140042
+    },
+    {
+      "party": "REP",
+      "votes": 29,
+      "pc": 0.0336192905170415
+    },
+    {
+      "party": "AUP",
+      "votes": 3,
+      "pc": 0.003477857639693949
+    }
+  ],
+  "Menzies": [
+    {
+      "party": "",
+      "votes": 4543,
+      "pc": 4.550143725649269
+    },
+    {
+      "party": "IND",
+      "votes": 624,
+      "pc": 0.6249812205162105
+    },
+    {
+      "party": "IND",
+      "votes": 5419,
+      "pc": 5.427521208297026
+    },
+    {
+      "party": "ALP",
+      "votes": 25652,
+      "pc": 25.692336969041396
+    },
+    {
+      "party": "LP",
+      "votes": 47499,
+      "pc": 47.573690694390194
+    },
+    {
+      "party": "GRN",
+      "votes": 9904,
+      "pc": 9.919573730757289
+    },
+    {
+      "party": "FFP",
+      "votes": 2877,
+      "pc": 2.8815239926684897
+    },
+    {
+      "party": "AJP",
+      "votes": 2475,
+      "pc": 2.4788918602205463
+    },
+    {
+      "party": "VEP",
+      "votes": 850,
+      "pc": 0.8513365984595814
+    }
+  ],
+  "Monash": [
+    {
+      "party": "",
+      "votes": 5060,
+      "pc": 5.290064923524061
+    },
+    {
+      "party": "IND",
+      "votes": 503,
+      "pc": 0.5258700902238346
+    },
+    {
+      "party": "ALP",
+      "votes": 25145,
+      "pc": 26.288277174310775
+    },
+    {
+      "party": "LP",
+      "votes": 45165,
+      "pc": 47.21853404564511
+    },
+    {
+      "party": "NP",
+      "votes": 1,
+      "pc": 0.001045467376190526
+    },
+    {
+      "party": "GRN",
+      "votes": 9153,
+      "pc": 9.569162894271885
+    },
+    {
+      "party": "FFP",
+      "votes": 2421,
+      "pc": 2.5310765177572634
+    },
+    {
+      "party": "LDP",
+      "votes": 1640,
+      "pc": 1.7145664969524625
+    },
+    {
+      "party": "AJP",
+      "votes": 2763,
+      "pc": 2.8886263604144236
+    },
+    {
+      "party": "RUAP",
+      "votes": 2551,
+      "pc": 2.6669872766620317
+    },
+    {
+      "party": "AUC",
+      "votes": 1249,
+      "pc": 1.305788752861967
+    }
+  ],
+  "Nicholls": [
+    {
+      "party": "",
+      "votes": 8531,
+      "pc": 8.620480588508721
+    },
+    {
+      "party": "IND",
+      "votes": 211,
+      "pc": 0.21321315252319073
+    },
+    {
+      "party": "IND",
+      "votes": 3155,
+      "pc": 3.1880923991026857
+    },
+    {
+      "party": "IND",
+      "votes": 11,
+      "pc": 0.011115377619692408
+    },
+    {
+      "party": "IND",
+      "votes": 3,
+      "pc": 0.003031466623552475
+    },
+    {
+      "candidateKey": "BOCKANDREW",
+      "party": "IND",
+      "votes": 1282,
+      "pc": 1.2954467371314242
+    },
+    {
+      "candidateKey": "HICKSNIGEL",
+      "party": "IND",
+      "votes": 759,
+      "pc": 0.766961055758776
+    },
+    {
+      "party": "IND",
+      "votes": 945,
+      "pc": 0.9549119864190295
+    },
+    {
+      "party": "IND",
+      "votes": 490,
+      "pc": 0.49513954851357084
+    },
+    {
+      "party": "ALP",
+      "votes": 15457,
+      "pc": 15.619126533416866
+    },
+    {
+      "party": "LP",
+      "votes": 28898,
+      "pc": 29.201107495806472
+    },
+    {
+      "party": "NP",
+      "votes": 29560,
+      "pc": 29.870051130737053
+    },
+    {
+      "party": "GRN",
+      "votes": 4018,
+      "pc": 4.060144297811282
+    },
+    {
+      "party": "CEC",
+      "votes": 207,
+      "pc": 0.20917119702512074
+    },
+    {
+      "party": "FFP",
+      "votes": 335,
+      "pc": 0.3385137729633597
+    },
+    {
+      "party": "LDP",
+      "votes": 7,
+      "pc": 0.007073422121622441
+    },
+    {
+      "party": "AJP",
+      "votes": 240,
+      "pc": 0.242517329884198
+    },
+    {
+      "party": "CYA",
+      "votes": 3548,
+      "pc": 3.58521452678806
+    },
+    {
+      "party": "RUAP",
+      "votes": 1305,
+      "pc": 1.3186879812453265
+    }
+  ],
+  "Scullin": [
+    {
+      "party": "CYA",
+      "votes": 100,
+      "pc": 0.11056809889210764
+    },
+    {
+      "party": "RUAP",
+      "votes": 127,
+      "pc": 0.1404214855929767
+    },
+    {
+      "party": "CYC",
+      "votes": 15,
+      "pc": 0.016585214833816146
+    },
+    {
+      "party": "AEQ",
+      "votes": 27,
+      "pc": 0.029853386700869067
+    },
+    {
+      "party": "DRF",
+      "votes": 2418,
+      "pc": 2.673536631211163
+    },
+    {
+      "party": "REP",
+      "votes": 29,
+      "pc": 0.032064748678711216
+    },
+    {
+      "party": "AUP",
+      "votes": 13,
+      "pc": 0.014373852855973994
+    },
+    {
+      "party": "",
+      "votes": 5266,
+      "pc": 5.822516087658388
+    },
+    {
+      "party": "IND",
+      "votes": 32,
+      "pc": 0.03538179164547445
+    },
+    {
+      "party": "IND",
+      "votes": 74,
+      "pc": 0.08182039318015966
+    },
+    {
+      "party": "IND",
+      "votes": 197,
+      "pc": 0.2178191548174521
+    },
+    {
+      "party": "ALP",
+      "votes": 50584,
+      "pc": 55.92976714358373
+    },
+    {
+      "party": "LP",
+      "votes": 22021,
+      "pc": 24.348201057031023
+    },
+    {
+      "party": "NP",
+      "votes": 100,
+      "pc": 0.11056809889210764
+    },
+    {
+      "party": "GRN",
+      "votes": 6148,
+      "pc": 6.797726719886778
+    },
+    {
+      "party": "FFP",
+      "votes": 376,
+      "pc": 0.4157360518343247
+    },
+    {
+      "party": "ASXP",
+      "votes": 103,
+      "pc": 0.11388514185887089
+    },
+    {
+      "party": "AJP",
+      "votes": 2812,
+      "pc": 3.109174940846067
+    }
+  ],
+  "Wannon": [
+    {
+      "party": "",
+      "votes": 4597,
+      "pc": 4.3976963991887645
+    },
+    {
+      "party": "IND",
+      "votes": 2630,
+      "pc": 2.5159759690812384
+    },
+    {
+      "party": "IND",
+      "votes": 3609,
+      "pc": 3.4525312822867638
+    },
+    {
+      "party": "IND",
+      "votes": 80,
+      "pc": 0.07653158841311751
+    },
+    {
+      "party": "IND",
+      "votes": 288,
+      "pc": 0.27551371828722304
+    },
+    {
+      "party": "ALP",
+      "votes": 29977,
+      "pc": 28.677342823250296
+    },
+    {
+      "party": "LP",
+      "votes": 50382,
+      "pc": 48.19768109287108
+    },
+    {
+      "party": "NP",
+      "votes": 2816,
+      "pc": 2.6939119121417368
+    },
+    {
+      "party": "GRN",
+      "votes": 8193,
+      "pc": 7.837791298358397
+    },
+    {
+      "party": "CEC",
+      "votes": 90,
+      "pc": 0.08609803696475721
+    },
+    {
+      "party": "FFP",
+      "votes": 415,
+      "pc": 0.3970076148930471
+    },
+    {
+      "party": "LDP",
+      "votes": 159,
+      "pc": 0.15210653197107107
+    },
+    {
+      "party": "AJP",
+      "votes": 144,
+      "pc": 0.13775685914361152
+    },
+    {
+      "party": "RUAP",
+      "votes": 425,
+      "pc": 0.40657406344468683
+    },
+    {
+      "party": "AUC",
+      "votes": 84,
+      "pc": 0.08035816783377339
+    },
+    {
+      "party": "DRF",
+      "votes": 226,
+      "pc": 0.21620173726705696
+    },
+    {
+      "party": "DHJP",
+      "votes": 417,
+      "pc": 0.39892090460337504
+    }
+  ],
+  "Wills": [
+    {
+      "party": "",
+      "votes": 6261,
+      "pc": 6.8446426814469845
+    },
+    {
+      "party": "IND",
+      "votes": 1680,
+      "pc": 1.836607523531534
+    },
+    {
+      "party": "ALP",
+      "votes": 32305,
+      "pc": 35.316432171241786
+    },
+    {
+      "party": "LP",
+      "votes": 18356,
+      "pc": 20.06712363211002
+    },
+    {
+      "party": "GRN",
+      "votes": 26339,
+      "pc": 28.794289025176827
+    },
+    {
+      "party": "SEP",
+      "votes": 272,
+      "pc": 0.2973555038098674
+    },
+    {
+      "party": "SAL",
+      "votes": 606,
+      "pc": 0.6624905709881604
+    },
+    {
+      "party": "ASXP",
+      "votes": 2372,
+      "pc": 2.593114908224285
+    },
+    {
+      "party": "AJP",
+      "votes": 1417,
+      "pc": 1.5490909885977284
+    },
+    {
+      "party": "DRF",
+      "votes": 1160,
+      "pc": 1.2681337662479637
+    },
+    {
+      "party": "REP",
+      "votes": 705,
+      "pc": 0.7707192286248401
+    }
+  ],
+  "Brand": [
+    {
+      "party": "",
+      "votes": 3602,
+      "pc": 4.221753398968589
+    },
+    {
+      "party": "GRN",
+      "votes": 9542,
+      "pc": 11.183778715424285
+    },
+    {
+      "party": "RUAP",
+      "votes": 4704,
+      "pc": 5.513361462728551
+    },
+    {
+      "candidateKey": "KINGMADELEINE",
+      "party": "ALP",
+      "votes": 38803,
+      "pc": 45.47937177684013
+    },
+    {
+      "party": "LP",
+      "votes": 25843,
+      "pc": 30.28949835911861
+    },
+    {
+      "party": "AUC",
+      "votes": 2826,
+      "pc": 3.3122362869198314
+    }
+  ],
+  "Burt": [
+    {
+      "party": "",
+      "votes": 3903,
+      "pc": 4.422111691460554
+    },
+    {
+      "party": "GRN",
+      "votes": 6770,
+      "pc": 7.67043201413988
+    },
+    {
+      "candidateKey": "KEOGHMATT",
+      "party": "ALP",
+      "votes": 39673,
+      "pc": 44.949638005461075
+    },
+    {
+      "party": "LP",
+      "votes": 29836,
+      "pc": 33.804285018298
+    },
+    {
+      "candidateKey": "SPYKERWARNAR",
+      "party": "AUC",
+      "votes": 4345,
+      "pc": 4.922899128720499
+    },
+    {
+      "party": "ASP",
+      "votes": 3734,
+      "pc": 4.230634141919987
+    }
+  ],
+  "Canning": [
+    {
+      "party": "",
+      "votes": 3743,
+      "pc": 4.241984654963337
+    },
+    {
+      "party": "GRN",
+      "votes": 7388,
+      "pc": 8.372904790507384
+    },
+    {
+      "party": "ALP",
+      "votes": 27918,
+      "pc": 31.639788297426254
+    },
+    {
+      "candidateKey": "HASTIEANDREW",
+      "party": "LP",
+      "votes": 42497,
+      "pc": 48.16233552817979
+    },
+    {
+      "party": "AUC",
+      "votes": 3110,
+      "pc": 3.524598524428528
+    },
+    {
+      "party": "NP",
+      "votes": 3581,
+      "pc": 4.0583882044947135
+    }
+  ],
+  "Cowan": [
+    {
+      "party": "",
+      "votes": 4712,
+      "pc": 5.465850037119525
+    },
+    {
+      "party": "MAP",
+      "votes": 868,
+      "pc": 1.0068671121009651
+    },
+    {
+      "party": "GRN",
+      "votes": 6193,
+      "pc": 7.183788047512992
+    },
+    {
+      "party": "LDP",
+      "votes": 1096,
+      "pc": 1.271343726800297
+    },
+    {
+      "candidateKey": "ALYANNE",
+      "party": "ALP",
+      "votes": 33966,
+      "pc": 39.400055679287306
+    },
+    {
+      "party": "LP",
+      "votes": 34405,
+      "pc": 39.90928916109874
+    },
+    {
+      "party": "AUC",
+      "votes": 2680,
+      "pc": 3.1087602078693393
+    },
+    {
+      "party": "ASP",
+      "votes": 2288,
+      "pc": 2.654046028210839
+    }
+  ],
+  "Curtin": [
+    {
+      "party": "",
+      "votes": 1772,
+      "pc": 2.0243099981721806
+    },
+    {
+      "party": "GRN",
+      "votes": 12180,
+      "pc": 13.914275269603364
+    },
+    {
+      "party": "IND",
+      "votes": 2389,
+      "pc": 2.7291628587095595
+    },
+    {
+      "party": "ALP",
+      "votes": 13476,
+      "pc": 15.394808992871504
+    },
+    {
+      "party": "LP",
+      "votes": 56175,
+      "pc": 64.17359714860171
+    },
+    {
+      "party": "ALA",
+      "votes": 1544,
+      "pc": 1.763845732041674
+    }
+  ],
+  "Durack": [
+    {
+      "party": "",
+      "votes": 3122,
+      "pc": 3.9117414892683966
+    },
+    {
+      "party": "GRN",
+      "votes": 7710,
+      "pc": 9.660322511934446
+    },
+    {
+      "party": "RUAP",
+      "votes": 2885,
+      "pc": 3.6147899412361704
+    },
+    {
+      "party": "ALP",
+      "votes": 19860,
+      "pc": 24.883787949029582
+    },
+    {
+      "candidateKey": "PRICEMELISSA",
+      "party": "LP",
+      "votes": 32011,
+      "pc": 40.108506346243
+    },
+    {
+      "candidateKey": "GOULDGRAHAME",
+      "party": "AUC",
+      "votes": 1966,
+      "pc": 2.4633195925373697
+    },
+    {
+      "party": "NP",
+      "votes": 12257,
+      "pc": 15.357532169751037
+    }
+  ],
+  "Forrest": [
+    {
+      "party": "",
+      "votes": 5269,
+      "pc": 5.857047576700756
+    },
+    {
+      "party": "GRN",
+      "votes": 10137,
+      "pc": 11.268341485104491
+    },
+    {
+      "party": "RUAP",
+      "votes": 1654,
+      "pc": 1.83859493108048
+    },
+    {
+      "party": "ODR",
+      "votes": 2375,
+      "pc": 2.6400622498888393
+    },
+    {
+      "party": "IND",
+      "votes": 2896,
+      "pc": 3.2192085371276122
+    },
+    {
+      "party": "ALP",
+      "votes": 19596,
+      "pc": 21.783014673188084
+    },
+    {
+      "candidateKey": "MARINONOLA",
+      "party": "LP",
+      "votes": 41869,
+      "pc": 46.541796353935084
+    },
+    {
+      "party": "AUC",
+      "votes": 1858,
+      "pc": 2.0653623832814585
+    },
+    {
+      "party": "NP",
+      "votes": 4306,
+      "pc": 4.786571809693197
+    }
+  ],
+  "Fremantle": [
+    {
+      "party": "",
+      "votes": 3535,
+      "pc": 3.998371243397315
+    },
+    {
+      "party": "GRN",
+      "votes": 15053,
+      "pc": 17.02616190293063
+    },
+    {
+      "party": "MAP",
+      "votes": 2335,
+      "pc": 2.641074074492993
+    },
+    {
+      "candidateKey": "WILSONJOSH",
+      "party": "ALP",
+      "votes": 34792,
+      "pc": 39.35256925043264
+    },
+    {
+      "party": "LP",
+      "votes": 31292,
+      "pc": 35.39378584112837
+    },
+    {
+      "party": "SAL",
+      "votes": 1404,
+      "pc": 1.5880376876180566
+    }
+  ],
+  "Hasluck": [
+    {
+      "party": "",
+      "votes": 3425,
+      "pc": 4.044829703812178
+    },
+    {
+      "party": "GRN",
+      "votes": 10283,
+      "pc": 12.143936888846898
+    },
+    {
+      "party": "RUAP",
+      "votes": 2999,
+      "pc": 3.541735556710284
+    },
+    {
+      "party": "ALP",
+      "votes": 28652,
+      "pc": 33.837214795219424
+    },
+    {
+      "candidateKey": "WYATTKEN",
+      "party": "LP",
+      "votes": 36519,
+      "pc": 43.12792290613633
+    },
+    {
+      "party": "AUC",
+      "votes": 2798,
+      "pc": 3.3043601492748835
+    }
+  ],
+  "Moore": [
+    {
+      "party": "",
+      "votes": 2891,
+      "pc": 3.196735813171746
+    },
+    {
+      "party": "GRN",
+      "votes": 11100,
+      "pc": 12.273873236321817
+    },
+    {
+      "party": "ALP",
+      "votes": 25118,
+      "pc": 27.774337653146976
+    },
+    {
+      "candidateKey": "GOODENOUGHIAN",
+      "party": "LP",
+      "votes": 48133,
+      "pc": 53.22327391746649
+    },
+    {
+      "party": "AUC",
+      "votes": 3194,
+      "pc": 3.531779379892963
+    }
+  ],
+  "O'Connor": [
+    {
+      "party": "",
+      "votes": 3439,
+      "pc": 3.8053400905137598
+    },
+    {
+      "party": "GRN",
+      "votes": 9013,
+      "pc": 9.973111438150775
+    },
+    {
+      "party": "RUAP",
+      "votes": 3207,
+      "pc": 3.5486262489902956
+    },
+    {
+      "party": "ALP",
+      "votes": 18190,
+      "pc": 20.127693005654343
+    },
+    {
+      "candidateKey": "WILSONRICK",
+      "party": "LP",
+      "votes": 37092,
+      "pc": 41.043231938742764
+    },
+    {
+      "party": "AUC",
+      "votes": 3496,
+      "pc": 3.868412025715645
+    },
+    {
+      "candidateKey": "HASSELLJOHN",
+      "party": "NP",
+      "votes": 15936,
+      "pc": 17.633585252232415
+    }
+  ],
+  "Pearce": [
+    {
+      "party": "",
+      "votes": 4150,
+      "pc": 4.5513368866662285
+    },
+    {
+      "party": "GRN",
+      "votes": 9543,
+      "pc": 10.465881423965257
+    },
+    {
+      "party": "RUAP",
+      "votes": 4049,
+      "pc": 4.440569410629291
+    },
+    {
+      "party": "ALP",
+      "votes": 29809,
+      "pc": 32.69175933846593
+    },
+    {
+      "candidateKey": "PORTERCHRISTIAN",
+      "party": "LP",
+      "votes": 39551,
+      "pc": 43.375885591454455
+    },
+    {
+      "party": "NP",
+      "votes": 4080,
+      "pc": 4.474567348818846
+    }
+  ],
+  "Perth": [
+    {
+      "party": "",
+      "votes": 3274,
+      "pc": 3.7673321442954952
+    },
+    {
+      "party": "SOL",
+      "votes": 1300,
+      "pc": 1.4958863126402393
+    },
+    {
+      "party": "GRN",
+      "votes": 14272,
+      "pc": 16.42253034923192
+    },
+    {
+      "party": "LDP",
+      "votes": 1430,
+      "pc": 1.6454749439042633
+    },
+    {
+      "party": "ALP",
+      "votes": 31248,
+      "pc": 35.956504228755534
+    },
+    {
+      "party": "LP",
+      "votes": 35381,
+      "pc": 40.712272021172545
+    }
+  ],
+  "Stirling": [
+    {
+      "party": "",
+      "votes": 3587,
+      "pc": 4.14787576030898
+    },
+    {
+      "party": "IND",
+      "votes": 2172,
+      "pc": 2.5116214528550613
+    },
+    {
+      "party": "GRN",
+      "votes": 9679,
+      "pc": 11.192442008372073
+    },
+    {
+      "party": "RUAP",
+      "votes": 1361,
+      "pc": 1.573810680172992
+    },
+    {
+      "party": "ALP",
+      "votes": 26669,
+      "pc": 30.83905733250075
+    },
+    {
+      "party": "LP",
+      "votes": 40991,
+      "pc": 47.40049492356437
+    },
+    {
+      "candidateKey": "HOSTKEVIN",
+      "party": "AUC",
+      "votes": 2019,
+      "pc": 2.3346978422257685
+    }
+  ],
+  "Swan": [
+    {
+      "party": "",
+      "votes": 3062,
+      "pc": 3.625213108543285
+    },
+    {
+      "party": "GRN",
+      "votes": 12227,
+      "pc": 14.475989770789921
+    },
+    {
+      "party": "ALP",
+      "votes": 26869,
+      "pc": 31.811185830649748
+    },
+    {
+      "candidateKey": "IRONSSTEVE",
+      "party": "LP",
+      "votes": 39220,
+      "pc": 46.4339837090358
+    },
+    {
+      "candidateKey": "KLOMPSTEVE",
+      "party": "AUC",
+      "votes": 3086,
+      "pc": 3.653627580981247
+    }
+  ],
+  "Tangney": [
+    {
+      "party": "",
+      "votes": 2183,
+      "pc": 2.545831972757382
+    },
+    {
+      "party": "IND",
+      "votes": 9924,
+      "pc": 11.573447777207631
+    },
+    {
+      "party": "GRN",
+      "votes": 10353,
+      "pc": 12.073750991276764
+    },
+    {
+      "candidateKey": "BOSWELLMARION",
+      "party": "ALP",
+      "votes": 19679,
+      "pc": 22.94980640947894
+    },
+    {
+      "candidateKey": "MORTONBEN",
+      "party": "LP",
+      "votes": 40790,
+      "pc": 47.56962261510472
+    },
+    {
+      "party": "AUC",
+      "votes": 2819,
+      "pc": 3.2875402341745583
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
-  "name": "electorate",
+  "name": "aus-ballot-app",
   "version": "0.1.0",
-  "private": true,
+  "author": "Dale Blackwood",
+  "license": "GPL-3.0-or-later",
   "dependencies": {
     "@types/jest": "24.0.12",
     "@types/node": "12.0.0",
-    "@types/papaparse": "^4.5.9",
     "@types/react": "16.8.16",
     "@types/react-dom": "16.8.4",
     "@types/react-router": "^4.4.5",
@@ -13,7 +13,6 @@
     "@types/semantic-ui": "^2.2.7",
     "date-fns": "^1.30.1",
     "history": "^4.9.0",
-    "papaparse": "^4.6.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router": "^5.0.0",

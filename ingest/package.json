@@ -1,0 +1,28 @@
+{
+    "name": "aus-ballot-ingest",
+    "version": "1.0.0",
+    "description": "Process data for use in the aus-ballot app",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./"
+    },
+    "repository": {
+        "type": "git",
+        "url": "github.com/daleblackwood/electorate.git"
+    },
+    "keywords": [
+        "aus",
+        "ballot",
+        "electorate",
+        "election",
+        "candidate"
+    ],
+    "author": "Dale Blackwood",
+    "license": "GPL-3.0-or-later",
+    "dependencies": {
+        "@types/papaparse": "^4.5.9",
+        "papaparse": "^4.6.3",
+        "ts-node": "8.1.0",
+        "typescript": "3.4.5"
+    }
+}

@@ -24,7 +24,7 @@ export interface IElectorate {
 }
 
 export interface IElectorateResult {
-    candidate: ICandidate|null;
+    candidateKey?: string;
     party: string;
     votes: number;
     pc: number;
@@ -37,6 +37,12 @@ export interface ICandidate {
     occupation: string;
     balletPos: number;
     email?: string;
-    party?: IParty;
-    electorate?: IElectorate;
+    partyPrinted?: string;
+    partyKey?: string;
+    electorateKey?: string;
+}
+
+export interface IModalLink {
+    title: string;
+    src: string;
 }

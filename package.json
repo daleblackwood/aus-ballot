@@ -1,24 +1,24 @@
 {
-  "name": "electorate-app",
-  "version": "1.0.0",
-  "description": "Electorate Information Viewing App",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/daleblackwood/electorate.git"
-  },
-  "keywords": [
-    "Election",
-    "Australia",
-    "electorate"
-  ],
-  "author": "Dale Blackwood",
-  "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/daleblackwood/electorate/issues"
-  },
-  "homepage": "https://github.com/daleblackwood/electorate#readme"
+    "name": "aus-ballot",
+    "version": "1.0.0",
+    "description": "Australian Federal Election Ballot Information",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/daleblackwood/electorate.git"
+    },
+    "keywords": [
+        "Election",
+        "Australia",
+        "electorate"
+    ],
+    "author": "Dale Blackwood",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/daleblackwood/electorate/issues"
+    },
+    "homepage": "https://github.com/daleblackwood/electorate#readme"
 }

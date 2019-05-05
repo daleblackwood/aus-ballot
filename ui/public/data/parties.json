@@ -1,81 +1,475 @@
-{
-    "parties": {
-        "GRN": {
-            "name": "Australian Greens",
-            "alts": [
-                "Greens",
-                "The Greens (VIC)",
-                "The Greens"
-            ],
-            "color": "green"
-        },
-        "ALP": {
-            "name": "Australian Labor Party",
-            "alts": [
-                "Australian Labour Party", 
-                "Labor",
-                "Labour"
-            ],
-            "color": "red"
-        },
-        "CA": {
-            "name": "Centre Alliance"
-        },
-        "IND": {
-            "name": "Independent"
-        },
-        "KAP": {
-            "name": "Katter’s Australian Party",
-            "alts": [
-                "Katter Party"
-            ]
-        },
-        "LD": {
-            "name": "Liberal Democratic Party"
-        },
-        "LNP": {
-            "name": "Liberal National Party of Queensland"
-        },
-        "LP": {
-            "name": "Liberal Party of Australia",
-            "alts": [
-                "Liberal",
-                "Libs"
-            ]
-        },
-        "NP": {
-            "name": "National Party of Australia",
-            "alts": [
-                "Nationals",
-                "Nats"
-            ]
-        },
-        "PHON": {
-            "name": "Pauline Hanson’s One Nation",
-            "alts": [
-                "ON"
-            ]
-        },
-        "-": {
-            "name": ""
-        },
-        "RUAP": {
-            "name": "Rise Up Australia Party"
-        },
-        "CDPF": {
-            "name": "Christian Democratic Party",
-            "alts": [
-                "Christian Democratic Party (Fred Nile Group)"
-            ]
-        },
-        "FACNP": {
-            "name": "Fraser Anning's Conservative National Party"
-        },
-        "FFP": {
-            "name": "Family First Party"
-        }
-    },
-    "coalitions": {
-        "COAL": ["LP", "LNP", "NP"]
-    }
-}
+[
+  {
+    "key": "GRN",
+    "name": "Australian Greens",
+    "abbrev": "GRN",
+    "color": "green",
+    "matches": [
+      "AUSTRALIANGREENS",
+      "GRN",
+      "GRN",
+      "GREENS",
+      "THEGREENSVIC",
+      "THEGREENSWA",
+      "THEGREENSNSW",
+      "THEGREENSQLD",
+      "THEGREENSSA",
+      "THEGREENS"
+    ]
+  },
+  {
+    "key": "ALP",
+    "name": "Australian Labor Party",
+    "abbrev": "ALP",
+    "color": "red",
+    "matches": [
+      "AUSTRALIANLABORPARTY",
+      "ALP",
+      "ALP",
+      "AUSTRALIANLABOURPARTY",
+      "LABOR",
+      "LABOUR"
+    ]
+  },
+  {
+    "key": "CA",
+    "name": "Centre Alliance",
+    "abbrev": "CA",
+    "color": "grey",
+    "matches": [
+      "CENTREALLIANCE",
+      "CA",
+      "CA"
+    ]
+  },
+  {
+    "key": "IND",
+    "name": "Independent",
+    "abbrev": "IND",
+    "color": "grey",
+    "matches": [
+      "INDEPENDENT",
+      "IND",
+      "IND"
+    ]
+  },
+  {
+    "key": "KAP",
+    "name": "Katter’s Australian Party",
+    "abbrev": "KAP",
+    "color": "grey",
+    "matches": [
+      "KATTERSAUSTRALIANPARTY",
+      "KAP",
+      "KAP",
+      "KATTERPARTY"
+    ]
+  },
+  {
+    "key": "LD",
+    "name": "Labour DLP",
+    "abbrev": "LD",
+    "color": "grey",
+    "matches": [
+      "LABOURDLP",
+      "LD",
+      "LD"
+    ]
+  },
+  {
+    "key": "LNP",
+    "name": "Liberal National Party of Queensland",
+    "abbrev": "LNP",
+    "color": "blue",
+    "matches": [
+      "LIBERALNATIONALPARTYOFQUEENSLAND",
+      "LNP",
+      "LNP"
+    ]
+  },
+  {
+    "key": "LP",
+    "name": "Liberal Party of Australia",
+    "abbrev": "LP",
+    "color": "blue",
+    "matches": [
+      "LIBERALPARTYOFAUSTRALIA",
+      "LP",
+      "LP",
+      "LIBERAL",
+      "LIBS"
+    ]
+  },
+  {
+    "key": "NP",
+    "name": "National Party of Australia",
+    "abbrev": "NP",
+    "color": "blue",
+    "matches": [
+      "NATIONALPARTYOFAUSTRALIA",
+      "NP",
+      "NP",
+      "NATIONALS",
+      "NATS",
+      "NATIONALPARTY",
+      "THENATIONALS"
+    ]
+  },
+  {
+    "key": "PHON",
+    "name": "Pauline Hanson’s One Nation",
+    "abbrev": "PHO",
+    "color": "grey",
+    "matches": [
+      "PAULINEHANSONSONENATION",
+      "PHON",
+      "PHO",
+      "ON"
+    ]
+  },
+  {
+    "key": "UAP",
+    "name": "United Australia Party",
+    "abbrev": "UAP",
+    "color": "yellow",
+    "matches": [
+      "UNITEDAUSTRALIAPARTY",
+      "UAP",
+      "UAP",
+      "PUP",
+      "AUSTRALIAUNITEDPARTY",
+      "UAP"
+    ]
+  },
+  {
+    "key": "",
+    "name": "",
+    "abbrev": "",
+    "color": "grey",
+    "matches": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "key": "RUAP",
+    "name": "Rise Up Australia Party",
+    "abbrev": "RUA",
+    "color": "grey",
+    "matches": [
+      "RISEUPAUSTRALIAPARTY",
+      "RUAP",
+      "RUA"
+    ]
+  },
+  {
+    "key": "CDPF",
+    "name": "Christian Democratic Party",
+    "abbrev": "CDP",
+    "color": "grey",
+    "matches": [
+      "CHRISTIANDEMOCRATICPARTY",
+      "CDPF",
+      "CDP",
+      "CHRISTIANDEMOCRATICPARTYFREDNILEGROUP"
+    ]
+  },
+  {
+    "key": "FACNP",
+    "name": "Fraser Anning's Conservative National Party",
+    "abbrev": "FAC",
+    "color": "grey",
+    "matches": [
+      "FRASERANNINGSCONSERVATIVENATIONALPARTY",
+      "FACNP",
+      "FAC"
+    ]
+  },
+  {
+    "key": "FFP",
+    "name": "Family First Party",
+    "abbrev": "FFP",
+    "color": "grey",
+    "matches": [
+      "FAMILYFIRSTPARTY",
+      "FFP",
+      "FFP"
+    ]
+  },
+  {
+    "key": "AP",
+    "name": "Australian Progressives",
+    "abbrev": "AP",
+    "color": "grey",
+    "matches": [
+      "AUSTRALIANPROGRESSIVES",
+      "AP",
+      "AP"
+    ]
+  },
+  {
+    "key": "TGAP",
+    "name": "The Great Australian Party",
+    "abbrev": "TGA",
+    "color": "grey",
+    "matches": [
+      "THEGREATAUSTRALIANPARTY",
+      "TGAP",
+      "TGA"
+    ]
+  },
+  {
+    "key": "AJP",
+    "name": "Animal Justice Party",
+    "abbrev": "AJP",
+    "color": "grey",
+    "matches": [
+      "ANIMALJUSTICEPARTY",
+      "AJP",
+      "AJP"
+    ]
+  },
+  {
+    "key": "SP",
+    "name": "Science Party",
+    "abbrev": "SP",
+    "color": "grey",
+    "matches": [
+      "SCIENCEPARTY",
+      "SP",
+      "SP"
+    ]
+  },
+  {
+    "key": "SA",
+    "name": "Socialist Alliance",
+    "abbrev": "SA",
+    "color": "grey",
+    "matches": [
+      "SOCIALISTALLIANCE",
+      "SA",
+      "SA"
+    ]
+  },
+  {
+    "key": "SFAF",
+    "name": "Shooters, Fishers and Farmers",
+    "abbrev": "SFA",
+    "color": "grey",
+    "matches": [
+      "SHOOTERSFISHERSANDFARMERS",
+      "SFAF",
+      "SFA"
+    ]
+  },
+  {
+    "key": "NPPE",
+    "name": "Non-Custodial Parents Party (Equal Parenting)",
+    "abbrev": "NPP",
+    "color": "grey",
+    "matches": [
+      "NONCUSTODIALPARENTSPARTYEQUALPARENTING",
+      "NPPE",
+      "NPP"
+    ]
+  },
+  {
+    "key": "ABF",
+    "name": "Australian Better Families",
+    "abbrev": "ABF",
+    "color": "grey",
+    "matches": [
+      "AUSTRALIANBETTERFAMILIES",
+      "ABF",
+      "ABF"
+    ]
+  },
+  {
+    "key": "SEP",
+    "name": "Socialist Equality Party",
+    "abbrev": "SEP",
+    "color": "grey",
+    "matches": [
+      "SOCIALISTEQUALITYPARTY",
+      "SEP",
+      "SEP"
+    ]
+  },
+  {
+    "key": "AFP",
+    "name": "Australia First Party",
+    "abbrev": "AFP",
+    "color": "grey",
+    "matches": [
+      "AUSTRALIAFIRSTPARTY",
+      "AFP",
+      "AFP"
+    ]
+  },
+  {
+    "key": "AWP",
+    "name": "Australian Workers Party",
+    "abbrev": "AWP",
+    "color": "grey",
+    "matches": [
+      "AUSTRALIANWORKERSPARTY",
+      "AWP",
+      "AWP"
+    ]
+  },
+  {
+    "key": "IMOV",
+    "name": "Involuntary Medication Objectors (Vaccination/Fluoride) Party",
+    "abbrev": "IMO",
+    "color": "grey",
+    "matches": [
+      "INVOLUNTARYMEDICATIONOBJECTORSVACCINATIONFLUORIDEPARTY",
+      "IMOV",
+      "IMO"
+    ]
+  },
+  {
+    "key": "ALPN",
+    "name": "Australian Labor Party (Northern Territory) Branch",
+    "abbrev": "ALP",
+    "color": "grey",
+    "matches": [
+      "AUSTRALIANLABORPARTYNORTHERNTERRITORYBRANCH",
+      "ALPN",
+      "ALP"
+    ]
+  },
+  {
+    "key": "CLN",
+    "name": "Country Liberals (NT)",
+    "abbrev": "CLN",
+    "color": "grey",
+    "matches": [
+      "COUNTRYLIBERALSNT",
+      "CLN",
+      "CLN"
+    ]
+  },
+  {
+    "key": "KAPK",
+    "name": "Katter's Australian Party (KAP)",
+    "abbrev": "KAP",
+    "color": "grey",
+    "matches": [
+      "KATTERSAUSTRALIANPARTYKAP",
+      "KAPK",
+      "KAP"
+    ]
+  },
+  {
+    "key": "LAOL",
+    "name": "Love Australia or Leave",
+    "abbrev": "LAO",
+    "color": "grey",
+    "matches": [
+      "LOVEAUSTRALIAORLEAVE",
+      "LAOL",
+      "LAO"
+    ]
+  },
+  {
+    "key": "AD",
+    "name": "Australian Democrats",
+    "abbrev": "AD",
+    "color": "grey",
+    "matches": [
+      "AUSTRALIANDEMOCRATS",
+      "AD",
+      "AD"
+    ]
+  },
+  {
+    "key": "CPP",
+    "name": "Child Protection Party",
+    "abbrev": "CPP",
+    "color": "grey",
+    "matches": [
+      "CHILDPROTECTIONPARTY",
+      "CPP",
+      "CPP"
+    ]
+  },
+  {
+    "key": "CEC",
+    "name": "Citizens Electoral Council",
+    "abbrev": "CEC",
+    "color": "grey",
+    "matches": [
+      "CITIZENSELECTORALCOUNCIL",
+      "CEC",
+      "CEC"
+    ]
+  },
+  {
+    "key": "VS",
+    "name": "Victorian Socialists",
+    "abbrev": "VS",
+    "color": "grey",
+    "matches": [
+      "VICTORIANSOCIALISTS",
+      "VS",
+      "VS"
+    ]
+  },
+  {
+    "key": "DHJP",
+    "name": "Derryn Hinch's Justice Party",
+    "abbrev": "DHJ",
+    "color": "grey",
+    "matches": [
+      "DERRYNHINCHSJUSTICEPARTY",
+      "DHJP",
+      "DHJ"
+    ]
+  },
+  {
+    "key": "RA",
+    "name": "Reason Australia",
+    "abbrev": "RA",
+    "color": "grey",
+    "matches": [
+      "REASONAUSTRALIA",
+      "RA",
+      "RA"
+    ]
+  },
+  {
+    "key": "AC",
+    "name": "Australian Christians",
+    "abbrev": "AC",
+    "color": "grey",
+    "matches": [
+      "AUSTRALIANCHRISTIANS",
+      "AC",
+      "AC"
+    ]
+  },
+  {
+    "key": "WAP",
+    "name": "WESTERN AUSTRALIA PARTY",
+    "abbrev": "WAP",
+    "color": "grey",
+    "matches": [
+      "WESTERNAUSTRALIAPARTY",
+      "WAP",
+      "WAP"
+    ]
+  },
+  {
+    "key": "VUD",
+    "name": "VOTEFLUX.ORG | Upgrade Democracy!",
+    "abbrev": "VUD",
+    "color": "grey",
+    "matches": [
+      "VOTEFLUXORGUPGRADEDEMOCRACY",
+      "VUD",
+      "VUD"
+    ]
+  }
+]

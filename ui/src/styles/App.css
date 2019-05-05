@@ -1,11 +1,28 @@
+/* - - - - - - - - - - - -
+    VARIABLES
+- - - - - - - - - - - - -*/
+:root {
+    --header-height: 60px;
+    --max-panel-width: 19em;
+}
+
+/* - - - - - - - - - - - -
+    DEFAULT ELEMENTS
+- - - - - - - - - - - - -*/
+a {
+    color: inherit;
+}
+
 table {
     width: 100%;
 }
+    table th {
+        text-align: left;
+    }
 
-table th {
-    text-align: left;
-}
-
+/* - - - - - - - - - - - -
+    LAYOUT
+- - - - - - - - - - - - -*/
 .app {
     position: absolute;
     top: 0;
@@ -13,28 +30,37 @@ table th {
     bottom: 0;
     right: 0;
 }
+    .app > .header {
+        background-color: #444;
+        color: #FFF;
+        padding: 1em 2em;
+        height: var(--header-height);
+    }
+    .app > .page {
+        position: absolute;
+        top: var(--header-height);
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+        .app > .page > .panel {
+            position: absolute;
+            bottom: 0;
+            top: 0;
+            padding: 2em;
+            overflow-y: auto;
+        }
+            .app > .page > .panel.left {
+                left: 0;
+                width: 33%;
+                max-width: var(--max-panel-width);
+            }
+            .app > .page > .panel.right {
+                width: 67%;
+                min-width: calc(100vw - var(--max-panel-width));
+                right: 0;
+            }
 
-.app > .header {
-    background-color: #444;
-    color: #FFF;
-    padding: 1em 2em;
-}
-
-.page {
-    position: absolute;
-    top: 4em;
-    left: 0;
-    bottom: 0;
-    right: 0;
-}
-
-a {
-    color: inherit;
-}
-
-.page > .page-inner {
-    position: relative;
-}
 
 .electorate-icon {
     display: inline-block;
@@ -49,20 +75,23 @@ a {
     color: white;
 }
 
-.panel {
-    position: absolute;
-    bottom: 0;
-    top: 0;
-    padding: 2em;
-    overflow-y: auto;
+span.party-icon {
+    display: inline-block;
+    width: 2.5em;
+    text-align: center;
+    height: 1.5em;
+    border-radius: 1.5em;
+    color: white;
+    line-height: 1.45em;
+    margin-right: 0.5em;
 }
 
-.panel.left {
-    left: 0;
-    width: 33%;
+.link-modal iframe {
+    height: calc(100vh - 15em);
+    border: 1px solid #CCC;
+    border-top: none;
 }
 
-.panel.right {
-    left: 33%;
-    right: 0;
+.link-modal .content {
+    padding: 0 0.5em 0.5em !important;
 }

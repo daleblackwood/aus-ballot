@@ -1,15 +1,12 @@
-import { rawData } from "./data/rawData";
 import { Subject } from "./Subject";
-import { IElectorate, KeyMap, IParty, ICandidate } from "./Types";
+import { IElectorate, ICandidate, IParty, IElectorateResult, KeyMap } from "./Types";
 import { Utils } from "../utils/Utils";
-
 
 class ElectService {
 
     public subElectorates = new Subject<IElectorate[]>([]);
     public subParties = new Subject<IParty[]>([]);
     public subCandidates = new Subject<ICandidate[]>([]);
-
     public subElectorateKey = new Subject<string>("");
 
     constructor() {
@@ -17,21 +14,22 @@ class ElectService {
     }
 
     public async loadData() {
-        await rawData.load();
+        const electorates = await this.fetchJSON<IElectorate[]>("/data/electorates.json");
+        const candidates = await this.fetchJSON<ICandidate[]>("/data/candidates.json");
+        const parties = await this.fetchJSON<IParty[]>("/data/parties.json");
 
-        const extract = <T>(map: KeyMap<T>): T[] => {
-            const result: T[] = [];
-            for (const key in map) {
-                if (map[key]) {
-                    result.push(map[key]);
-                }
+        this.subElectorates.setValue(electorates);
+        this.subCandidates.setValue(candidates);
+        this.subParties.setValue(parties);
+
+        const votes = await this.fetchJSON<KeyMap<IElectorateResult[]>>("/data/votes.json");
+        for (const key in votes) {
+            const electorate = this.getElectorate(key);
+            if (!electorate) {
+                continue;
             }
-            return result;
+            electorate.results = votes[key];
         }
-
-        this.subElectorates.setValue(extract(rawData.electorates));
-        this.subCandidates.setValue(extract(rawData.candidates));
-        this.subParties.setValue(extract(rawData.parties));
     }
 
     public getElectorate(electorateKey: string): IElectorate|null {
@@ -40,22 +38,38 @@ class ElectService {
     }
 
     public getCandidates(electorateKey: string): ICandidate[] {
-        const result = this.subCandidates.value.filter(c => c.electorate && c.electorate.key === electorateKey);
+        const result = this.subCandidates.value.filter(c => c.electorateKey === electorateKey);
         result.sort((a, b) => {
             return a.balletPos < b.balletPos ? -1 : 1;
         });
         return result;
     }
 
-    public getParty(partyKey: string): IParty|null {
-        for (const party of this.subParties.value) {
-            for (const match of party.matches) {
-                if (Utils.wordMatch(match, partyKey)) {
-                    return party;
+    public getParty(partyKey: string|null|undefined): IParty|null {
+        if (partyKey) {
+            for (const party of this.subParties.value) {
+                for (const match of party.matches) {
+                    if (Utils.wordMatch(match, partyKey)) {
+                        return party;
+                    }
                 }
             }
         }
         return null;
+    }
+
+    public fetchLuckyUrl(term: string): string {
+        const query = term.replace(/\s/g, "+");
+        const sendURL = "https://www.google.com/search?q=" + query + "&btnI";
+        return sendURL;
+    }
+
+    private async fetchJSON<T extends any>(url: string): Promise<T> {
+        const res = await fetch(url);
+        const str = await res.text();
+        console.log(str);
+        const json = JSON.parse(str);
+        return json as T;
     }
 }
 

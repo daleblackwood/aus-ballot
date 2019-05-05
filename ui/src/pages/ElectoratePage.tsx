@@ -1,7 +1,8 @@
 import React from "react";
 import { BasePage } from "./BasePage";
 import { electService } from "../model/electService";
-import { IElectorate, ICandidate, IElectorateResult } from "../model/Types";
+import { IElectorate, ICandidate, IElectorateResult, IParty } from "../model/Types";
+import { appService } from "../model/appService";
 
 interface IElectoratePageProps {
     electorate?: string;
@@ -21,7 +22,7 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
                 <h2>{electorate.name}, {electorate.state}</h2>
                 { this.renderCandidates(electorate) }
 
-                <h3>Last Election: Previous First Preferences</h3>
+                <h3>Last Election: First Preference Votes</h3>
                 { this.renderResults(electorate) }
             </div>
         )
@@ -40,7 +41,6 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
                 <thead>
                     <tr>
                         <th>Ballot</th>
-                        <th>Surname</th>
                         <th>Name</th>
                         <th>Party</th>
                     </tr>
@@ -53,12 +53,21 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
     }
 
     private renderCandidate(candidate: ICandidate) {
+        const name = candidate.firstname + " " + candidate.surname;
+        const party = electService.getParty(candidate.partyKey);
         return (
             <tr key={candidate.key}>
                 <td>{candidate.balletPos}</td>
-                <td>{candidate.surname}</td>
-                <td>{candidate.firstname}</td>
-                <td>{candidate.party ? candidate.party.name : ""}</td>
+                <td>
+                    <a href="#" onClick={this.candidateClickHanlder(candidate)}>
+                        {name}
+                    </a>
+                </td>
+                <td>{this.renderPartyIcon(party)} 
+                    <a href="#" onClick={this.partyClickHanlder(party)}>
+                        {candidate.partyPrinted ? candidate.partyPrinted : ""}
+                    </a>
+                </td>
             </tr>
         )
     }
@@ -101,8 +110,47 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
         return (
             <tr key={index}>
                 <td>{partyStr || "-"}</td>
-                <td>{pcs}</td>
+                <td>{this.renderPartyIcon(party)} {pcs}</td>
             </tr>
         )
+    }
+
+    private renderPartyIcon(party: IParty|null|undefined) {
+        const color = party ? party.color : "#CCC";
+        const abbrev = party ? party.abbrev : "";
+
+        const onClick = this.partyClickHanlder(party);
+
+        return (
+            <span className="party-icon" style={{ backgroundColor: color }} onClick={ onClick }>{ abbrev }</span>
+        );
+    }
+
+    private partyClickHanlder(party: IParty|null|undefined) {
+        if (!party) {
+            return undefined;
+        }
+        return async () => {
+            const url = electService.fetchLuckyUrl("site:en.m.wikipedia.org " + party.name);
+            appService.openModal(party.name + " Wikipedia", url);
+        };
+    }
+
+    private candidateClickHanlder(candidate: ICandidate|null|undefined) {
+        if (!candidate) {
+            return undefined;
+        }
+        return () => {
+            if (!candidate.electorateKey) {
+                return;
+            };
+            const electorate = electService.getElectorate(candidate.electorateKey);
+            if (!electorate) {
+                return;
+            }
+            const candidateName = candidate.firstname + " " + candidate.surname;
+            const url = electService.fetchLuckyUrl(electorate.name + " " + candidateName);
+            appService.openModal(candidateName + " Wikipedia", url);
+        };
     }
 }

@@ -8,6 +8,7 @@ import { HomePage } from "./pages/HomePage";
 import { appService } from "./model/appService";
 import { ElectoratesPage } from "./pages/ElectoratesPage";
 import { electService } from "./model/electService";
+import { LinkModal } from "./comps/LinkModal";
 
 interface IAppState {
     isLoaded: boolean;
@@ -45,9 +46,12 @@ export class App extends React.Component<{}, IAppState> {
 
     private renderPage() {
         return (
-            <Router history={appService.history}>
-                <Route path="/" component={ElectoratesPage} />
-            </Router>
+            <>
+                <Router history={appService.history}>
+                    <Route path="/" component={ElectoratesPage} />
+                </Router>
+                <LinkModal />
+            </>
         );
     }
 
