@@ -3,6 +3,7 @@ import { BasePage } from "./BasePage";
 import { electService } from "../model/electService";
 import { IElectorate, ICandidate, IElectorateResult, IParty } from "../model/Types";
 import { appService } from "../model/appService";
+import { Link } from "react-router-dom";
 
 interface IElectoratePageProps {
     electorate?: string;
@@ -55,16 +56,20 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
     private renderCandidate(candidate: ICandidate) {
         const name = candidate.firstname + " " + candidate.surname;
         const party = electService.getParty(candidate.partyKey);
+
+        const candidateUrl = appService.resolvePath("#candidate:" + candidate.key);
+        const partyUrl = party ? appService.resolvePath("#party:" + party.key) : "";
+
         return (
             <tr key={candidate.key}>
                 <td>{candidate.balletPos}</td>
                 <td>
-                    <a href="#" onClick={this.candidateClickHanlder(candidate)}>
+                    <a href={candidateUrl}>
                         {name}
                     </a>
                 </td>
                 <td>{this.renderPartyIcon(party)} 
-                    <a href="#" onClick={this.partyClickHanlder(party)}>
+                    <a href={partyUrl}>
                         {candidate.partyPrinted ? candidate.partyPrinted : ""}
                     </a>
                 </td>
@@ -88,7 +93,7 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
         }
 
         return (
-            <table className="redults">
+            <table className="results">
                 <thead>
                     <tr>
                         <th>Party</th>
@@ -119,38 +124,15 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
         const color = party ? party.color : "#CCC";
         const abbrev = party ? party.abbrev : "";
 
-        const onClick = this.partyClickHanlder(party);
+        let url = "#";
+        if (party) {
+            url += "party:" + party.key;
+        }
 
         return (
-            <span className="party-icon" style={{ backgroundColor: color }} onClick={ onClick }>{ abbrev }</span>
+            <span className="party-icon" style={{ backgroundColor: color }}>
+                <a href={url}>{ abbrev }</a>
+            </span>
         );
-    }
-
-    private partyClickHanlder(party: IParty|null|undefined) {
-        if (!party) {
-            return undefined;
-        }
-        return async () => {
-            const url = electService.fetchLuckyUrl("site:en.m.wikipedia.org " + party.name);
-            appService.openModal(party.name + " Wikipedia", url);
-        };
-    }
-
-    private candidateClickHanlder(candidate: ICandidate|null|undefined) {
-        if (!candidate) {
-            return undefined;
-        }
-        return () => {
-            if (!candidate.electorateKey) {
-                return;
-            };
-            const electorate = electService.getElectorate(candidate.electorateKey);
-            if (!electorate) {
-                return;
-            }
-            const candidateName = candidate.firstname + " " + candidate.surname;
-            const url = electService.fetchLuckyUrl(electorate.name + " " + candidateName);
-            appService.openModal(candidateName + " Wikipedia", url);
-        };
     }
 }

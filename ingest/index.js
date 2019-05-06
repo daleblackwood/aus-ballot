@@ -3,7 +3,7 @@ const process = require("process");
 
 async function run() {
     console.log("\naus-ballot ingestion:");
-    const moduleNames = ["candidates", "votes"];
+    const moduleNames = ["candidates", "votes", "party-details"];
     try {
         let processed = 0;
         for (const arg of process.argv) {
@@ -12,7 +12,7 @@ async function run() {
                 console.log("processing " + moduleName + "...");
                 const module = require("./modules/" + moduleName);
                 for (let key in module) {
-                    await module[key].ingest();
+                    await module.ingest();
                     break;
                 }
             }

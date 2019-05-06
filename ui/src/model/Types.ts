@@ -11,6 +11,15 @@ export interface IParty {
     color: string;
     matches: string[];
     abbrev: string;
+    details?: IPartyDetails;
+}
+
+export interface IPartyDetails {
+    key: string;
+    website?: string;
+    websitePreview?: string;
+    wikipedia?: string;
+    wikipediaPreview?: string;
 }
 
 export interface IElectorate {
@@ -40,9 +49,4 @@ export interface ICandidate {
     partyPrinted?: string;
     partyKey?: string;
     electorateKey?: string;
-}
-
-export interface IModalLink {
-    title: string;
-    src: string;
 }

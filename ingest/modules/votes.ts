@@ -1,5 +1,5 @@
 import { writeJSON, loadCSV, getElectorate, getParty, makeParty } from "../utils";
-import candidates from "./candidates";
+import { load as loadCandidates } from "./candidates";
 import { KeyMap, IElectorateResult } from "../../ui/src/model/Types";
 
 const DIR_IN = __dirname + "/../data/";
@@ -9,10 +9,7 @@ export type FPPField = (
     "State" | "DivisionId" | "DivisionAb" | "DivisionName" | "PartyAb" | "CandidateSurname" | "Votes"
 );
 
-const votes = {
-    ingest, load
-};
-export default votes;
+export { ingest, load };
 
 async function ingest() {
     const result = await this.load();
@@ -36,7 +33,7 @@ async function load() {
 let resultMap: KeyMap<IElectorateResult[]> = {};
 
 async function loadResults() {
-    const data = await candidates.load();
+    const data = await loadCandidates();
 
     resultMap = {};
     

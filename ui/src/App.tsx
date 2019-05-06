@@ -1,5 +1,5 @@
 import React from "react";
-import { Router, Route } from "react-router";
+import { Router, Route, Switch } from "react-router";
 
 import "./styles/App.css";
 
@@ -8,7 +8,7 @@ import { HomePage } from "./pages/HomePage";
 import { appService } from "./model/appService";
 import { ElectoratesPage } from "./pages/ElectoratesPage";
 import { electService } from "./model/electService";
-import { LinkModal } from "./comps/LinkModal";
+import { PopupModal } from "./comps/PopupModal";
 
 interface IAppState {
     isLoaded: boolean;
@@ -49,8 +49,8 @@ export class App extends React.Component<{}, IAppState> {
             <>
                 <Router history={appService.history}>
                     <Route path="/" component={ElectoratesPage} />
+                    <PopupModal />
                 </Router>
-                <LinkModal />
             </>
         );
     }

@@ -33,10 +33,7 @@ type CandidateField = (
     "contact_email"
 );
 
-const candidates = {
-    ingest, load
-};
-export default candidates;
+export { ingest, load };
 
 async function ingest() {
     const result = await this.load();

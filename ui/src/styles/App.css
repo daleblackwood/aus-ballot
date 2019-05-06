@@ -95,3 +95,18 @@ span.party-icon {
 .link-modal .content {
     padding: 0 0.5em 0.5em !important;
 }
+
+button.close {
+    position: absolute;
+    top: 0;
+    right: 1em;
+    content: "x";
+    line-height: 2em;
+    width: 2em;
+    display: block;
+    background-color: #CCC;
+    border: none;
+}
+button.close::before {
+    content: "×";
+}

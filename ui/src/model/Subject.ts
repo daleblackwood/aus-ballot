@@ -82,6 +82,13 @@ export class Subject<T> {
                 isChanged = true;
                 break;
             }
+            for (const key in this.value) {
+                if (data[key] === this.value[key]) {
+                    continue;
+                }
+                isChanged = true;
+                break;
+            }
             if (isChanged === false) {
                 return true;
             }

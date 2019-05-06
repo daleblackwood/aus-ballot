@@ -12,7 +12,7 @@ export async function loadCSV(path: string): Promise<Array<KeyMap<string>>> {
     return rows;
 }
 
-export async function loadJSON(path: string): Promise<any> {
+export async function loadJSON<T extends any>(path: string): Promise<T> {
     const str = await loadText(path);
     const json = JSON.parse(str);
     return json;

@@ -7,10 +7,19 @@ import { appService } from "../model/appService";
 
 export class ElectoratesPage extends BasePage {
 
+    private electorateKey: string = "";
+    private electorateElem: JSX.Element|null = null;
+
     public render() {
-        const renderElectorate = (props: RouteComponentProps) => {
-            const electorate: string = (props.match.params as any).electorate;
-            return <ElectoratePage electorate={electorate} />
+        const renderElectorate = (props?: RouteComponentProps) => {
+            if (props) {
+                const electorateKey = (props.match.params as any).electorate;
+                if (electorateKey !== this.electorateKey) {
+                    this.electorateElem = <ElectoratePage electorate={electorateKey} />;
+                    this.electorateKey = electorateKey;
+                }
+            }
+            return this.electorateElem;
         };
 
         return (
@@ -24,7 +33,7 @@ export class ElectoratesPage extends BasePage {
                             path={appService.getElectorateLink()} 
                             render={renderElectorate}
                         />
-                        <Route component={ElectoratePage} />
+                        <Route render={renderElectorate} />
                     </Switch>
                 </div>
             </>
