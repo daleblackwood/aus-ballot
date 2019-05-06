@@ -11,6 +11,7 @@
 - - - - - - - - - - - - -*/
 a {
     color: inherit;
+    border-bottom: 1px dotted rgba(0,0,0,0.3);
 }
 
 table {

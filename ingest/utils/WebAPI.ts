@@ -18,13 +18,34 @@ export class WebAPI {
         return result;
     }
 
-    public static async scrapePage(url: string) {
+    public static async loadPage(url: string) {
         const res = await new Promise<request.Response>((resolve, reject) => {
             request.get(url, (err, res) => err ? reject(err) : resolve(res));
         });
-        let page = res.body;
+        let page = res.body as string;
+        return page;
+    }
+
+    public static async scrapePage(url: string, requiredTerms: string[] = []) {
+        let page = await this.loadPage(url);
         page = page.replace(/\s\s/g, " ");
         page = page.replace(/\s/g, " ");
+
+        // check required terms
+        if (requiredTerms.length > 0) {
+            let found = false;
+            const lowerPage = page.toLowerCase();
+            for (const term of requiredTerms) {
+                const rt = term.toLowerCase();
+                if (lowerPage.indexOf(rt) >= 0) {
+                    found = true;
+                    break;
+                }
+            }
+            if (found === false) {
+                return undefined;
+            }
+        }
 
         // get paragraphs
         let text = "";
@@ -37,12 +58,17 @@ export class WebAPI {
         }
 
         // remove tags
+        text = this.stripTags(text);
+        return text;
+    }
+
+    public static stripTags(text: string) {
         text = text.replace(/\<[^\>]*\>/g, "").trim();
         return text;
     }
 
-    public static async scrapePageSummary(url: string) {
-        const inText = await this.scrapePage(url);
+    public static async scrapePageSummary(url: string, requiredTerms: string[] = []) {
+        const inText = await this.scrapePage(url, requiredTerms);
         if (! inText) {
             return undefined;
         }
@@ -55,7 +81,7 @@ export class WebAPI {
                 break;
             }
         }
-        console.log(url, "\n", outText);
+        console.log(url + " found");
         return outText;
     }
 
@@ -75,6 +101,14 @@ export class WebAPI {
         }
 
         return hostname;
+    }
+
+    public static getElement(html: string, tagMatch: string) {
+        const startI = html.indexOf(tagMatch);
+        if (startI < 0) {
+            return undefined;
+        }
+    
     }
 
 }

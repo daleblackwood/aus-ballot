@@ -21,7 +21,7 @@
       "pc": 43.06585773699781
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 2786,
       "pc": 2.9863225142563135
     }
@@ -38,7 +38,7 @@
       "pc": 32.035487231062106
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 1909,
       "pc": 2.2855979789997964
     },
@@ -85,20 +85,20 @@
       "pc": 3.631244585619405
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 2490,
       "pc": 2.995957262489171
     }
   ],
   "Banks": [
     {
-      "candidateKey": "COLEMANDAVID",
+      "candidateKey": "COLEMAN-DAVID",
       "party": "LP",
       "votes": 39423,
       "pc": 40.85793051985739
     },
     {
-      "candidateKey": "GAMBIANCHRIS",
+      "candidateKey": "GAMBIAN-CHRIS",
       "party": "ALP",
       "votes": 35890,
       "pc": 37.196335295580795
@@ -119,7 +119,7 @@
       "pc": 1.389810131829865
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 6656,
       "pc": 6.898267142028024
     },
@@ -136,7 +136,7 @@
   ],
   "Barton": [
     {
-      "party": "",
+      "party": "-",
       "votes": 7991,
       "pc": 8.350663057903922
     },
@@ -146,7 +146,7 @@
       "pc": 2.3366390436082054
     },
     {
-      "candidateKey": "SUSILOSONNY",
+      "candidateKey": "SUSILO-SONNY",
       "party": "CDPF",
       "votes": 3714,
       "pc": 3.8811616314672963
@@ -162,7 +162,7 @@
       "pc": 32.434974345040914
     },
     {
-      "candidateKey": "BURNEYLINDA",
+      "candidateKey": "BURNEY-LINDA",
       "party": "ALP",
       "votes": 41878,
       "pc": 43.76286666736334
@@ -175,7 +175,7 @@
   ],
   "Bennelong": [
     {
-      "candidateKey": "WORSLEYJULIE",
+      "candidateKey": "WORSLEY-JULIE",
       "party": "CDPF",
       "votes": 5903,
       "pc": 6.074732693237834
@@ -186,7 +186,7 @@
       "pc": 8.669074742984161
     },
     {
-      "candidateKey": "ALEXANDERJOHN",
+      "candidateKey": "ALEXANDER-JOHN",
       "party": "LP",
       "votes": 46497,
       "pc": 47.84971133956964
@@ -197,7 +197,7 @@
       "pc": 27.034258487439928
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 4942,
       "pc": 5.085774855155239
     },
@@ -219,18 +219,18 @@
   ],
   "Berowra": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4082,
       "pc": 4.16110255965912
     },
     {
-      "candidateKey": "GALLAGHERMICK",
+      "candidateKey": "GALLAGHER-MICK",
       "party": "IND",
       "votes": 2859,
       "pc": 2.914402797174283
     },
     {
-      "candidateKey": "WOODWARDROGER",
+      "candidateKey": "WOODWARD-ROGER",
       "party": "IND",
       "votes": 826,
       "pc": 0.8420065444092193
@@ -246,7 +246,7 @@
       "pc": 5.314019510902252
     },
     {
-      "candidateKey": "LEESERJULIAN",
+      "candidateKey": "LEESER-JULIAN",
       "party": "LP",
       "votes": 53678,
       "pc": 54.71819284600251
@@ -257,7 +257,7 @@
       "pc": 19.055240114578133
     },
     {
-      "candidateKey": "CLARKEBRENDANMICHAEL",
+      "candidateKey": "CLARKE-BRENDAN-MICHAEL",
       "party": "FUT",
       "votes": 1933,
       "pc": 1.970458414458863
@@ -265,7 +265,7 @@
   ],
   "Blaxland": [
     {
-      "party": "",
+      "party": "-",
       "votes": 10429,
       "pc": 11.547489868680382
     },
@@ -290,7 +290,7 @@
       "pc": 21.951192506145226
     },
     {
-      "candidateKey": "CLAREJASON",
+      "candidateKey": "CLARE-JASON",
       "party": "ALP",
       "votes": 50572,
       "pc": 55.99574816750449
@@ -298,7 +298,7 @@
   ],
   "Bradfield": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3446,
       "pc": 3.549649773382777
     },
@@ -318,7 +318,7 @@
       "pc": 11.264936135146272
     },
     {
-      "candidateKey": "FLETCHERPAUL",
+      "candidateKey": "FLETCHER-PAUL",
       "party": "LP",
       "votes": 57231,
       "pc": 58.952410383189125
@@ -336,13 +336,13 @@
   ],
   "Calare": [
     {
-      "candidateKey": "GEEANDREW",
+      "candidateKey": "GEE-ANDREW",
       "party": "NP",
       "votes": 47717,
       "pc": 45.114779517434386
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 5490,
       "pc": 5.190605854322668
     },
@@ -367,7 +367,7 @@
       "pc": 6.84327963089025
     },
     {
-      "candidateKey": "JENNINGSJESS",
+      "candidateKey": "JENNINGS-JESS",
       "party": "ALP",
       "votes": 27132,
       "pc": 25.652371227592468
@@ -380,18 +380,18 @@
   ],
   "Chifley": [
     {
-      "party": "",
+      "party": "-",
       "votes": 7785,
       "pc": 8.339224885918119
     },
     {
-      "candidateKey": "KHANAMMARAZIZ",
+      "candidateKey": "KHAN-AMMAR-AZIZ",
       "party": "IND",
       "votes": 2194,
       "pc": 2.3501938856396083
     },
     {
-      "candidateKey": "GREENJOSH",
+      "candidateKey": "GREEN-JOSH",
       "party": "CDPF",
       "votes": 7820,
       "pc": 8.37671658418493
@@ -407,7 +407,7 @@
       "pc": 20.774685605330248
     },
     {
-      "candidateKey": "HUSICED",
+      "candidateKey": "HUSIC-ED",
       "party": "ALP",
       "votes": 52278,
       "pc": 55.99974291406903
@@ -415,7 +415,7 @@
   ],
   "Cook": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4983,
       "pc": 5.170803586252698
     },
@@ -435,7 +435,7 @@
       "pc": 6.4315955503901705
     },
     {
-      "candidateKey": "MORRISONSCOTT",
+      "candidateKey": "MORRISON-SCOTT",
       "party": "LP",
       "votes": 53321,
       "pc": 55.330607670596045
@@ -448,7 +448,7 @@
   ],
   "Cowper": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5613,
       "pc": 5.146094817232496
     },
@@ -483,7 +483,7 @@
       "pc": 3.1694369825713054
     },
     {
-      "candidateKey": "OAKESHOTTROBERT",
+      "candidateKey": "OAKESHOTT-ROBERT",
       "party": "IND",
       "votes": 27200,
       "pc": 24.937427227636537
@@ -491,12 +491,12 @@
   ],
   "Cunningham": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4933,
       "pc": 4.843064296022855
     },
     {
-      "candidateKey": "FLANAGANJOHN",
+      "candidateKey": "FLANAGAN-JOHN",
       "party": "NCP",
       "votes": 1582,
       "pc": 1.5531578585664216
@@ -517,7 +517,7 @@
       "pc": 3.8671863494899714
     },
     {
-      "candidateKey": "BIRDSHARON",
+      "candidateKey": "BIRD-SHARON",
       "party": "ALP",
       "votes": 46414,
       "pc": 45.567805845449996
@@ -530,7 +530,7 @@
   ],
   "Dobell": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5956,
       "pc": 5.803371333917958
     },
@@ -540,7 +540,7 @@
       "pc": 0.9509889895741986
     },
     {
-      "candidateKey": "STEPHENSONGREGORYFRANCIS",
+      "candidateKey": "STEPHENSON-GREGORY-FRANCIS",
       "party": "IND",
       "votes": 1176,
       "pc": 1.145863782519731
@@ -566,7 +566,7 @@
       "pc": 35.648445873526256
     },
     {
-      "candidateKey": "MCBRIDEEMMA",
+      "candidateKey": "MCBRIDE-EMMA",
       "party": "ALP",
       "votes": 41454,
       "pc": 40.39169833382052
@@ -574,7 +574,7 @@
   ],
   "Eden-Monaro": [
     {
-      "party": "",
+      "party": "-",
       "votes": 6399,
       "pc": 6.343934647261768
     },
@@ -609,7 +609,7 @@
       "pc": 38.71297140817702
     },
     {
-      "candidateKey": "KELLYMIKE",
+      "candidateKey": "KELLY-MIKE",
       "party": "ALP",
       "votes": 39565,
       "pc": 39.22453107030971
@@ -627,7 +627,7 @@
   ],
   "Farrer": [
     {
-      "party": "",
+      "party": "-",
       "votes": 6602,
       "pc": 6.398464833641852
     },
@@ -647,7 +647,7 @@
       "pc": 7.691338521627043
     },
     {
-      "candidateKey": "LEYSUSSAN",
+      "candidateKey": "LEY-SUSSAN",
       "party": "LP",
       "votes": 55893,
       "pc": 54.16985685349047
@@ -663,7 +663,7 @@
       "pc": 16.946918521820876
     },
     {
-      "candidateKey": "MILLSBRIAN",
+      "candidateKey": "MILLS-BRIAN",
       "party": "IND",
       "votes": 4133,
       "pc": 4.0055824231205355
@@ -671,7 +671,7 @@
   ],
   "Fowler": [
     {
-      "party": "",
+      "party": "-",
       "votes": 9850,
       "pc": 10.410061297822871
     },
@@ -691,7 +691,7 @@
       "pc": 23.052208835341364
     },
     {
-      "candidateKey": "HAYESCHRIS",
+      "candidateKey": "HAYES-CHRIS",
       "party": "ALP",
       "votes": 51559,
       "pc": 54.49059395476643
@@ -704,13 +704,13 @@
   ],
   "Gilmore": [
     {
-      "candidateKey": "PHILLIPSFIONA",
+      "candidateKey": "PHILLIPS-FIONA",
       "party": "ALP",
       "votes": 40476,
       "pc": 37.61325515049577
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 4442,
       "pc": 4.127830797966751
     },
@@ -725,7 +725,7 @@
       "pc": 43.40913103678992
     },
     {
-      "candidateKey": "MCCALLUMCARMELMARY",
+      "candidateKey": "MCCALLUM-CARMEL-MARY",
       "party": "GRN",
       "votes": 10820,
       "pc": 10.054734181449852
@@ -733,7 +733,7 @@
   ],
   "Grayndler": [
     {
-      "party": "",
+      "party": "-",
       "votes": 6343,
       "pc": 6.728902561926484
     },
@@ -743,7 +743,7 @@
       "pc": 0.3532594282077123
     },
     {
-      "candidateKey": "CASEYJIM",
+      "candidateKey": "CASEY-JIM",
       "party": "GRN",
       "votes": 19555,
       "pc": 20.74470906487031
@@ -774,7 +774,7 @@
       "pc": 0.9908237415795894
     },
     {
-      "candidateKey": "ALBANESEANTHONY",
+      "candidateKey": "ALBANESE-ANTHONY",
       "party": "ALP",
       "votes": 40503,
       "pc": 42.967167029120034
@@ -797,7 +797,7 @@
   ],
   "Greenway": [
     {
-      "party": "",
+      "party": "-",
       "votes": 7282,
       "pc": 7.556685518601151
     },
@@ -822,7 +822,7 @@
       "pc": 31.8134177346547
     },
     {
-      "candidateKey": "ROWLANDMICHELLE",
+      "candidateKey": "ROWLAND-MICHELLE",
       "party": "ALP",
       "votes": 43722,
       "pc": 45.371244746536604
@@ -845,7 +845,7 @@
   ],
   "Hughes": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4314,
       "pc": 4.3980018350494445
     },
@@ -860,13 +860,13 @@
       "pc": 7.046589866449179
     },
     {
-      "candidateKey": "KELLYCRAIG",
+      "candidateKey": "KELLY-CRAIG",
       "party": "LP",
       "votes": 48734,
       "pc": 49.68294423488633
     },
     {
-      "candidateKey": "STEINWALLDIEDREE",
+      "candidateKey": "STEINWALL-DIEDREE",
       "party": "ALP",
       "votes": 29895,
       "pc": 30.477112855540827
@@ -879,7 +879,7 @@
   ],
   "Hume": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5311,
       "pc": 5.298336974630632
     },
@@ -899,7 +899,7 @@
       "pc": 6.259040892267481
     },
     {
-      "candidateKey": "TAYLORANGUS",
+      "candidateKey": "TAYLOR-ANGUS",
       "party": "LP",
       "votes": 51103,
       "pc": 50.98115503945571
@@ -917,12 +917,12 @@
   ],
   "Hunter": [
     {
-      "party": "",
+      "party": "-",
       "votes": 8249,
       "pc": 7.8775724585780456
     },
     {
-      "candidateKey": "STRETTONRICHARD",
+      "candidateKey": "STRETTON-RICHARD",
       "party": "CDPF",
       "votes": 3260,
       "pc": 3.113212051759538
@@ -933,7 +933,7 @@
       "pc": 6.533925416606981
     },
     {
-      "candidateKey": "FITZGIBBONJOEL",
+      "candidateKey": "FITZGIBBON-JOEL",
       "party": "ALP",
       "votes": 49962,
       "pc": 47.71236212576995
@@ -966,7 +966,7 @@
   ],
   "Kingsford Smith": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4849,
       "pc": 4.999845333718281
     },
@@ -991,7 +991,7 @@
       "pc": 2.1230524937360156
     },
     {
-      "candidateKey": "THISTLETHWAITEMATT",
+      "candidateKey": "THISTLETHWAITE-MATT",
       "party": "ALP",
       "votes": 43642,
       "pc": 44.99963911200932
@@ -999,17 +999,17 @@
   ],
   "Lindsay": [
     {
-      "party": "",
+      "party": "-",
       "votes": 11913,
       "pc": 11.773018806391999
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 2128,
       "pc": 2.10299538487385
     },
     {
-      "candidateKey": "SALEAMJIM",
+      "candidateKey": "SALEAM-JIM",
       "party": "AFN",
       "votes": 1068,
       "pc": 1.0554506912806727
@@ -1062,7 +1062,7 @@
   ],
   "Lyne": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4797,
       "pc": 4.59258408248844
     },
@@ -1087,7 +1087,7 @@
       "pc": 25.342026404725658
     },
     {
-      "candidateKey": "GILLESPIEDAVID",
+      "candidateKey": "GILLESPIE-DAVID",
       "party": "NP",
       "votes": 49399,
       "pc": 47.293946443787036
@@ -1100,7 +1100,7 @@
   ],
   "Macarthur": [
     {
-      "party": "",
+      "party": "-",
       "votes": 6379,
       "pc": 6.624710512924365
     },
@@ -1110,7 +1110,7 @@
       "pc": 3.4437278665711233
     },
     {
-      "candidateKey": "GENTJAMES",
+      "candidateKey": "GENT-JAMES",
       "party": "CDPF",
       "votes": 3875,
       "pc": 4.024259795827232
@@ -1126,7 +1126,7 @@
       "pc": 33.47664890799763
     },
     {
-      "candidateKey": "FREELANDERMIKE",
+      "candidateKey": "FREELANDER-MIKE",
       "party": "ALP",
       "votes": 46650,
       "pc": 48.44689534847493
@@ -1134,7 +1134,7 @@
   ],
   "Mackellar": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5223,
       "pc": 5.2632639693656476
     },
@@ -1159,7 +1159,7 @@
       "pc": 13.30578928805361
     },
     {
-      "candidateKey": "FALINSKIJASON",
+      "candidateKey": "FALINSKI-JASON",
       "party": "LP",
       "votes": 48103,
       "pc": 48.47382475940948
@@ -1177,7 +1177,7 @@
   ],
   "Macquarie": [
     {
-      "party": "",
+      "party": "-",
       "votes": 6389,
       "pc": 6.52998231825104
     },
@@ -1202,7 +1202,7 @@
       "pc": 1.730358438691346
     },
     {
-      "candidateKey": "TEMPLEMANSUSAN",
+      "candidateKey": "TEMPLEMAN-SUSAN",
       "party": "ALP",
       "votes": 32480,
       "pc": 33.196717122678635
@@ -1240,7 +1240,7 @@
       "pc": 6.491479801841242
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 9441,
       "pc": 9.888038207354496
     },
@@ -1250,13 +1250,13 @@
       "pc": 1.8820892552288984
     },
     {
-      "candidateKey": "ONEILLASTRID",
+      "candidateKey": "ONEILL-ASTRID",
       "party": "GRN",
       "votes": 4665,
       "pc": 4.885891138365504
     },
     {
-      "candidateKey": "BOWENCHRIS",
+      "candidateKey": "BOWEN-CHRIS",
       "party": "ALP",
       "votes": 45979,
       "pc": 48.15613904628243
@@ -1269,7 +1269,7 @@
   ],
   "Mitchell": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4308,
       "pc": 4.510711368919231
     },
@@ -1284,7 +1284,7 @@
       "pc": 7.6298871275103135
     },
     {
-      "candidateKey": "HAWKEALEX",
+      "candidateKey": "HAWKE-ALEX",
       "party": "LP",
       "votes": 55168,
       "pc": 57.76391012083011
@@ -1297,12 +1297,12 @@
   ],
   "New England": [
     {
-      "party": "",
+      "party": "-",
       "votes": 7196,
       "pc": 7.041095890410959
     },
     {
-      "candidateKey": "TABERROB",
+      "candidateKey": "TABER-ROB",
       "party": "IND",
       "votes": 2661,
       "pc": 2.6037181996086107
@@ -1343,7 +1343,7 @@
       "pc": 0.7915851272015656
     },
     {
-      "candidateKey": "JOYCEBARNABY",
+      "candidateKey": "JOYCE-BARNABY",
       "party": "NP",
       "votes": 49673,
       "pc": 48.60371819960861
@@ -1356,7 +1356,7 @@
   ],
   "Newcastle": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4939,
       "pc": 4.741106226121681
     },
@@ -1366,7 +1366,7 @@
       "pc": 2.6254151707719773
     },
     {
-      "candidateKey": "MACKENZIEJOHN",
+      "candidateKey": "MACKENZIE-JOHN",
       "party": "GRN",
       "votes": 13558,
       "pc": 13.01476376063125
@@ -1382,7 +1382,7 @@
       "pc": 2.0465759210551577
     },
     {
-      "candidateKey": "CLAYDONSHARON",
+      "candidateKey": "CLAYDON-SHARON",
       "party": "ALP",
       "votes": 46762,
       "pc": 44.88835985946589
@@ -1400,7 +1400,7 @@
   ],
   "North Sydney": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4623,
       "pc": 4.7610710607621005
     },
@@ -1410,13 +1410,13 @@
       "pc": 1.9505664263645726
     },
     {
-      "candidateKey": "CHESTERFIELDEVANSARTHUR",
+      "candidateKey": "CHESTERFIELD-EVANS-ARTHUR",
       "party": "GRN",
       "votes": 12036,
       "pc": 12.39546858908342
     },
     {
-      "candidateKey": "ZIMMERMANTRENT",
+      "candidateKey": "ZIMMERMAN-TRENT",
       "party": "LP",
       "votes": 47614,
       "pc": 49.03604531410917
@@ -1469,13 +1469,13 @@
       "pc": 2.7428235272489956
     },
     {
-      "candidateKey": "HOGANKEVIN",
+      "candidateKey": "HOGAN-KEVIN",
       "party": "NP",
       "votes": 46327,
       "pc": 42.582702931254765
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 4181,
       "pc": 3.8430781392185156
     },
@@ -1487,7 +1487,7 @@
   ],
   "Parkes": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5170,
       "pc": 5.237193188609864
     },
@@ -1512,7 +1512,7 @@
       "pc": 2.1769300120546613
     },
     {
-      "candidateKey": "COULTONMARK",
+      "candidateKey": "COULTON-MARK",
       "party": "NP",
       "votes": 54869,
       "pc": 55.58211858139936
@@ -1520,7 +1520,7 @@
   ],
   "Parramatta": [
     {
-      "party": "",
+      "party": "-",
       "votes": 8367,
       "pc": 9.256657336622819
     },
@@ -1535,7 +1535,7 @@
       "pc": 31.191848565644047
     },
     {
-      "candidateKey": "BRADLEYPHIL",
+      "candidateKey": "BRADLEY-PHIL",
       "party": "GRN",
       "votes": 5640,
       "pc": 6.239697308300789
@@ -1546,7 +1546,7 @@
       "pc": 4.809213510493533
     },
     {
-      "candidateKey": "OWENSJULIE",
+      "candidateKey": "OWENS-JULIE",
       "party": "ALP",
       "votes": 38109,
       "pc": 42.16110367411964
@@ -1569,13 +1569,13 @@
   ],
   "Paterson": [
     {
-      "candidateKey": "DAVISJAN",
+      "candidateKey": "DAVIS-JAN",
       "party": "CEC",
       "votes": 533,
       "pc": 0.5066010208058093
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 5143,
       "pc": 4.888272138844798
     },
@@ -1600,13 +1600,13 @@
       "pc": 5.509880145612152
     },
     {
-      "candidateKey": "BURSTONGRAHAM",
+      "candidateKey": "BURSTON-GRAHAM",
       "party": "PHON",
       "votes": 13056,
       "pc": 12.409348832346428
     },
     {
-      "candidateKey": "SWANSONMERYL",
+      "candidateKey": "SWANSON-MERYL",
       "party": "ALP",
       "votes": 46090,
       "pc": 43.807206470806285
@@ -1614,7 +1614,7 @@
   ],
   "Reid": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4748,
       "pc": 4.979810163091929
     },
@@ -1646,7 +1646,7 @@
   ],
   "Richmond": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3748,
       "pc": 3.6692577291328097
     },
@@ -1666,7 +1666,7 @@
       "pc": 1.452822430638498
     },
     {
-      "candidateKey": "ELLIOTJUSTINE",
+      "candidateKey": "ELLIOT-JUSTINE",
       "party": "ALP",
       "votes": 30551,
       "pc": 29.909149648542282
@@ -1677,7 +1677,7 @@
       "pc": 3.0241027548802695
     },
     {
-      "candidateKey": "FRASERMATTHEW",
+      "candidateKey": "FRASER-MATTHEW",
       "party": "NP",
       "votes": 37006,
       "pc": 36.22853562547726
@@ -1685,13 +1685,13 @@
   ],
   "Riverina": [
     {
-      "candidateKey": "FOLEYRICHARD",
+      "candidateKey": "FOLEY-RICHARD",
       "party": "IND",
       "votes": 6058,
       "pc": 5.841626166782381
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 4784,
       "pc": 4.613129676772352
     },
@@ -1706,7 +1706,7 @@
       "pc": 3.0924554501272854
     },
     {
-      "candidateKey": "MCCORMACKMICHAEL",
+      "candidateKey": "MCCORMACK-MICHAEL",
       "party": "NP",
       "votes": 56581,
       "pc": 54.56009411401682
@@ -1724,7 +1724,7 @@
   ],
   "Robertson": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5042,
       "pc": 5.025967164744465
     },
@@ -1744,13 +1744,13 @@
       "pc": 7.92870742331961
     },
     {
-      "candidateKey": "WICKSLUCY",
+      "candidateKey": "WICKS-LUCY",
       "party": "LP",
       "votes": 42573,
       "pc": 42.43762397950538
     },
     {
-      "candidateKey": "CHARLTONANNE",
+      "candidateKey": "CHARLTON-ANNE",
       "party": "ALP",
       "votes": 36611,
       "pc": 36.49458228251877
@@ -1768,7 +1768,7 @@
   ],
   "Shortland": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4845,
       "pc": 4.709232817861066
     },
@@ -1788,7 +1788,7 @@
       "pc": 9.018982727953112
     },
     {
-      "candidateKey": "CONROYPAT",
+      "candidateKey": "CONROY-PAT",
       "party": "ALP",
       "votes": 50164,
       "pc": 48.75829826113158
@@ -1796,7 +1796,7 @@
   ],
   "Sydney": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5603,
       "pc": 5.992321101996727
     },
@@ -1821,7 +1821,7 @@
       "pc": 1.5924622739377348
     },
     {
-      "candidateKey": "PLIBERSEKTANYA",
+      "candidateKey": "PLIBERSEK-TANYA",
       "party": "ALP",
       "votes": 38449,
       "pc": 41.12060575596505
@@ -1854,7 +1854,7 @@
   ],
   "Warringah": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5611,
       "pc": 6.080605134540568
     },
@@ -1884,7 +1884,7 @@
       "pc": 11.449223533491553
     },
     {
-      "candidateKey": "ABBOTTTONY",
+      "candidateKey": "ABBOTT-TONY",
       "party": "LP",
       "votes": 44759,
       "pc": 48.50504459399417
@@ -1912,7 +1912,7 @@
   ],
   "Watson": [
     {
-      "party": "",
+      "party": "-",
       "votes": 9924,
       "pc": 10.652640618291112
     },
@@ -1927,13 +1927,13 @@
       "pc": 5.962859596393302
     },
     {
-      "candidateKey": "BURKETONY",
+      "candidateKey": "BURKE-TONY",
       "party": "ALP",
       "votes": 46105,
       "pc": 49.49012451696007
     },
     {
-      "candidateKey": "ZAMANMOHAMMAD",
+      "candidateKey": "ZAMAN-MOHAMMAD",
       "party": "LP",
       "votes": 21133,
       "pc": 22.684628595963932
@@ -1951,7 +1951,7 @@
   ],
   "Wentworth": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4549,
       "pc": 5.131936688439886
     },
@@ -1998,7 +1998,7 @@
   ],
   "Werriwa": [
     {
-      "party": "",
+      "party": "-",
       "votes": 8581,
       "pc": 8.761307712727941
     },
@@ -2008,7 +2008,7 @@
       "pc": 6.111780441485777
     },
     {
-      "candidateKey": "WESTERBERGSIGNE",
+      "candidateKey": "WESTERBERG-SIGNE",
       "party": "GRN",
       "votes": 4109,
       "pc": 4.195340099242409
@@ -2019,7 +2019,7 @@
       "pc": 33.356476281881115
     },
     {
-      "candidateKey": "STANLEYANNEMAREE",
+      "candidateKey": "STANLEY-ANNE-MAREE",
       "party": "ALP",
       "votes": 46596,
       "pc": 47.57509546466276
@@ -2027,7 +2027,7 @@
   ],
   "Whitlam": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5628,
       "pc": 5.407950494383534
     },
@@ -2052,7 +2052,7 @@
       "pc": 24.858507336478684
     },
     {
-      "candidateKey": "JONESSTEPHEN",
+      "candidateKey": "JONES-STEPHEN",
       "party": "ALP",
       "votes": 51939,
       "pc": 49.90823396016105
@@ -2065,7 +2065,7 @@
   ],
   "Lingiari": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3826,
       "pc": 7.799567823215233
     },
@@ -2147,7 +2147,7 @@
       "pc": 2.8021234145646288
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 3904,
       "pc": 6.954538976770699
     },
@@ -2209,12 +2209,12 @@
       "pc": 0.7884362680683311
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 5253,
       "pc": 5.5667415539824505
     },
     {
-      "candidateKey": "TURNERJOHN",
+      "candidateKey": "TURNER-JOHN",
       "party": "IND",
       "votes": 1913,
       "pc": 2.027256157009029
@@ -2267,7 +2267,7 @@
       "pc": 2.583371968904655
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 2838,
       "pc": 3.059937248644161
     },
@@ -2277,7 +2277,7 @@
       "pc": 33.79516318587124
     },
     {
-      "candidateKey": "VASTAROSS",
+      "candidateKey": "VASTA-ROSS",
       "party": "LNP",
       "votes": 41756,
       "pc": 45.02140230950866
@@ -2300,12 +2300,12 @@
   ],
   "Bowman": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3654,
       "pc": 3.807082799362361
     },
     {
-      "candidateKey": "LAMINGANDREW",
+      "candidateKey": "LAMING-ANDREW",
       "party": "LNP",
       "votes": 45946,
       "pc": 47.870888423509314
@@ -2333,7 +2333,7 @@
   ],
   "Brisbane": [
     {
-      "party": "",
+      "party": "-",
       "votes": 2240,
       "pc": 2.3808764601468915
     },
@@ -2370,7 +2370,7 @@
   ],
   "Capricornia": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3297,
       "pc": 3.569611207951236
     },
@@ -2380,7 +2380,7 @@
       "pc": 0.04980349274059959
     },
     {
-      "candidateKey": "MURRAYKEN",
+      "candidateKey": "MURRAY-KEN",
       "party": "IND",
       "votes": 4312,
       "pc": 4.668536102118813
@@ -2418,7 +2418,7 @@
   ],
   "Dawson": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4254,
       "pc": 4.542784831754643
     },
@@ -2460,13 +2460,13 @@
   ],
   "Dickson": [
     {
-      "candidateKey": "PROHASKATHOR",
+      "candidateKey": "PROHASKA-THOR",
       "party": "IND",
       "votes": 3217,
       "pc": 3.2917557736188847
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 3268,
       "pc": 3.343940897788783
     },
@@ -2498,7 +2498,7 @@
   ],
   "Fadden": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4048,
       "pc": 4.4921875
     },
@@ -2535,7 +2535,7 @@
   ],
   "Fairfax": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5909,
       "pc": 6.241945365812436
     },
@@ -2582,7 +2582,7 @@
   ],
   "Fisher": [
     {
-      "party": "",
+      "party": "-",
       "votes": 6394,
       "pc": 6.811910722846641
     },
@@ -2592,7 +2592,7 @@
       "pc": 0.14275821658765248
     },
     {
-      "candidateKey": "JESSOPMIKE",
+      "candidateKey": "JESSOP-MIKE",
       "party": "IND",
       "votes": 2906,
       "pc": 3.095935652266553
@@ -2650,7 +2650,7 @@
   ],
   "Flynn": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5755,
       "pc": 6.194766471835609
     },
@@ -2660,7 +2660,7 @@
       "pc": 2.074251084487788
     },
     {
-      "candidateKey": "SCOTTDUNCANGEORGE",
+      "candidateKey": "SCOTT-DUNCAN-GEORGE",
       "party": "IND",
       "votes": 864,
       "pc": 0.9300222817838344
@@ -2703,7 +2703,7 @@
   ],
   "Forde": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4486,
       "pc": 5.0748902665278965
     },
@@ -2718,7 +2718,7 @@
       "pc": 38.57188108059188
     },
     {
-      "candidateKey": "HARDMANDES",
+      "candidateKey": "HARDMAN-DES",
       "party": "ALP",
       "votes": 31587,
       "pc": 35.73351735372641
@@ -2741,7 +2741,7 @@
   ],
   "Griffith": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3712,
       "pc": 4.069952305246423
     },
@@ -2788,12 +2788,12 @@
   ],
   "Groom": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3380,
       "pc": 3.5719192196730325
     },
     {
-      "candidateKey": "MCVEIGHJOHN",
+      "candidateKey": "MCVEIGH-JOHN",
       "party": "LNP",
       "votes": 49270,
       "pc": 52.06759170215689
@@ -2821,7 +2821,7 @@
   ],
   "Herbert": [
     {
-      "party": "",
+      "party": "-",
       "votes": 6525,
       "pc": 6.8784128523539465
     },
@@ -2873,7 +2873,7 @@
   ],
   "Hinkler": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4305,
       "pc": 4.5850551697695225
     },
@@ -2925,7 +2925,7 @@
   ],
   "Kennedy": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3736,
       "pc": 3.991580926739105
     },
@@ -2977,12 +2977,12 @@
   ],
   "Leichhardt": [
     {
-      "party": "",
+      "party": "-",
       "votes": 6694,
       "pc": 7.303793739293625
     },
     {
-      "candidateKey": "MCCARTHYDANIEL",
+      "candidateKey": "MCCARTHY-DANIEL",
       "party": "IND",
       "votes": 5828,
       "pc": 6.35890497648689
@@ -3030,7 +3030,7 @@
   ],
   "Lilley": [
     {
-      "party": "",
+      "party": "-",
       "votes": 2800,
       "pc": 2.9341493062832713
     },
@@ -3062,12 +3062,12 @@
   ],
   "Longman": [
     {
-      "party": "",
+      "party": "-",
       "votes": 830,
       "pc": 0.8620241989925741
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 8217,
       "pc": 8.534039570026485
     },
@@ -3097,7 +3097,7 @@
       "pc": 3.1178272835851897
     },
     {
-      "candidateKey": "LAMBSUSAN",
+      "candidateKey": "LAMB-SUSAN",
       "party": "ALP",
       "votes": 31161,
       "pc": 32.36329646362362
@@ -3125,12 +3125,12 @@
   ],
   "Maranoa": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5269,
       "pc": 5.527812165593068
     },
     {
-      "candidateKey": "LITTLEPROUDDAVID",
+      "candidateKey": "LITTLEPROUD-DAVID",
       "party": "LNP",
       "votes": 44297,
       "pc": 46.47285927107157
@@ -3173,7 +3173,7 @@
   ],
   "McPherson": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4151,
       "pc": 4.469351938585441
     },
@@ -3183,7 +3183,7 @@
       "pc": 4.145267396664406
     },
     {
-      "candidateKey": "ANDREWSKAREN",
+      "candidateKey": "ANDREWS-KAREN",
       "party": "LNP",
       "votes": 47284,
       "pc": 50.91034378802072
@@ -3206,7 +3206,7 @@
   ],
   "Moncrieff": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4206,
       "pc": 4.4981551788674405
     },
@@ -3243,7 +3243,7 @@
   ],
   "Moreton": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3750,
       "pc": 4.1133304814241995
     },
@@ -3310,7 +3310,7 @@
       "pc": 0.12480604466032516
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 3559,
       "pc": 4.0016640805954715
     },
@@ -3347,12 +3347,12 @@
   ],
   "Petrie": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3886,
       "pc": 4.019487168878453
     },
     {
-      "candidateKey": "HOWARTHLUKE",
+      "candidateKey": "HOWARTH-LUKE",
       "party": "LNP",
       "votes": 41475,
       "pc": 42.89969900392019
@@ -3385,7 +3385,7 @@
   ],
   "Rankin": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5225,
       "pc": 5.764054364133792
     },
@@ -3400,7 +3400,7 @@
       "pc": 2.261495013679287
     },
     {
-      "candidateKey": "CHALMERSJIM",
+      "candidateKey": "CHALMERS-JIM",
       "party": "ALP",
       "votes": 42147,
       "pc": 46.495234312946785
@@ -3411,13 +3411,13 @@
       "pc": 5.527976348071661
     },
     {
-      "candidateKey": "DAVIESRIC",
+      "candidateKey": "DAVIES-RIC",
       "party": "LDP",
       "votes": 3513,
       "pc": 3.875430235636749
     },
     {
-      "candidateKey": "COTTERNEIL",
+      "candidateKey": "COTTER-NEIL",
       "party": "GRN",
       "votes": 5373,
       "pc": 5.927323272438443
@@ -3430,7 +3430,7 @@
   ],
   "Ryan": [
     {
-      "party": "",
+      "party": "-",
       "votes": 2250,
       "pc": 2.356736600643127
     },
@@ -3472,7 +3472,7 @@
   ],
   "Wide Bay": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4681,
       "pc": 4.998291547430914
     },
@@ -3514,18 +3514,18 @@
   ],
   "Wright": [
     {
-      "candidateKey": "BUCHHOLZSCOTT",
+      "candidateKey": "BUCHHOLZ-SCOTT",
       "party": "LNP",
       "votes": 36935,
       "pc": 40.0171184641054
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 3980,
       "pc": 4.312119439207784
     },
     {
-      "candidateKey": "SMITHROD",
+      "candidateKey": "SMITH-ROD",
       "party": "ALP",
       "votes": 20110,
       "pc": 21.78812108604737
@@ -3551,7 +3551,7 @@
       "pc": 2.14414180155583
     },
     {
-      "candidateKey": "SMITHROD",
+      "candidateKey": "SMITH-ROD",
       "party": "PHON",
       "votes": 18461,
       "pc": 20.00151682593339
@@ -3559,7 +3559,7 @@
   ],
   "Adelaide": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4136,
       "pc": 3.884406961127755
     },
@@ -3606,7 +3606,7 @@
   ],
   "Barker": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4661,
       "pc": 4.265190336749634
     },
@@ -3653,7 +3653,7 @@
   ],
   "Boothby": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4674,
       "pc": 4.154482023021199
     },
@@ -3710,7 +3710,7 @@
   ],
   "Grey": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4402,
       "pc": 4.010166619598984
     },
@@ -3720,7 +3720,7 @@
       "pc": 1.0421696076377185
     },
     {
-      "candidateKey": "BOLTONKARIN",
+      "candidateKey": "BOLTON-KARIN",
       "party": "IND",
       "votes": 426,
       "pc": 0.3880806406063532
@@ -3758,7 +3758,7 @@
   ],
   "Hindmarsh": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5173,
       "pc": 4.746350549137986
     },
@@ -3800,7 +3800,7 @@
   ],
   "Kingston": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4106,
       "pc": 3.864179638239003
     },
@@ -3852,7 +3852,7 @@
   ],
   "Makin": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5031,
       "pc": 4.619792288408738
     },
@@ -3899,7 +3899,7 @@
   ],
   "Mayo": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3262,
       "pc": 2.987945627083868
     },
@@ -3951,7 +3951,7 @@
   ],
   "Spence": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5908,
       "pc": 5.843256715591249
     },
@@ -3998,7 +3998,7 @@
   ],
   "Sturt": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4083,
       "pc": 3.5907132178348427
     },
@@ -4045,7 +4045,7 @@
   ],
   "Bass": [
     {
-      "party": "",
+      "party": "-",
       "votes": 2762,
       "pc": 3.9691321654906804
     },
@@ -4082,7 +4082,7 @@
   ],
   "Braddon": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3713,
       "pc": 5.122015146707867
     },
@@ -4124,12 +4124,12 @@
   ],
   "Clark": [
     {
-      "party": "",
+      "party": "-",
       "votes": 2004,
       "pc": 2.916436242978141
     },
     {
-      "candidateKey": "WILKIEANDREW",
+      "candidateKey": "WILKIE-ANDREW",
       "party": "IND",
       "votes": 29372,
       "pc": 42.74529208021655
@@ -4167,7 +4167,7 @@
   ],
   "Franklin": [
     {
-      "party": "",
+      "party": "-",
       "votes": 2338,
       "pc": 3.412092643131303
     },
@@ -4199,7 +4199,7 @@
   ],
   "Lyons": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3108,
       "pc": 4.4252701721413015
     },
@@ -4241,7 +4241,7 @@
   ],
   "Aston": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4251,
       "pc": 4.200177848038732
     },
@@ -4303,7 +4303,7 @@
   ],
   "Ballarat": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5254,
       "pc": 5.292742877865979
     },
@@ -4350,7 +4350,7 @@
   ],
   "Bendigo": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4575,
       "pc": 4.622612913003941
     },
@@ -4397,7 +4397,7 @@
   ],
   "Bruce": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5190,
       "pc": 5.338956897438535
     },
@@ -4444,7 +4444,7 @@
   ],
   "Calwell": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5766,
       "pc": 6.875827281508245
     },
@@ -4501,12 +4501,12 @@
   ],
   "Casey": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4099,
       "pc": 4.026443488340111
     },
     {
-      "candidateKey": "CHARLETONPETER",
+      "candidateKey": "CHARLETON-PETER",
       "party": "IND",
       "votes": 2566,
       "pc": 2.520579163474195
@@ -4564,7 +4564,7 @@
   ],
   "Chisholm": [
     {
-      "party": "",
+      "party": "-",
       "votes": 2664,
       "pc": 2.7190054808781654
     },
@@ -4616,7 +4616,7 @@
   ],
   "Cooper": [
     {
-      "party": "",
+      "party": "-",
       "votes": 7269,
       "pc": 7.637750598915647
     },
@@ -4698,7 +4698,7 @@
   ],
   "Corangamite": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4317,
       "pc": 4.696935078499854
     },
@@ -4765,7 +4765,7 @@
   ],
   "Corio": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4524,
       "pc": 4.664879356568365
     },
@@ -4832,7 +4832,7 @@
   ],
   "Deakin": [
     {
-      "party": "",
+      "party": "-",
       "votes": 2983,
       "pc": 3.009999697284643
     },
@@ -4894,7 +4894,7 @@
   ],
   "Dunkley": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5821,
       "pc": 6.036816178376977
     },
@@ -4956,7 +4956,7 @@
   ],
   "Flinders": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3840,
       "pc": 4.043978263616833
     },
@@ -5023,12 +5023,12 @@
   ],
   "Fraser": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5343,
       "pc": 5.649245604203893
     },
     {
-      "candidateKey": "TRANVAN",
+      "candidateKey": "TRAN-VAN",
       "party": "IND",
       "votes": 1321,
       "pc": 1.396715972890388
@@ -5071,7 +5071,7 @@
   ],
   "Gellibrand": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3650,
       "pc": 3.9109796736207096
     },
@@ -5108,7 +5108,7 @@
   ],
   "Gippsland": [
     {
-      "party": "",
+      "party": "-",
       "votes": 6639,
       "pc": 6.862937655705677
     },
@@ -5175,7 +5175,7 @@
   ],
   "Goldstein": [
     {
-      "party": "",
+      "party": "-",
       "votes": 2363,
       "pc": 2.463947947405191
     },
@@ -5195,7 +5195,7 @@
       "pc": 21.340312607530525
     },
     {
-      "candidateKey": "WILSONTIM",
+      "candidateKey": "WILSON-TIM",
       "party": "LP",
       "votes": 52694,
       "pc": 54.94510077891203
@@ -5213,7 +5213,7 @@
   ],
   "Gorton": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4442,
       "pc": 5.048932131531388
     },
@@ -5235,7 +5235,7 @@
   ],
   "Higgins": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3611,
       "pc": 3.7541065413565105
     },
@@ -5292,7 +5292,7 @@
   ],
   "Holt": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4216,
       "pc": 4.902325581395349
     },
@@ -5354,7 +5354,7 @@
   ],
   "Hotham": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3822,
       "pc": 3.9087348257841508
     },
@@ -5401,7 +5401,7 @@
   ],
   "Indi": [
     {
-      "party": "",
+      "party": "-",
       "votes": 6555,
       "pc": 6.574328525866047
     },
@@ -5483,7 +5483,7 @@
   ],
   "Isaacs": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3230,
       "pc": 3.4137267750322353
     },
@@ -5520,7 +5520,7 @@
   ],
   "Jagajaga": [
     {
-      "party": "",
+      "party": "-",
       "votes": 2980,
       "pc": 3.07070873606331
     },
@@ -5557,12 +5557,12 @@
   ],
   "Kooyong": [
     {
-      "party": "",
+      "party": "-",
       "votes": 1963,
       "pc": 2.0022031374308966
     },
     {
-      "candidateKey": "ZUBACANGELINA",
+      "candidateKey": "ZUBAC-ANGELINA",
       "party": "IND",
       "votes": 2750,
       "pc": 2.8049203402623366
@@ -5600,7 +5600,7 @@
   ],
   "Lalor": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3891,
       "pc": 4.549866111624317
     },
@@ -5632,7 +5632,7 @@
   ],
   "La Trobe": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4923,
       "pc": 5.675451338451961
     },
@@ -5694,7 +5694,7 @@
   ],
   "Macnamara": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3915,
       "pc": 4.226127507070532
     },
@@ -5756,7 +5756,7 @@
   ],
   "Mallee": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4902,
       "pc": 4.75493001464697
     },
@@ -5843,7 +5843,7 @@
   ],
   "Maribyrnong": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3813,
       "pc": 3.969559423669526
     },
@@ -5915,7 +5915,7 @@
   ],
   "McEwen": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4947,
       "pc": 5.567497608463227
     },
@@ -5977,7 +5977,7 @@
   ],
   "Melbourne": [
     {
-      "party": "",
+      "party": "-",
       "votes": 2153,
       "pc": 2.495942499420357
     },
@@ -6059,7 +6059,7 @@
   ],
   "Menzies": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4543,
       "pc": 4.550143725649269
     },
@@ -6106,7 +6106,7 @@
   ],
   "Monash": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5060,
       "pc": 5.290064923524061
     },
@@ -6163,7 +6163,7 @@
   ],
   "Nicholls": [
     {
-      "party": "",
+      "party": "-",
       "votes": 8531,
       "pc": 8.620480588508721
     },
@@ -6188,13 +6188,13 @@
       "pc": 0.003031466623552475
     },
     {
-      "candidateKey": "BOCKANDREW",
+      "candidateKey": "BOCK-ANDREW",
       "party": "IND",
       "votes": 1282,
       "pc": 1.2954467371314242
     },
     {
-      "candidateKey": "HICKSNIGEL",
+      "candidateKey": "HICKS-NIGEL",
       "party": "IND",
       "votes": 759,
       "pc": 0.766961055758776
@@ -6297,7 +6297,7 @@
       "pc": 0.014373852855973994
     },
     {
-      "party": "",
+      "party": "-",
       "votes": 5266,
       "pc": 5.822516087658388
     },
@@ -6354,7 +6354,7 @@
   ],
   "Wannon": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4597,
       "pc": 4.3976963991887645
     },
@@ -6441,7 +6441,7 @@
   ],
   "Wills": [
     {
-      "party": "",
+      "party": "-",
       "votes": 6261,
       "pc": 6.8446426814469845
     },
@@ -6498,7 +6498,7 @@
   ],
   "Brand": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3602,
       "pc": 4.221753398968589
     },
@@ -6513,7 +6513,7 @@
       "pc": 5.513361462728551
     },
     {
-      "candidateKey": "KINGMADELEINE",
+      "candidateKey": "KING-MADELEINE",
       "party": "ALP",
       "votes": 38803,
       "pc": 45.47937177684013
@@ -6531,7 +6531,7 @@
   ],
   "Burt": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3903,
       "pc": 4.422111691460554
     },
@@ -6541,7 +6541,7 @@
       "pc": 7.67043201413988
     },
     {
-      "candidateKey": "KEOGHMATT",
+      "candidateKey": "KEOGH-MATT",
       "party": "ALP",
       "votes": 39673,
       "pc": 44.949638005461075
@@ -6552,7 +6552,7 @@
       "pc": 33.804285018298
     },
     {
-      "candidateKey": "SPYKERWARNAR",
+      "candidateKey": "SPYKER-WARNAR",
       "party": "AUC",
       "votes": 4345,
       "pc": 4.922899128720499
@@ -6565,7 +6565,7 @@
   ],
   "Canning": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3743,
       "pc": 4.241984654963337
     },
@@ -6580,7 +6580,7 @@
       "pc": 31.639788297426254
     },
     {
-      "candidateKey": "HASTIEANDREW",
+      "candidateKey": "HASTIE-ANDREW",
       "party": "LP",
       "votes": 42497,
       "pc": 48.16233552817979
@@ -6598,7 +6598,7 @@
   ],
   "Cowan": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4712,
       "pc": 5.465850037119525
     },
@@ -6618,7 +6618,7 @@
       "pc": 1.271343726800297
     },
     {
-      "candidateKey": "ALYANNE",
+      "candidateKey": "ALY-ANNE",
       "party": "ALP",
       "votes": 33966,
       "pc": 39.400055679287306
@@ -6641,7 +6641,7 @@
   ],
   "Curtin": [
     {
-      "party": "",
+      "party": "-",
       "votes": 1772,
       "pc": 2.0243099981721806
     },
@@ -6673,7 +6673,7 @@
   ],
   "Durack": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3122,
       "pc": 3.9117414892683966
     },
@@ -6693,13 +6693,13 @@
       "pc": 24.883787949029582
     },
     {
-      "candidateKey": "PRICEMELISSA",
+      "candidateKey": "PRICE-MELISSA",
       "party": "LP",
       "votes": 32011,
       "pc": 40.108506346243
     },
     {
-      "candidateKey": "GOULDGRAHAME",
+      "candidateKey": "GOULD-GRAHAME",
       "party": "AUC",
       "votes": 1966,
       "pc": 2.4633195925373697
@@ -6712,7 +6712,7 @@
   ],
   "Forrest": [
     {
-      "party": "",
+      "party": "-",
       "votes": 5269,
       "pc": 5.857047576700756
     },
@@ -6742,7 +6742,7 @@
       "pc": 21.783014673188084
     },
     {
-      "candidateKey": "MARINONOLA",
+      "candidateKey": "MARINO-NOLA",
       "party": "LP",
       "votes": 41869,
       "pc": 46.541796353935084
@@ -6760,7 +6760,7 @@
   ],
   "Fremantle": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3535,
       "pc": 3.998371243397315
     },
@@ -6775,7 +6775,7 @@
       "pc": 2.641074074492993
     },
     {
-      "candidateKey": "WILSONJOSH",
+      "candidateKey": "WILSON-JOSH",
       "party": "ALP",
       "votes": 34792,
       "pc": 39.35256925043264
@@ -6793,7 +6793,7 @@
   ],
   "Hasluck": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3425,
       "pc": 4.044829703812178
     },
@@ -6813,7 +6813,7 @@
       "pc": 33.837214795219424
     },
     {
-      "candidateKey": "WYATTKEN",
+      "candidateKey": "WYATT-KEN",
       "party": "LP",
       "votes": 36519,
       "pc": 43.12792290613633
@@ -6826,7 +6826,7 @@
   ],
   "Moore": [
     {
-      "party": "",
+      "party": "-",
       "votes": 2891,
       "pc": 3.196735813171746
     },
@@ -6841,7 +6841,7 @@
       "pc": 27.774337653146976
     },
     {
-      "candidateKey": "GOODENOUGHIAN",
+      "candidateKey": "GOODENOUGH-IAN",
       "party": "LP",
       "votes": 48133,
       "pc": 53.22327391746649
@@ -6854,7 +6854,7 @@
   ],
   "O'Connor": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3439,
       "pc": 3.8053400905137598
     },
@@ -6874,7 +6874,7 @@
       "pc": 20.127693005654343
     },
     {
-      "candidateKey": "WILSONRICK",
+      "candidateKey": "WILSON-RICK",
       "party": "LP",
       "votes": 37092,
       "pc": 41.043231938742764
@@ -6885,7 +6885,7 @@
       "pc": 3.868412025715645
     },
     {
-      "candidateKey": "HASSELLJOHN",
+      "candidateKey": "HASSELL-JOHN",
       "party": "NP",
       "votes": 15936,
       "pc": 17.633585252232415
@@ -6893,7 +6893,7 @@
   ],
   "Pearce": [
     {
-      "party": "",
+      "party": "-",
       "votes": 4150,
       "pc": 4.5513368866662285
     },
@@ -6913,7 +6913,7 @@
       "pc": 32.69175933846593
     },
     {
-      "candidateKey": "PORTERCHRISTIAN",
+      "candidateKey": "PORTER-CHRISTIAN",
       "party": "LP",
       "votes": 39551,
       "pc": 43.375885591454455
@@ -6926,7 +6926,7 @@
   ],
   "Perth": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3274,
       "pc": 3.7673321442954952
     },
@@ -6958,7 +6958,7 @@
   ],
   "Stirling": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3587,
       "pc": 4.14787576030898
     },
@@ -6988,7 +6988,7 @@
       "pc": 47.40049492356437
     },
     {
-      "candidateKey": "HOSTKEVIN",
+      "candidateKey": "HOST-KEVIN",
       "party": "AUC",
       "votes": 2019,
       "pc": 2.3346978422257685
@@ -6996,7 +6996,7 @@
   ],
   "Swan": [
     {
-      "party": "",
+      "party": "-",
       "votes": 3062,
       "pc": 3.625213108543285
     },
@@ -7011,13 +7011,13 @@
       "pc": 31.811185830649748
     },
     {
-      "candidateKey": "IRONSSTEVE",
+      "candidateKey": "IRONS-STEVE",
       "party": "LP",
       "votes": 39220,
       "pc": 46.4339837090358
     },
     {
-      "candidateKey": "KLOMPSTEVE",
+      "candidateKey": "KLOMP-STEVE",
       "party": "AUC",
       "votes": 3086,
       "pc": 3.653627580981247
@@ -7025,7 +7025,7 @@
   ],
   "Tangney": [
     {
-      "party": "",
+      "party": "-",
       "votes": 2183,
       "pc": 2.545831972757382
     },
@@ -7040,13 +7040,13 @@
       "pc": 12.073750991276764
     },
     {
-      "candidateKey": "BOSWELLMARION",
+      "candidateKey": "BOSWELL-MARION",
       "party": "ALP",
       "votes": 19679,
       "pc": 22.94980640947894
     },
     {
-      "candidateKey": "MORTONBEN",
+      "candidateKey": "MORTON-BEN",
       "party": "LP",
       "votes": 40790,
       "pc": 47.56962261510472

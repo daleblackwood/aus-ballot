@@ -5,16 +5,16 @@
     "abbrev": "GRN",
     "color": "green",
     "matches": [
-      "AUSTRALIANGREENS",
+      "AUSTRALIAN-GREENS",
       "GRN",
       "GRN",
       "GREENS",
-      "THEGREENSVIC",
-      "THEGREENSWA",
-      "THEGREENSNSW",
-      "THEGREENSQLD",
-      "THEGREENSSA",
-      "THEGREENS"
+      "THE-GREENS-VIC",
+      "THE-GREENS-WA",
+      "THE-GREENS-NSW",
+      "THE-GREENS-QLD",
+      "THE-GREENS-SA",
+      "THE-GREENS"
     ]
   },
   {
@@ -23,10 +23,10 @@
     "abbrev": "ALP",
     "color": "red",
     "matches": [
-      "AUSTRALIANLABORPARTY",
+      "AUSTRALIAN-LABOR-PARTY",
       "ALP",
       "ALP",
-      "AUSTRALIANLABOURPARTY",
+      "AUSTRALIAN-LABOUR-PARTY",
       "LABOR",
       "LABOUR"
     ]
@@ -37,7 +37,7 @@
     "abbrev": "CA",
     "color": "grey",
     "matches": [
-      "CENTREALLIANCE",
+      "CENTRE-ALLIANCE",
       "CA",
       "CA"
     ]
@@ -59,10 +59,10 @@
     "abbrev": "KAP",
     "color": "grey",
     "matches": [
-      "KATTERSAUSTRALIANPARTY",
+      "KATTERS-AUSTRALIAN-PARTY",
       "KAP",
       "KAP",
-      "KATTERPARTY"
+      "KATTER-PARTY"
     ]
   },
   {
@@ -71,7 +71,7 @@
     "abbrev": "LD",
     "color": "grey",
     "matches": [
-      "LABOURDLP",
+      "LABOUR-DLP",
       "LD",
       "LD"
     ]
@@ -82,7 +82,7 @@
     "abbrev": "LNP",
     "color": "blue",
     "matches": [
-      "LIBERALNATIONALPARTYOFQUEENSLAND",
+      "LIBERAL-NATIONAL-PARTY-OF-QUEENSLAND",
       "LNP",
       "LNP"
     ]
@@ -93,7 +93,7 @@
     "abbrev": "LP",
     "color": "blue",
     "matches": [
-      "LIBERALPARTYOFAUSTRALIA",
+      "LIBERAL-PARTY-OF-AUSTRALIA",
       "LP",
       "LP",
       "LIBERAL",
@@ -106,13 +106,13 @@
     "abbrev": "NP",
     "color": "blue",
     "matches": [
-      "NATIONALPARTYOFAUSTRALIA",
+      "NATIONAL-PARTY-OF-AUSTRALIA",
       "NP",
       "NP",
       "NATIONALS",
       "NATS",
-      "NATIONALPARTY",
-      "THENATIONALS"
+      "NATIONAL-PARTY",
+      "THE-NATIONALS"
     ]
   },
   {
@@ -121,7 +121,7 @@
     "abbrev": "PHO",
     "color": "grey",
     "matches": [
-      "PAULINEHANSONSONENATION",
+      "PAULINE-HANSONS-ONE-NATION",
       "PHON",
       "PHO",
       "ON"
@@ -133,23 +133,23 @@
     "abbrev": "UAP",
     "color": "yellow",
     "matches": [
-      "UNITEDAUSTRALIAPARTY",
+      "UNITED-AUSTRALIA-PARTY",
       "UAP",
       "UAP",
       "PUP",
-      "AUSTRALIAUNITEDPARTY",
+      "AUSTRALIA-UNITED-PARTY",
       "UAP"
     ]
   },
   {
-    "key": "",
+    "key": "-",
     "name": "",
-    "abbrev": "",
+    "abbrev": "-",
     "color": "grey",
     "matches": [
       "",
-      "",
-      ""
+      "-",
+      "-"
     ]
   },
   {
@@ -158,7 +158,7 @@
     "abbrev": "RUA",
     "color": "grey",
     "matches": [
-      "RISEUPAUSTRALIAPARTY",
+      "RISE-UP-AUSTRALIA-PARTY",
       "RUAP",
       "RUA"
     ]
@@ -169,10 +169,10 @@
     "abbrev": "CDP",
     "color": "grey",
     "matches": [
-      "CHRISTIANDEMOCRATICPARTY",
+      "CHRISTIAN-DEMOCRATIC-PARTY",
       "CDPF",
       "CDP",
-      "CHRISTIANDEMOCRATICPARTYFREDNILEGROUP"
+      "CHRISTIAN-DEMOCRATIC-PARTY-FRED-NILE-GROUP"
     ]
   },
   {
@@ -181,7 +181,7 @@
     "abbrev": "FAC",
     "color": "grey",
     "matches": [
-      "FRASERANNINGSCONSERVATIVENATIONALPARTY",
+      "FRASER-ANNINGS-CONSERVATIVE-NATIONAL-PARTY",
       "FACNP",
       "FAC"
     ]
@@ -192,7 +192,7 @@
     "abbrev": "FFP",
     "color": "grey",
     "matches": [
-      "FAMILYFIRSTPARTY",
+      "FAMILY-FIRST-PARTY",
       "FFP",
       "FFP"
     ]
@@ -203,7 +203,7 @@
     "abbrev": "AP",
     "color": "grey",
     "matches": [
-      "AUSTRALIANPROGRESSIVES",
+      "AUSTRALIAN-PROGRESSIVES",
       "AP",
       "AP"
     ]
@@ -214,7 +214,7 @@
     "abbrev": "TGA",
     "color": "grey",
     "matches": [
-      "THEGREATAUSTRALIANPARTY",
+      "THE-GREAT-AUSTRALIAN-PARTY",
       "TGAP",
       "TGA"
     ]
@@ -225,7 +225,7 @@
     "abbrev": "AJP",
     "color": "grey",
     "matches": [
-      "ANIMALJUSTICEPARTY",
+      "ANIMAL-JUSTICE-PARTY",
       "AJP",
       "AJP"
     ]
@@ -236,7 +236,7 @@
     "abbrev": "SP",
     "color": "grey",
     "matches": [
-      "SCIENCEPARTY",
+      "SCIENCE-PARTY",
       "SP",
       "SP"
     ]
@@ -247,7 +247,7 @@
     "abbrev": "SA",
     "color": "grey",
     "matches": [
-      "SOCIALISTALLIANCE",
+      "SOCIALIST-ALLIANCE",
       "SA",
       "SA"
     ]
@@ -258,7 +258,7 @@
     "abbrev": "SFA",
     "color": "grey",
     "matches": [
-      "SHOOTERSFISHERSANDFARMERS",
+      "SHOOTERS-FISHERS-AND-FARMERS",
       "SFAF",
       "SFA"
     ]
@@ -269,7 +269,7 @@
     "abbrev": "NPP",
     "color": "grey",
     "matches": [
-      "NONCUSTODIALPARENTSPARTYEQUALPARENTING",
+      "NON-CUSTODIAL-PARENTS-PARTY-EQUAL-PARENTING",
       "NPPE",
       "NPP"
     ]
@@ -280,7 +280,7 @@
     "abbrev": "ABF",
     "color": "grey",
     "matches": [
-      "AUSTRALIANBETTERFAMILIES",
+      "AUSTRALIAN-BETTER-FAMILIES",
       "ABF",
       "ABF"
     ]
@@ -291,7 +291,7 @@
     "abbrev": "SEP",
     "color": "grey",
     "matches": [
-      "SOCIALISTEQUALITYPARTY",
+      "SOCIALIST-EQUALITY-PARTY",
       "SEP",
       "SEP"
     ]
@@ -302,7 +302,7 @@
     "abbrev": "AFP",
     "color": "grey",
     "matches": [
-      "AUSTRALIAFIRSTPARTY",
+      "AUSTRALIA-FIRST-PARTY",
       "AFP",
       "AFP"
     ]
@@ -313,7 +313,7 @@
     "abbrev": "AWP",
     "color": "grey",
     "matches": [
-      "AUSTRALIANWORKERSPARTY",
+      "AUSTRALIAN-WORKERS-PARTY",
       "AWP",
       "AWP"
     ]
@@ -324,7 +324,7 @@
     "abbrev": "IMO",
     "color": "grey",
     "matches": [
-      "INVOLUNTARYMEDICATIONOBJECTORSVACCINATIONFLUORIDEPARTY",
+      "INVOLUNTARY-MEDICATION-OBJECTORS-VACCINATIONFLUORIDE-PARTY",
       "IMOV",
       "IMO"
     ]
@@ -335,7 +335,7 @@
     "abbrev": "ALP",
     "color": "grey",
     "matches": [
-      "AUSTRALIANLABORPARTYNORTHERNTERRITORYBRANCH",
+      "AUSTRALIAN-LABOR-PARTY-NORTHERN-TERRITORY-BRANCH",
       "ALPN",
       "ALP"
     ]
@@ -346,7 +346,7 @@
     "abbrev": "CLN",
     "color": "grey",
     "matches": [
-      "COUNTRYLIBERALSNT",
+      "COUNTRY-LIBERALS-NT",
       "CLN",
       "CLN"
     ]
@@ -357,7 +357,7 @@
     "abbrev": "KAP",
     "color": "grey",
     "matches": [
-      "KATTERSAUSTRALIANPARTYKAP",
+      "KATTERS-AUSTRALIAN-PARTY-KAP",
       "KAPK",
       "KAP"
     ]
@@ -368,7 +368,7 @@
     "abbrev": "LAO",
     "color": "grey",
     "matches": [
-      "LOVEAUSTRALIAORLEAVE",
+      "LOVE-AUSTRALIA-OR-LEAVE",
       "LAOL",
       "LAO"
     ]
@@ -379,7 +379,7 @@
     "abbrev": "AD",
     "color": "grey",
     "matches": [
-      "AUSTRALIANDEMOCRATS",
+      "AUSTRALIAN-DEMOCRATS",
       "AD",
       "AD"
     ]
@@ -390,7 +390,7 @@
     "abbrev": "CPP",
     "color": "grey",
     "matches": [
-      "CHILDPROTECTIONPARTY",
+      "CHILD-PROTECTION-PARTY",
       "CPP",
       "CPP"
     ]
@@ -401,7 +401,7 @@
     "abbrev": "CEC",
     "color": "grey",
     "matches": [
-      "CITIZENSELECTORALCOUNCIL",
+      "CITIZENS-ELECTORAL-COUNCIL",
       "CEC",
       "CEC"
     ]
@@ -412,7 +412,7 @@
     "abbrev": "VS",
     "color": "grey",
     "matches": [
-      "VICTORIANSOCIALISTS",
+      "VICTORIAN-SOCIALISTS",
       "VS",
       "VS"
     ]
@@ -423,7 +423,7 @@
     "abbrev": "DHJ",
     "color": "grey",
     "matches": [
-      "DERRYNHINCHSJUSTICEPARTY",
+      "DERRYN-HINCHS-JUSTICE-PARTY",
       "DHJP",
       "DHJ"
     ]
@@ -434,7 +434,7 @@
     "abbrev": "RA",
     "color": "grey",
     "matches": [
-      "REASONAUSTRALIA",
+      "REASON-AUSTRALIA",
       "RA",
       "RA"
     ]
@@ -445,7 +445,7 @@
     "abbrev": "AC",
     "color": "grey",
     "matches": [
-      "AUSTRALIANCHRISTIANS",
+      "AUSTRALIAN-CHRISTIANS",
       "AC",
       "AC"
     ]
@@ -456,7 +456,7 @@
     "abbrev": "WAP",
     "color": "grey",
     "matches": [
-      "WESTERNAUSTRALIAPARTY",
+      "WESTERN-AUSTRALIA-PARTY",
       "WAP",
       "WAP"
     ]
@@ -467,7 +467,7 @@
     "abbrev": "VUD",
     "color": "grey",
     "matches": [
-      "VOTEFLUXORGUPGRADEDEMOCRACY",
+      "VOTEFLUXORG--UPGRADE-DEMOCRACY",
       "VUD",
       "VUD"
     ]

@@ -90,7 +90,7 @@
     "state": "NSW"
   },
   {
-    "key": "EDENMONARO",
+    "key": "EDEN-MONARO",
     "name": "Eden-Monaro",
     "abbrev": "ED",
     "state": "NSW"
@@ -144,7 +144,7 @@
     "state": "NSW"
   },
   {
-    "key": "KINGSFORDSMITH",
+    "key": "KINGSFORD-SMITH",
     "name": "Kingsford Smith",
     "abbrev": "KI",
     "state": "NSW"
@@ -192,7 +192,7 @@
     "state": "NSW"
   },
   {
-    "key": "NEWENGLAND",
+    "key": "NEW-ENGLAND",
     "name": "New England",
     "abbrev": "NE",
     "state": "NSW"
@@ -204,7 +204,7 @@
     "state": "NSW"
   },
   {
-    "key": "NORTHSYDNEY",
+    "key": "NORTH-SYDNEY",
     "name": "North Sydney",
     "abbrev": "NO",
     "state": "NSW"
@@ -480,7 +480,7 @@
     "state": "QLD"
   },
   {
-    "key": "WIDEBAY",
+    "key": "WIDE-BAY",
     "name": "Wide Bay",
     "abbrev": "WI",
     "state": "QLD"
@@ -732,7 +732,7 @@
     "state": "VIC"
   },
   {
-    "key": "LATROBE",
+    "key": "LA-TROBE",
     "name": "La Trobe",
     "abbrev": "LA",
     "state": "VIC"

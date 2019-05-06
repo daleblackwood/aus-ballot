@@ -9,10 +9,13 @@ import { appService } from "./model/appService";
 import { ElectoratesPage } from "./pages/ElectoratesPage";
 import { electService } from "./model/electService";
 import { PopupModal } from "./comps/PopupModal";
+import { BrowserRouter } from "react-g-analytics";
 
 interface IAppState {
     isLoaded: boolean;
 }
+
+const GA_ID = 'UA-139639011-1';
 
 export class App extends React.Component<{}, IAppState> {
 
@@ -47,10 +50,10 @@ export class App extends React.Component<{}, IAppState> {
     private renderPage() {
         return (
             <>
-                <Router history={appService.history}>
+                <BrowserRouter id={GA_ID} history={appService.history}>
                     <Route path="/" component={ElectoratesPage} />
                     <PopupModal />
-                </Router>
+                </BrowserRouter>
             </>
         );
     }

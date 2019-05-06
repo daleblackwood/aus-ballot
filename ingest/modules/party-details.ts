@@ -23,23 +23,31 @@ async function loadPartyDetails(party: IParty): Promise<IPartyDetails> {
     if (partySearch.indexOf("australia") < 0) {
         partySearch += " australia";
     }
-    const website = await WebAPI.getLuckyUrl(partySearch);
-    const websiteDomain = WebAPI.getDomain(website);
 
-    let aboutUrl = await WebAPI.getLuckyUrl(websiteDomain + " policy");
+    const requiredTerms = party.matches || [];
+
+    let website = await WebAPI.getLuckyUrl(partySearch);
     let websitePreview = undefined;
-    if (aboutUrl) {
-        websitePreview = await WebAPI.scrapePageSummary(aboutUrl);
+    if (website && website.indexOf("wikipedia.org") >= 0) {
+        website = undefined;
     }
-    if (! websitePreview) {
-        aboutUrl = await WebAPI.getLuckyUrl("about", websiteDomain);
+    if (website) {
+        const websiteDomain = WebAPI.getDomain(website);
+
+        let aboutUrl = await WebAPI.getLuckyUrl(websiteDomain + " policy");
         if (aboutUrl) {
-            websitePreview = await WebAPI.scrapePageSummary(aboutUrl);
+            websitePreview = await WebAPI.scrapePageSummary(aboutUrl, requiredTerms);
+        }
+        if (! websitePreview) {
+            aboutUrl = await WebAPI.getLuckyUrl("about", websiteDomain);
+            if (aboutUrl) {
+                websitePreview = await WebAPI.scrapePageSummary(aboutUrl, requiredTerms);
+            }
         }
     }
 
     const wikipedia = await WebAPI.getLuckyUrl(partySearch, "wikipedia.org");
-    const wikipediaPreview = wikipedia ? await WebAPI.scrapePageSummary(wikipedia) : undefined;
+    const wikipediaPreview = wikipedia ? await WebAPI.scrapePageSummary(wikipedia, requiredTerms) : undefined;
 
     return {
         key: party.key,

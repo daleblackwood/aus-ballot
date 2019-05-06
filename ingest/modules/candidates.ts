@@ -68,7 +68,7 @@ async function load() {
 }
 
 async function loadParties() {
-    const json = await loadJSON(DIR_IN + "/parties.json");
+    const json = await loadJSON<any>(DIR_IN + "/parties.json");
     for (const key in json.parties) {
         const partyIn = json.parties[key];
         makeParty(partyMap, { ...partyIn, key });

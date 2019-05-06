@@ -1,5 +1,7 @@
 {
+  "key": "KAPK",
   "website": "https://www.kap.org.au/",
+  "websitePreview": "Agriculture                         jQuery(function($){  $(\".et_pb_slide_0\").click(function(){  var url = \"/agriculture/\";  if (url.indexOf('#') == 0 || url.indexOf('.') == 0) {   et_pb_smooth_scroll($(url), false, 800);  } else {   document.location=url;  }  }); });  .et_pb_slide_0:hover{cursor:pointer;}                                                      Economy &amp; Industry                         jQuery(function($){  $(\".et_pb_slide_1\").click(function(){  var url = \"/economy-industry/\";  if (url...",
   "wikipedia": "https://en.wikipedia.org/wiki/Katter%27s_Australian_Party",
   "wikipediaPreview": "Katter's Australian Party (KAP) is a political party in Australia. It was formed by the independent and former Nationals Member of Parliament for Kennedy, Bob Katter, with a registration application lodged to the Australian Electoral Commission in 2011. Katter has been the party's federal parliamentary leader since that time, while his son Robbie is the leader in Queensland.&#91;13&#93; Bob Katter was re-elected under the party's label at the 2013 federal election, while the party also won two seats at the 2012 state election in Queensland, which it retained at the 2015 state election..."
 }

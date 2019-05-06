@@ -1,7 +1,9 @@
 export class Utils {
 
     public static toKey(value: string) {
-        return (value || "").toUpperCase().replace(/[^A-Z0-9]/g, "");
+        value = value || "".toUpperCase();
+        value = value.replace(/\s/g, "-");
+        return (value || "").toUpperCase().replace(/[^A-Z0-9\-]/g, "");
     }
 
     public static makeAbbrev(value: string, maxLength: number = 4) {

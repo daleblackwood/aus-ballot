@@ -20,5 +20,9 @@
     "bugs": {
         "url": "https://github.com/daleblackwood/electorate/issues"
     },
-    "homepage": "https://github.com/daleblackwood/electorate#readme"
+    "homepage": "https://github.com/daleblackwood/electorate#readme",
+    "dependencies": {
+        "@types/jsdom": "^12.2.3",
+        "jsdom": "^15.0.0"
+    }
 }

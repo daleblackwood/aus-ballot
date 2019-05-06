@@ -14,3 +14,6 @@ JSON files for the app.
 
 The information has been gathered from:
  * aec.gov.au
+ * en.wikipedia.org.au
+ * google.com.au
+ * automatically, from Political Party websites

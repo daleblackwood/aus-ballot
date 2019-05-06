@@ -64,11 +64,9 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
             <tr key={candidate.key}>
                 <td>{candidate.balletPos}</td>
                 <td>
-                    <a href={candidateUrl}>
-                        {name}
-                    </a>
+                    {name}
                 </td>
-                <td>{this.renderPartyIcon(party)} 
+                <td>{this.renderPartyIcon(party, partyUrl)} 
                     <a href={partyUrl}>
                         {candidate.partyPrinted ? candidate.partyPrinted : ""}
                     </a>
@@ -112,22 +110,25 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
         const pcs = result.pc < 1 ? "< 1%" : pc + "%";
         const party = electService.getParty(result.party);
         const partyStr = party ? party.name : result.party;
-        return (
-            <tr key={index}>
-                <td>{partyStr || "-"}</td>
-                <td>{this.renderPartyIcon(party)} {pcs}</td>
-            </tr>
-        )
-    }
-
-    private renderPartyIcon(party: IParty|null|undefined) {
-        const color = party ? party.color : "#CCC";
-        const abbrev = party ? party.abbrev : "";
 
         let url = "#";
         if (party) {
             url += "party:" + party.key;
         }
+
+        return (
+            <tr key={index}>
+                <td>
+                    <a href={url}>{partyStr || "-"}</a>
+                </td>
+                <td>{this.renderPartyIcon(party, url)} {pcs}</td>
+            </tr>
+        )
+    }
+
+    private renderPartyIcon(party: IParty|null|undefined, url: string) {
+        const color = party ? party.color : "#CCC";
+        const abbrev = party ? party.abbrev : "";
 
         return (
             <span className="party-icon" style={{ backgroundColor: color }}>

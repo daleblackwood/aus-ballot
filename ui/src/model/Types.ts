@@ -1,3 +1,5 @@
+import { string } from "prop-types";
+
 export type KeyMap<T> = { [key: string]: T };
 
 export enum House {
@@ -20,6 +22,17 @@ export interface IPartyDetails {
     websitePreview?: string;
     wikipedia?: string;
     wikipediaPreview?: string;
+}
+
+export interface IElectorateDetails {
+    key: string;
+    website?: string;
+    description?: string;
+    demographic?: string;
+    nomenclature?: string;
+    area?: string;
+    industry?: string;
+    members: string[];
 }
 
 export interface IElectorate {
