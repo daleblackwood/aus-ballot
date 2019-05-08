@@ -1,5 +1,6 @@
 import * as process from "process";
 import * as request from "request";
+import { JSDOM } from "jsdom";
 
 export class WebAPI {
 
@@ -31,20 +32,8 @@ export class WebAPI {
         page = page.replace(/\s\s/g, " ");
         page = page.replace(/\s/g, " ");
 
-        // check required terms
-        if (requiredTerms.length > 0) {
-            let found = false;
-            const lowerPage = page.toLowerCase();
-            for (const term of requiredTerms) {
-                const rt = term.toLowerCase();
-                if (lowerPage.indexOf(rt) >= 0) {
-                    found = true;
-                    break;
-                }
-            }
-            if (found === false) {
-                return undefined;
-            }
+        if (this.hasARequiredTerm(page, requiredTerms) === false) {
+            return undefined;
         }
 
         // get paragraphs
@@ -60,6 +49,20 @@ export class WebAPI {
         // remove tags
         text = this.stripTags(text);
         return text;
+    }
+
+    public static hasARequiredTerm(page: string, requiredTerms: string[] = []):boolean {
+        if (requiredTerms.length < 1) {
+            return true;
+        }
+        const lowerPage = page.toLowerCase();
+        for (const term of requiredTerms) {
+            const rt = term.toLowerCase();
+            if (lowerPage.indexOf(rt) >= 0) {
+                return true;
+            }
+        }
+        return false;
     }
 
     public static stripTags(text: string) {
@@ -108,7 +111,66 @@ export class WebAPI {
         if (startI < 0) {
             return undefined;
         }
-    
+    }
+
+    public static async readWikipediaSummary(url: string, requiredTerms: string[] = []): Promise<string | undefined> {
+        const html = await this.loadPage(url);
+        if (this.hasARequiredTerm(html, requiredTerms) === false) {
+            return undefined;
+        }
+
+        const dom = new JSDOM(html);
+        const content = dom.window.document.querySelector("div.mw-parser-output");
+        if (! content || content.childNodes.length < 1) {
+            return undefined;
+        }
+
+        let text = "";
+
+        const children: ChildNode[] = [];
+        content.childNodes.forEach(child => children.push(child));
+
+        for (const child of children) {
+            if (child.nodeName === "P") {
+                text += child.textContent.trim() + "\n\n";
+            }
+            if (child["class"] === "toc") {
+                break;
+            }
+            if (text.length > 500) {
+                text += "...";
+                break;
+            }
+        }
+
+        return text;
+    }
+
+    public static async readPageSummary(url: string, requiredTerms: string[] = []): Promise<string | undefined> {
+        const html = await this.loadPage(url);
+        if (this.hasARequiredTerm(html, requiredTerms) === false) {
+            return undefined;
+        }
+
+        const dom = new JSDOM(html);
+        const content = dom.window.document.querySelectorAll("p, span");
+        let text = "";
+
+        const children: ChildNode[] = [];
+        content.forEach(child => children.push(child));
+
+        for (const child of children) {
+            const textContent = child.textContent;
+            if (textContent.length > 50) {
+                text += textContent + "\n\n";
+            }
+            if (text.length > 500) {
+                text += "...";
+                break;
+            }
+        }
+
+        return text.trim();
     }
 
 }

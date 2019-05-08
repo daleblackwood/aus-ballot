@@ -3,10 +3,11 @@ const process = require("process");
 
 async function run() {
     console.log("\naus-ballot ingestion:");
-    const moduleNames = ["candidates", "votes", "party-details", "electorates"];
+    const moduleNames = ["candidates", "votes", "parties", "electorates"];
+    let runargs = process.argv.includes("all") ? moduleNames.slice() : process.argv;
     try {
         let processed = 0;
-        for (const arg of process.argv) {
+        for (const arg of runargs) {
             const moduleName = arg.trim().toLowerCase();
             if (moduleNames.includes(moduleName)) {
                 console.log("processing " + moduleName + "...");

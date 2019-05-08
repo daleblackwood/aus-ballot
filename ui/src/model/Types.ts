@@ -32,7 +32,8 @@ export interface IElectorateDetails {
     nomenclature?: string;
     area?: string;
     industry?: string;
-    members: string[];
+    memberKey?: string;
+    partyKey?: string;
 }
 
 export interface IElectorate {
@@ -43,6 +44,7 @@ export interface IElectorate {
     lat?: number;
     lon?: number;
     results?: IElectorateResult[];
+    details?: IElectorateDetails;
 }
 
 export interface IElectorateResult {
@@ -56,8 +58,8 @@ export interface ICandidate {
     key: string;
     firstname: string;
     surname: string;
-    occupation: string;
     balletPos: number;
+    occupation?: string;
     email?: string;
     partyPrinted?: string;
     partyKey?: string;

@@ -1,4 +1,4 @@
-import React from "react";
+import React, { CSSProperties } from "react";
 import { List, Input } from "semantic-ui-react";
 import { Link } from "react-router-dom";
 
@@ -53,10 +53,17 @@ export class ElectorateList extends BaseComp<{}, IElectorateListState> {
 
     private renderElectorate(electorate: IElectorate) {
         const url = appService.getElectorateLink(electorate.key);
+        const iconStyle: React.CSSProperties = {};
+        if (electorate.details) {
+            const party = electService.getParty(electorate.details.partyKey);
+            if (party) {
+                iconStyle.backgroundColor = party.color;
+            }
+        }
         return (
             <List.Item key={electorate.key} className="electorate-item" >
                 <List.Icon>
-                    <div className="electorate-icon">
+                    <div className="electorate-icon" style={iconStyle}>
                         <Link to={url}>{ electorate.abbrev }</Link>
                     </div>
                 </List.Icon>

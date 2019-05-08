@@ -28,7 +28,6 @@ export class PartyPage extends BasePage<IPartyPageProps, IPartyPageState> {
         
         return (
             <div className="party">
-                { this.renderParty(party) }
                 { this.renderPartyDetails(party) }
             </div>
         )
@@ -49,25 +48,35 @@ export class PartyPage extends BasePage<IPartyPageProps, IPartyPageState> {
             return;
         }
 
-        return (
-            <Segment placeholder>
-                <Grid columns={2} relaxed='very' stackable>
-                    <Grid.Column>
-                        <p><strong><a href={details.website} target="_blank">Website</a></strong></p>
-                        <p>{ details.websitePreview || "Content wasn't able to be read." }</p>
-                        <p><a href={details.website} target="_blank">[more]</a></p>
-                    </Grid.Column>
+        const elems: JSX.Element[] = [];
 
-                    <Grid.Column>
-                        <p><strong><a href={details.wikipedia} target="_blank">Wikipedia</a></strong></p>
-                        <p>{ details.wikipediaPreview || "Content wasn't able to be read."  }</p>
-                        <p><a href={details.wikipediaPreview} target="_blank">[more]</a></p>
-                    </Grid.Column>
-                </Grid>
-
-                <Divider vertical />
-            </Segment>
+        if (details.websitePreview) {
+            elems.push(
+                <div className="web" key="web">
+                    <h3>From the { party.name } website</h3>
+                    <p>{ details.websitePreview || "Content wasn't able to be read." }</p>
+                    <p><a href={details.website} target="_blank">(more on {details.website})</a></p>
+                </div>
+            );
+            elems.push(<br key="hr1" />);
+        } else if (details.website) {
+            elems.push(
+                <div className="web" key="web">
+                    <h3>Website</h3>
+                    <p><a href={details.website} target="_blank">{details.website}</a></p>
+                </div>
+            );
+            elems.push(<br key="hr1" />);
+        }
+        elems.push(
+            <div className="wiki" key="wiki">
+                <h3>From Wikipedia</h3>
+                <p>{ details.wikipediaPreview || "Wikipedia article wasn't found."  }</p>
+                <p><a href={details.wikipedia} target="_blank">(more on Wikipedia)</a></p>
+            </div>
         );
+
+        return elems;
     }
 
     private async loadPartyDetails(party: IParty) {

@@ -1,3 +1,4 @@
+import { JSDOM } from "jsdom";
 import { WebAPI } from "../utils/WebAPI";
 import { IParty, IPartyDetails, KeyMap } from "../../ui/src/model/Types";
 import { loadJSON, writeJSON } from "../utils";
@@ -34,20 +35,14 @@ async function loadPartyDetails(party: IParty): Promise<IPartyDetails> {
     if (website) {
         const websiteDomain = WebAPI.getDomain(website);
 
-        let aboutUrl = await WebAPI.getLuckyUrl(websiteDomain + " policy");
+        let aboutUrl = await WebAPI.getLuckyUrl("about values", websiteDomain);
         if (aboutUrl) {
-            websitePreview = await WebAPI.scrapePageSummary(aboutUrl, requiredTerms);
-        }
-        if (! websitePreview) {
-            aboutUrl = await WebAPI.getLuckyUrl("about", websiteDomain);
-            if (aboutUrl) {
-                websitePreview = await WebAPI.scrapePageSummary(aboutUrl, requiredTerms);
-            }
+            websitePreview = await WebAPI.readPageSummary(aboutUrl, requiredTerms);
         }
     }
 
     const wikipedia = await WebAPI.getLuckyUrl(partySearch, "wikipedia.org");
-    const wikipediaPreview = wikipedia ? await WebAPI.scrapePageSummary(wikipedia, requiredTerms) : undefined;
+    const wikipediaPreview = wikipedia ? await WebAPI.readWikipediaSummary(wikipedia, requiredTerms) : undefined;
 
     return {
         key: party.key,

@@ -56,13 +56,13 @@ export function makeParty(
 
     const matches = [];
     matches.push(
-        Utils.toKey(input.name),
+        input.name,
         key,
         abbrev
     );
     if (input.alts) {
         for (const alt of input.alts) {
-            matches.push(Utils.toKey(alt));
+            matches.push(alt);
         }
     }
 

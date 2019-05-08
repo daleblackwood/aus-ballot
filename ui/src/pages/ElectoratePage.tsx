@@ -1,15 +1,36 @@
 import React from "react";
 import { BasePage } from "./BasePage";
 import { electService } from "../model/electService";
-import { IElectorate, ICandidate, IElectorateResult, IParty } from "../model/Types";
+import { IElectorate, ICandidate, IElectorateResult, IParty, IElectorateDetails } from "../model/Types";
 import { appService } from "../model/appService";
-import { Link } from "react-router-dom";
 
 interface IElectoratePageProps {
     electorate?: string;
 }
 
+interface IElectoratePageState {
+    electorateDetails?: IElectorateDetails;
+}
+
 export class ElectoratePage extends BasePage<IElectoratePageProps> {
+
+    public state: IElectoratePageState = {};
+
+    /*
+
+    public componentDidMount() {
+        this.load();
+    }
+
+    public componentWillReceiveProps() {
+        this.load();
+    }
+
+    private async load() {
+        //const electorateDetails = await electService.loadElectorateDetails(this.props.electorate || "");
+        this.setState({ ...this.state, electorateDetails });
+    }
+    */
 
     public render() {
         const electorate = electService.getElectorate(this.props.electorate || "");
@@ -21,11 +42,46 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
         return (
             <div className="electorate">
                 <h2>{electorate.name}, {electorate.state}</h2>
+
+                { this.renderSummary(electorate) }
+                
+                <h3>Ballot Page</h3>
                 { this.renderCandidates(electorate) }
 
                 <h3>Last Election: First Preference Votes</h3>
                 { this.renderResults(electorate) }
             </div>
+        )
+    }
+
+    private renderSummary(electorate: IElectorate) {
+        const details = electorate.details;
+        if (! details) {
+            return null;
+        }
+
+        const renderField = (fieldname: string, contents?: string) => {
+            if (contents) {
+                return (
+                    <td key={fieldname}>
+                        {contents}
+                    </td>
+                );
+            }
+            return null;
+        }
+
+        return (
+            <>
+                <p className="description">
+                    { details.description || "" }
+                </p>
+                <table>
+                    <tbody>
+                        { renderField("nomenclature", details.nomenclature) }
+                    </tbody>
+                </table>
+            </>
         )
     }
 

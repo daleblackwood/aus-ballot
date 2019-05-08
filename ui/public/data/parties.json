@@ -5,16 +5,12 @@
     "abbrev": "GRN",
     "color": "green",
     "matches": [
-      "AUSTRALIAN-GREENS",
+      "Australian Greens",
       "GRN",
       "GRN",
-      "GREENS",
-      "THE-GREENS-VIC",
-      "THE-GREENS-WA",
-      "THE-GREENS-NSW",
-      "THE-GREENS-QLD",
-      "THE-GREENS-SA",
-      "THE-GREENS"
+      "Greens",
+      "The Greens",
+      "The Australian Greens"
     ]
   },
   {
@@ -23,12 +19,12 @@
     "abbrev": "ALP",
     "color": "red",
     "matches": [
-      "AUSTRALIAN-LABOR-PARTY",
+      "Australian Labor Party",
       "ALP",
       "ALP",
-      "AUSTRALIAN-LABOUR-PARTY",
-      "LABOR",
-      "LABOUR"
+      "Australian Labour Party",
+      "Labor",
+      "Labour"
     ]
   },
   {
@@ -37,7 +33,7 @@
     "abbrev": "CA",
     "color": "grey",
     "matches": [
-      "CENTRE-ALLIANCE",
+      "Centre Alliance",
       "CA",
       "CA"
     ]
@@ -48,7 +44,7 @@
     "abbrev": "IND",
     "color": "grey",
     "matches": [
-      "INDEPENDENT",
+      "Independent",
       "IND",
       "IND"
     ]
@@ -59,10 +55,10 @@
     "abbrev": "KAP",
     "color": "grey",
     "matches": [
-      "KATTERS-AUSTRALIAN-PARTY",
+      "Katter’s Australian Party",
       "KAP",
       "KAP",
-      "KATTER-PARTY"
+      "Katter Party"
     ]
   },
   {
@@ -71,7 +67,7 @@
     "abbrev": "LD",
     "color": "grey",
     "matches": [
-      "LABOUR-DLP",
+      "Labour DLP",
       "LD",
       "LD"
     ]
@@ -82,9 +78,12 @@
     "abbrev": "LNP",
     "color": "blue",
     "matches": [
-      "LIBERAL-NATIONAL-PARTY-OF-QUEENSLAND",
+      "Liberal National Party of Queensland",
       "LNP",
-      "LNP"
+      "LNP",
+      "Liberal National Party",
+      "LNP",
+      "LNPQ"
     ]
   },
   {
@@ -93,11 +92,10 @@
     "abbrev": "LP",
     "color": "blue",
     "matches": [
-      "LIBERAL-PARTY-OF-AUSTRALIA",
+      "Liberal Party of Australia",
       "LP",
       "LP",
-      "LIBERAL",
-      "LIBS"
+      "Liberal Party"
     ]
   },
   {
@@ -106,13 +104,13 @@
     "abbrev": "NP",
     "color": "blue",
     "matches": [
-      "NATIONAL-PARTY-OF-AUSTRALIA",
+      "National Party of Australia",
       "NP",
       "NP",
-      "NATIONALS",
-      "NATS",
-      "NATIONAL-PARTY",
-      "THE-NATIONALS"
+      "Nationals",
+      "Nats",
+      "National Party",
+      "The Nationals"
     ]
   },
   {
@@ -121,7 +119,7 @@
     "abbrev": "PHO",
     "color": "grey",
     "matches": [
-      "PAULINE-HANSONS-ONE-NATION",
+      "Pauline Hanson’s One Nation",
       "PHON",
       "PHO",
       "ON"
@@ -133,11 +131,11 @@
     "abbrev": "UAP",
     "color": "yellow",
     "matches": [
-      "UNITED-AUSTRALIA-PARTY",
+      "United Australia Party",
       "UAP",
       "UAP",
       "PUP",
-      "AUSTRALIA-UNITED-PARTY",
+      "Australia United Party",
       "UAP"
     ]
   },
@@ -158,7 +156,7 @@
     "abbrev": "RUA",
     "color": "grey",
     "matches": [
-      "RISE-UP-AUSTRALIA-PARTY",
+      "Rise Up Australia Party",
       "RUAP",
       "RUA"
     ]
@@ -169,10 +167,10 @@
     "abbrev": "CDP",
     "color": "grey",
     "matches": [
-      "CHRISTIAN-DEMOCRATIC-PARTY",
+      "Christian Democratic Party",
       "CDPF",
       "CDP",
-      "CHRISTIAN-DEMOCRATIC-PARTY-FRED-NILE-GROUP"
+      "Christian Democratic Party (Fred Nile Group)"
     ]
   },
   {
@@ -181,7 +179,7 @@
     "abbrev": "FAC",
     "color": "grey",
     "matches": [
-      "FRASER-ANNINGS-CONSERVATIVE-NATIONAL-PARTY",
+      "Fraser Anning's Conservative National Party",
       "FACNP",
       "FAC"
     ]
@@ -192,7 +190,7 @@
     "abbrev": "FFP",
     "color": "grey",
     "matches": [
-      "FAMILY-FIRST-PARTY",
+      "Family First Party",
       "FFP",
       "FFP"
     ]
@@ -203,7 +201,7 @@
     "abbrev": "AP",
     "color": "grey",
     "matches": [
-      "AUSTRALIAN-PROGRESSIVES",
+      "Australian Progressives",
       "AP",
       "AP"
     ]
@@ -214,9 +212,20 @@
     "abbrev": "TGA",
     "color": "grey",
     "matches": [
-      "THE-GREAT-AUSTRALIAN-PARTY",
+      "The Great Australian Party",
       "TGAP",
       "TGA"
+    ]
+  },
+  {
+    "key": "LIB",
+    "name": "Liberal",
+    "abbrev": "LIB",
+    "color": "grey",
+    "matches": [
+      "Liberal",
+      "LIB",
+      "LIB"
     ]
   },
   {
@@ -225,7 +234,7 @@
     "abbrev": "AJP",
     "color": "grey",
     "matches": [
-      "ANIMAL-JUSTICE-PARTY",
+      "Animal Justice Party",
       "AJP",
       "AJP"
     ]
@@ -236,7 +245,7 @@
     "abbrev": "SP",
     "color": "grey",
     "matches": [
-      "SCIENCE-PARTY",
+      "Science Party",
       "SP",
       "SP"
     ]
@@ -247,7 +256,7 @@
     "abbrev": "SA",
     "color": "grey",
     "matches": [
-      "SOCIALIST-ALLIANCE",
+      "Socialist Alliance",
       "SA",
       "SA"
     ]
@@ -258,7 +267,7 @@
     "abbrev": "SFA",
     "color": "grey",
     "matches": [
-      "SHOOTERS-FISHERS-AND-FARMERS",
+      "Shooters, Fishers and Farmers",
       "SFAF",
       "SFA"
     ]
@@ -269,7 +278,7 @@
     "abbrev": "NPP",
     "color": "grey",
     "matches": [
-      "NON-CUSTODIAL-PARENTS-PARTY-EQUAL-PARENTING",
+      "Non-Custodial Parents Party (Equal Parenting)",
       "NPPE",
       "NPP"
     ]
@@ -280,7 +289,7 @@
     "abbrev": "ABF",
     "color": "grey",
     "matches": [
-      "AUSTRALIAN-BETTER-FAMILIES",
+      "Australian Better Families",
       "ABF",
       "ABF"
     ]
@@ -291,7 +300,7 @@
     "abbrev": "SEP",
     "color": "grey",
     "matches": [
-      "SOCIALIST-EQUALITY-PARTY",
+      "Socialist Equality Party",
       "SEP",
       "SEP"
     ]
@@ -302,7 +311,7 @@
     "abbrev": "AFP",
     "color": "grey",
     "matches": [
-      "AUSTRALIA-FIRST-PARTY",
+      "Australia First Party",
       "AFP",
       "AFP"
     ]
@@ -313,7 +322,7 @@
     "abbrev": "AWP",
     "color": "grey",
     "matches": [
-      "AUSTRALIAN-WORKERS-PARTY",
+      "Australian Workers Party",
       "AWP",
       "AWP"
     ]
@@ -324,7 +333,7 @@
     "abbrev": "IMO",
     "color": "grey",
     "matches": [
-      "INVOLUNTARY-MEDICATION-OBJECTORS-VACCINATIONFLUORIDE-PARTY",
+      "Involuntary Medication Objectors (Vaccination/Fluoride) Party",
       "IMOV",
       "IMO"
     ]
@@ -335,7 +344,7 @@
     "abbrev": "ALP",
     "color": "grey",
     "matches": [
-      "AUSTRALIAN-LABOR-PARTY-NORTHERN-TERRITORY-BRANCH",
+      "Australian Labor Party (Northern Territory) Branch",
       "ALPN",
       "ALP"
     ]
@@ -346,7 +355,7 @@
     "abbrev": "CLN",
     "color": "grey",
     "matches": [
-      "COUNTRY-LIBERALS-NT",
+      "Country Liberals (NT)",
       "CLN",
       "CLN"
     ]
@@ -357,7 +366,7 @@
     "abbrev": "KAP",
     "color": "grey",
     "matches": [
-      "KATTERS-AUSTRALIAN-PARTY-KAP",
+      "Katter's Australian Party (KAP)",
       "KAPK",
       "KAP"
     ]
@@ -368,7 +377,7 @@
     "abbrev": "LAO",
     "color": "grey",
     "matches": [
-      "LOVE-AUSTRALIA-OR-LEAVE",
+      "Love Australia or Leave",
       "LAOL",
       "LAO"
     ]
@@ -379,7 +388,7 @@
     "abbrev": "AD",
     "color": "grey",
     "matches": [
-      "AUSTRALIAN-DEMOCRATS",
+      "Australian Democrats",
       "AD",
       "AD"
     ]
@@ -390,9 +399,20 @@
     "abbrev": "CPP",
     "color": "grey",
     "matches": [
-      "CHILD-PROTECTION-PARTY",
+      "Child Protection Party",
       "CPP",
       "CPP"
+    ]
+  },
+  {
+    "key": "TGV",
+    "name": "The Greens (VIC)",
+    "abbrev": "TGV",
+    "color": "grey",
+    "matches": [
+      "The Greens (VIC)",
+      "TGV",
+      "TGV"
     ]
   },
   {
@@ -401,7 +421,7 @@
     "abbrev": "CEC",
     "color": "grey",
     "matches": [
-      "CITIZENS-ELECTORAL-COUNCIL",
+      "Citizens Electoral Council",
       "CEC",
       "CEC"
     ]
@@ -412,7 +432,7 @@
     "abbrev": "VS",
     "color": "grey",
     "matches": [
-      "VICTORIAN-SOCIALISTS",
+      "Victorian Socialists",
       "VS",
       "VS"
     ]
@@ -423,7 +443,7 @@
     "abbrev": "DHJ",
     "color": "grey",
     "matches": [
-      "DERRYN-HINCHS-JUSTICE-PARTY",
+      "Derryn Hinch's Justice Party",
       "DHJP",
       "DHJ"
     ]
@@ -434,7 +454,7 @@
     "abbrev": "RA",
     "color": "grey",
     "matches": [
-      "REASON-AUSTRALIA",
+      "Reason Australia",
       "RA",
       "RA"
     ]
@@ -445,9 +465,20 @@
     "abbrev": "AC",
     "color": "grey",
     "matches": [
-      "AUSTRALIAN-CHRISTIANS",
+      "Australian Christians",
       "AC",
       "AC"
+    ]
+  },
+  {
+    "key": "TGW",
+    "name": "The Greens (WA)",
+    "abbrev": "TGW",
+    "color": "grey",
+    "matches": [
+      "The Greens (WA)",
+      "TGW",
+      "TGW"
     ]
   },
   {
@@ -456,7 +487,7 @@
     "abbrev": "WAP",
     "color": "grey",
     "matches": [
-      "WESTERN-AUSTRALIA-PARTY",
+      "WESTERN AUSTRALIA PARTY",
       "WAP",
       "WAP"
     ]
@@ -467,7 +498,7 @@
     "abbrev": "VUD",
     "color": "grey",
     "matches": [
-      "VOTEFLUXORG--UPGRADE-DEMOCRACY",
+      "VOTEFLUX.ORG | Upgrade Democracy!",
       "VUD",
       "VUD"
     ]

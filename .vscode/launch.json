@@ -4,12 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
             "type": "node",
             "request": "launch",
             "name": "Ingest All",
             "program": "${workspaceFolder}/ingest/index.js",
-            "args": ["candidates", "votes", "party-details"],
+            "args": ["all"],
             "outFiles": [
                 "${workspaceFolder}/**/*.js"
             ]
@@ -20,6 +21,16 @@
             "name": "Ingest Electorates",
             "program": "${workspaceFolder}/ingest/index.js",
             "args": ["electorates"],
+            "outFiles": [
+                "${workspaceFolder}/**/*.js"
+            ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Ingest Parties",
+            "program": "${workspaceFolder}/ingest/index.js",
+            "args": ["parties"],
             "outFiles": [
                 "${workspaceFolder}/**/*.js"
             ]

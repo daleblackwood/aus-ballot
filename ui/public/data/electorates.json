@@ -3,906 +3,2524 @@
     "key": "BEAN",
     "name": "Bean",
     "abbrev": "BE",
-    "state": "ACT"
+    "state": "ACT",
+    "details": {
+      "key": "BEAN",
+      "website": "http://aec.gov.au/bean",
+      "description": "The Division of Bean covers an area in the south of the ACT consisting of the Districts of:\n \n Booth,\n Coree,\n Cotter River,\n Mount Clear,\n Paddys River,\n Rendezvous Creek,\n Stromlo,\n Tennent,\n Tuggeranong,\n part of Jerrabomberra,\n part of Molonglo Valley,\n part of Weston Creek, and\n part of Woden Valley\n \n The Division of Bean also includes Norfolk Island.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs",
+      "nomenclature": "Named after Charles Edwin Woodrow Bean, 1879–1968, Australia's official correspondent to the Australian Imperial Force in World War One, editor of the Official History of Australia in the War of 1914–1918 and primary advocate to establish the Australian War Memorial.",
+      "area": "1,913 sq km",
+      "industry": "Mainly residential with tourism, retail and some light industry at Hume"
+    }
   },
   {
     "key": "CANBERRA",
     "name": "Canberra",
     "abbrev": "CA",
-    "state": "ACT"
+    "state": "ACT",
+    "details": {
+      "key": "CANBERRA",
+      "website": "http://aec.gov.au/canberra",
+      "description": "The Division of Canberra covers an area in central ACT consisting of the Districts of:\n \n Canberra Central,\n Kowen,\n Majura,\n part of Belconnen,\n part of Jerrabomberra,\n part of Molonglo Valley,\n part of Weston Creek, and\n part of Woden Valley",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs",
+      "nomenclature": "A locality name derived from an Aboriginal word which is held to mean 'meeting place'.",
+      "area": "312 sq km",
+      "industry": "Mainly residential with tourism, retail and some light industry at Fyshwick and Beard",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "FENNER",
     "name": "Fenner",
     "abbrev": "FE",
-    "state": "ACT"
+    "state": "ACT",
+    "details": {
+      "key": "FENNER",
+      "website": "http://aec.gov.au/fenner",
+      "description": "The Division of Fenner covers an area in the north of the ACT consisting of the Districts of:\n \n Gungahlin,\n Hall, and\n part of Belconnen\n \n The Division of Fenner also includes the Jervis Bay Territory.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs",
+      "nomenclature": "Named after Professor Frank Fenner AC CMG MBE FAA FRS FRACP FRCP, 1914–2010, eminent scientist of national and international renown who made significant contributions to improving the wellbeing of humanity.",
+      "area": "238 sq km",
+      "industry": "Mainly residential with tourism, retail and some light industry at Mitchell",
+      "memberKey": "LEIGH-ANDREW",
+      "partyKey": "ALP 2010 – Note: following the 2016 redistribution the Division of Fraser became the Division of Fenner."
+    }
   },
   {
     "key": "BANKS",
     "name": "Banks",
     "abbrev": "BA",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "BANKS",
+      "website": "http://aec.gov.au/banks",
+      "description": "Banks is bound by the Georges River in the south and west, the South Western Motorway in the north and King Georges Road, the Illawarra railway line, Jubilee Avenue the Princes Highway and Terry Street in the east. The main suburbs include Allawah, Carlton (part), Connells Point, East Hills, Lugarno, Mortdale, Oatley, Panania, Padstow, Padstow Heights, Hurstville Grove, Picnic Point, Revesby, Riverwood and South Hurstville.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Sir Joseph Banks, 1743–1820. Banks was a botanist who accompanied Captain Cook on his voyage to Australia in 1770 and recorded his general impressions of the Australian east coast, noting plants, insects, molluscs, reptiles, birds, fish, quadrupeds, etc. as well as Aboriginal customs.",
+      "area": "53 sq km",
+      "industry": "Light manufacturing, commercial and service industries.",
+      "memberKey": "COLEMAN-DAVID",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "BARTON",
     "name": "Barton",
     "abbrev": "BA",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "BARTON",
+      "website": "http://aec.gov.au/barton",
+      "description": "Barton covers an area from Canterbury Road, Sydenham Bankstown Railway and the Good Railway in the north, to the Illawarra Railway line, Jubilee Avenue, Princess Highway and President Avenue in the south, Kingsgrove Road, the M5 and King Georges Road in the west to Cooks River and Botany Bay in the east. The main suburbs include Bexley, Brighton-Le-Sands, Campsie (part), Canterbury (part), Carlton (part), Earlwood, Hurlstone Park (part), Hurstville, Kingsgrove (part), Kyemagh, Marrickville (part), Rockdale, Tempe and Wolli Creek.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of the Rt Hon. Sir Edmund Barton GCMG KC, 1849–1920. Barton was an active member of the Constitutional Conventions that led to the Commonwealth of Australia, the first Prime Minister of Australia (1901–1903), a Member of the House of Representatives (1901–03) and a Justice of the High Court (1903–20).",
+      "area": "40 sq km",
+      "industry": "Light manufacturing, commercial and retail industry, tourism, bakeries, chocolate making and health services.",
+      "memberKey": "BURNEY-LINDA",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "BENNELONG",
     "name": "Bennelong",
     "abbrev": "BE",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "BENNELONG",
+      "website": "http://aec.gov.au/bennelong",
+      "description": "Bennelong covers an area from Ermington (part) and Melrose Park in the west, bounded by the Parramatta River in the south and Pittwater Road and the Lane Cove River in the east, with the M2 Motorway, Devlins Creek and Lane Cove River providing the northern boundary. Suburbs include Denistone, Epping, Gladesville (part), Macquarie Park, Meadowbank, Melrose Park, Putney, North Ryde, Ryde and parts of Carlingford (part).This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Bennelong, 1764?–1813. Bennelong was a young Aboriginal man who was captured by Governor Arthur Phillip in 1789. He was later taken to England where he met the King.",
+      "area": "60 sq km",
+      "industry": "Light manufacturing, commercial and retail businesses.",
+      "memberKey": "ALEXANDER-JOHN",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "BEROWRA",
     "name": "Berowra",
     "abbrev": "BE",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "BEROWRA",
+      "website": "http://aec.gov.au/berowra",
+      "description": "Berowra covers an area from Hawkesbury River in the north, to the M2, Pennant Hills Road and North Rocks Road in the South. Osborn and Normanhurst Rd and Main Northern Railway and Belmont Parade, Cockle and Cowan Creeks in the east, Hawkesbury, Bellbird and Cattai Creeks, Boundary Road, Taylor Street, High Road, Castle Hill Road, Main Northern Railway, Old Northern Road, Gilbert Road, Merrick Way, Gawin Court and Linksley Avenue in the west. Suburbs include Annangrove, Arcadia, Berowra, Brooklyn, Cattai, Cherrybrook, Cowan, Dangar Island, Galston, Glenorie, Hornsby (part), Maroota, Middle Dural, Mount Colah (part), Mount Kuring-gai, Pennant Hills, Westleigh, West Pennant Hills and Wisemans Ferry.This description reflects local government areas in existence in 2015.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named after the area in which the electoral division is located. The name 'Berowra' is believed to be an Aborginal word for 'place of many winds'.",
+      "area": "786 sq km",
+      "industry": "Fishing and oyster farming from the Hawkesbury River area. Retail, service and various small industries including hobby farming, citrus fruit orchards, poultry farming, horticulture, and tourism.",
+      "memberKey": "LEESER-JULIAN",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "BLAXLAND",
     "name": "Blaxland",
     "abbrev": "BL",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "BLAXLAND",
+      "website": "http://aec.gov.au/blaxland",
+      "description": "Blaxland is bordered by Georges River, Prospect Creek and Woodville Road on the west, along Boorea Street, St Hilliers Road, the Western Motorway, Duck River, Mackay Road, Bennett Road, Clyde Street, Dellwood Street, Blaxcell Street, Adam Street, Excelsior Street and Constance Street in the north. Follows Olympic Drive, Joseph Street, Rookwood and Stacey Street and Fairford Road on the east and along the South Western Motorway in the south. The main suburbs include Auburn (part), Bankstown (part), Berala, Chester Hill, Condell Park, Georges Hall, Guilford (part), Lidcombe (part), Milperra, South Grandville, Villawood and Yagoona.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Gregory Blaxland, 1778–1853. Blaxland was an early Australian explorer who was a member of the first European party to successfully cross the Blue Mountains in New South Wales.",
+      "area": "61 sq km",
+      "industry": "Retail, commercial and service industries including railway workshops, aircraft repairs, transport and storage.",
+      "memberKey": "CLARE-JASON",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "BRADFIELD",
     "name": "Bradfield",
     "abbrev": "BR",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "BRADFIELD",
+      "website": "http://aec.gov.au/bradfield",
+      "description": "Bradfield's border in the east follows Cowan Creek and Middle Harbour Creek to include the suburbs of North Turramurra, St Ives Chase, St Ives, East Killara, East Lindfield and Roseville Chase. The southern side is bordered by Scotts Creek, Eastern Valley Way, Warrane Rd, Victoria Avenue, Fullers Road and Lane Cove River. The western border moves northwest along the Shire of Ku-ring-gai to the Powerline Trail, Ku-ring-gai Chase Road, Belmont Parade, Main Northern Railway, Normanhurst Road and Osborn Road and includes West Lindfield, West Pymble, South Turramurra, Normanhurst (part), Waitara, Hornsby (part) and Asquith.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Dr John Job Crew Bradfield CMG, 1867–1943. Bradfield was a civil engineer who was associated with the Cataract and Burrinjuck Dams and was instrumental in the design of the Sydney Harbour Bridge.",
+      "area": "101 sq km",
+      "industry": "Light manufacturing, service industries, commercial businesses and Government offices.",
+      "memberKey": "FLETCHER-PAUL",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "CALARE",
     "name": "Calare",
     "abbrev": "CA",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "CALARE",
+      "website": "http://aec.gov.au/calare",
+      "description": "Calare covers an area from Lithgow in the east to Eugowra in the west, Wellington and Mid-Western Regional Councils in the north to Blayney Shire Council and Oberon Council in the south. The main cities and towns include Bathurst, Blayney, Canowindra, Eugowra, Gulgong, Kandos, Lithgow, Molong, Oberon, Orange, Mudgee, Portland, Rylstone, Wallerawang and Yeoval.This description reflects local government areas in existence in 2015.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named after the Aboriginal name for the Lachlan River.",
+      "area": "32 666 sq km",
+      "industry": "Mining, mixed farming, fruit, timber, vineyards, meat and wool processing, transport, tourism, light engineering, white goods manufacturing, tertiary education services, agricultural and pastoral support.",
+      "memberKey": "GEE-ANDREW",
+      "partyKey": "NP"
+    }
   },
   {
     "key": "CHIFLEY",
     "name": "Chifley",
     "abbrev": "CH",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "CHIFLEY",
+      "website": "http://aec.gov.au/chifley",
+      "description": "Chifley covers an area from South Creek in the north to the Great Western Highway in the south. The division is borded by Blacktown-Richmond Railway, Reservoir Road, Balmoral Street and Third Avenue in the East, South Creek and Ropes Creek in the West. Suburbs include: Arndell Park, Blacktown (part), Colebee, Dean Park, Doonside, Glendenning, Hassall Grove, Marayong, Marsden Park, Mount Druitt, Plumpton, Rooty Hill, Quakers Hill (part), Riverstone (part), Ropes Crossing, Shanes Park, Schofields (part), Tregear and Whalan.This description reflects local government areas in existence in 2015.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of the Rt Hon. Joseph Benedict Chifley, 1885–1951. Chifley was Prime Minister of Australia (1945–49) and a Member of the House of Representatives (1928–31 and 1940–51).",
+      "area": "126 sq km",
+      "industry": "Light manufacturing and service industries.",
+      "memberKey": "HUSIC-ED",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "COOK",
     "name": "Cook",
     "abbrev": "CO",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "COOK",
+      "website": "http://aec.gov.au/cook",
+      "description": "Cook covers an area from Kurnell and Cronulla in the east to Sylvania and Gymea Bay in the west and from Kyle Bay, Monterey and Botany Bay in the north to Dents Creek and Hacking River in the south. Suburbs include Monterey, Beverley Park, Blakehurst, Burraneer, Caringbah, Carss Park, Cronulla, Greenhills Beach, Gymea, Gymea Bay, Kyle Bay, Kurnell, Lilli Pilli, Miranda, Sandringham, Sans Souci, Sylvania, Sylvania Waters, Taren Point and Yowie Bay.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Captain James Cook FRS, 1728–79. Cook was a navigator in the Royal Navy who is credited as the first European to discover the east coast of Australia in 1770.",
+      "area": "94 sq km",
+      "industry": "Port and berthing facilities, boat building, steel fabrication, pharmaceutical plant, oyster farming, retail and service industries",
+      "memberKey": "MORRISON-SCOTT",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "COWPER",
     "name": "Cowper",
     "abbrev": "CO",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "COWPER",
+      "website": "http://aec.gov.au/cowper",
+      "description": "Cowper covers an area from Port Macquarie in the south to Coffs Harbour in the north. The main towns include Bellingen, Bowraville, Coffs Harbour, Crescent Head, Dorrigo, Gladstone, Hat Head, Kempsey, Macksville, Nambucca Heads, Sawtell, South West Rocks, Port Macquarie, Ulong and Urunga.This description reflects local government areas in existence in 2015.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Sir Charles Cowper CMG KCMG, 1807–75. Cowper was a statemsan who served as Premier of New South Wales on five occasions.",
+      "area": "7 296 sq km",
+      "industry": "Fishing, forestry, agriculture, bananas, dairy cattle and tourism.",
+      "partyKey": "NP"
+    }
   },
   {
     "key": "CUNNINGHAM",
     "name": "Cunningham",
     "abbrev": "CU",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "CUNNINGHAM",
+      "website": "http://aec.gov.au/cunningham",
+      "description": "Cunningham covers an area from Warrawong, Unanderra (part) and Farborough Heights in the south to Helensburgh in the north. The main towns include Balgownie, Bellambi, Bulli, Corrimal, Darkes Forest, Fairy Meadow, Farmborough Heights, Helensburgh, Maddens Plains, Mount Keira, Mount Kembla, Otford, Port Kembla, Scarborough, Stanwell Park, Unanderra (part), Warrawong and Wollongong.This description reflects local government areas in existence in 2015.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Allan Cunningham, 1791–1839. Cunningham was a botanist who accompanied many explorations along Australia's east coast and is credited with discovering Pandora's Pass, the Darling Downs and Cunningham's Gap.",
+      "area": "519 sq km",
+      "industry": "Wollongong is the commercial centre of the Illawarra, servicing tourism, tertiary education, steel production, coal mining, brick manufacturing and textiles.",
+      "memberKey": "BIRD-SHARON",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "DOBELL",
     "name": "Dobell",
     "abbrev": "DO",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "DOBELL",
+      "website": "http://aec.gov.au/dobell",
+      "description": "Dobell covers an area from Ravensdale in the north to Erina Heights in the south. The main towns include Bateau Bay, Berkeley Vale, Blue Haven, Chittaway Bay, Charmhaven, Dooralong, Erina Heights (part), Gorokan, Hamlyn Terrace, Jilliby, Kanwal, Killarney Vale, Kulnura (part), Lake Haven, Lisarow (part), Long Jetty, Magenta, Mardi, Narara (part), Niagara Park (part), Norah Head, Noraville, Ourimbah, Ravensdale, Tacoma, The Entrance, Toowoon Bay, Toukley, Tuggerah, Tuggerawong, Tumbi Umbi, Wallarah, Wamberal (part), Warnervale, Woongarrah, Wyoming, Wyong, Wyong Creek and Yarramalong.This description reflects local government areas in existence in 2015.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Sir William Dobell OBE, 1899–1970. Dobell was a prominent Australian painter and portrait artist who won the Archibald Prize in 1943.",
+      "area": "787 sq km",
+      "industry": "Fruit, vegetables, manufacturing industries, prawning, fishing, tourism and mixed farming.",
+      "memberKey": "MCBRIDE-EMMA",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "EDEN-MONARO",
     "name": "Eden-Monaro",
     "abbrev": "ED",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "EDEN-MONARO",
+      "website": "http://aec.gov.au/eden-monaro",
+      "description": "Eden-Monaro covers an area from Yass, Murrumbateman and Bungendore in the north and south to the Victorian border, excluding the Australian Capital Territory. The main towns include Adaminaby, Adelong, Batlow, Bega, Berridale, Bodalla, Bombala, Braidwood, Bungendore, Cabramurra, Captains Flat, Cooma, Dalmeny, Delegate, Eden, Jindabyne, Merimbula, Murrumbateman, Narooma, Queanbeyan, Talbingo, Tathra, Tumbarumba, Tumut and Yass.This description reflects local government areas in existence in 2015.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named after the two areas in which the electoral division is located. The name 'Monaro' is variously believed to be:\n \n * derived from the Aboriginal work 'Maneroo', meaning plain, or\n \n * an Aboriginal word meaning 'the navel' or 'a woman's breasts'.",
+      "area": "41 617 sq km",
+      "industry": "Timber industries, beef cattle, sheep and wool, dairy farming, dairy products and mixed farming. The Snowy Mountains Hydroelectric Scheme, snowfields and tourism are important industries for this division.",
+      "memberKey": "KELLY-MIKE",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "FARRER",
     "name": "Farrer",
     "abbrev": "FA",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "FARRER",
+      "website": "http://aec.gov.au/farrer",
+      "description": "Farrer covers an area in southern New South Wales stretching along the Murray River from the Shire Councils of Greater Hume and Narrandera in the east to the South Australian border in the west and the Shire Councils of Wentworth, Balranald, Hay and Carrathool in the north. Farrer is made up of the Shires of Albury, Balranald, Berrigan, Carrathool, Conargo, Corowa, Deniliquin, Greater Hume, Griffith, Hay, Jerilderie, Leeton, Murray, Murrumbidgee, Narrandera, Urana, Wakool and Wentworth.This description reflects local government areas in existence in 2015.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of William James Farrer, 1845–1906. Farrer was a noted wheat breeder and experimentalist.",
+      "area": "126 590 sq km",
+      "industry": "Large-scale irrigation areas, around Deniliquin, Griffith and Wentworth, produce dairy products, fat sheep and cattle, orchard and vine crops, apples and rice. Other major agricultural products include wool, cotton, wheat and cereals. Many industries are based on the processing of agricultural products, such as the Norske Skog Newsprint Mill at Albury and the largest rice mill in the southern hemisphere at Deniliquin. Other industries include mineral sand mining, tourism and agricultural service industries.",
+      "memberKey": "LEY-SUSSAN",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "FOWLER",
     "name": "Fowler",
     "abbrev": "FO",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "FOWLER",
+      "website": "http://aec.gov.au/fowler",
+      "description": "Fowler covers an area from Chipping Norton, Lansvale and Fairfiled East in the east to Liverpool, Bonnyrigg (part), Edensor Park and Abbotsbury in the west. The southern boundary extends south along Newbridge Road, Georges River, the Western Motorway, Liverpool Street, Calabro Avenue and Park Road. The northern boundary follows Fairfield Street, Pine Road, Prospect Creek, Orphan School Creek, King Road, Polding Street, Mimosa Road, The Horsley Drive, Cowpasture Road and part of the western boundary of Abbotsbury. Suburbs include Abbotsbury, Bonnyrigg (part), Bossley Park (part), Cabramatta, Cabramatta West, Canley Heights, Canley Vale, Carramar, Chipping Norton, Edensor park (part), Fairfield East, Greenfield Park (part), Lansvale, Liverpool, Mount Pritchard, Prairiewood (part), Wakeley and Warwick Farm.This description reflects local government areas in existence in 2015.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Elizabeth Lilian Maud Fowler MBE, 1887–1954. Fowler was the first woman mayor in Australia (1938–39). The division was so named to also honour the contribution of women to local government.",
+      "area": "60 sq km",
+      "industry": "Light manufacturing, retail and service industries.",
+      "memberKey": "HAYES-CHRIS",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "GILMORE",
     "name": "Gilmore",
     "abbrev": "GI",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "GILMORE",
+      "website": "http://aec.gov.au/gilmore",
+      "description": "Gilmore covers an area along the coast from Kiama in the north to Tuross Head in the south. Towns and suburbs include Bawley Point, Batemans Bay, Berry, Callala Bay, Cunjurong, Currarong, Fishermans Paradise, Gerroa, Kiama, Malua Bay, Mogo, Moruya, Nowra, Sussex Inlet, Tomerong, Tuross Head, and Ulladulla.This description reflects local government areas in existence in 2015.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Name in honour of Dame Mary Jean Gilmore DBE, 1865–1962. Gilmore was a noted poet and prose writer.",
+      "area": "6 342 sq km",
+      "industry": "Tourism, timber, dairy and beef cattle, paper mill, brickworks, light engineering, dairy products, steel fabrication and fishing.",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "GRAYNDLER",
     "name": "Grayndler",
     "abbrev": "GR",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "GRAYNDLER",
+      "website": "http://aec.gov.au/grayndler",
+      "description": "Grayndler covers an area in the inner-southern Sydney metropolitan area. Bound by the Parramatta River in the north and the Sydenham Bankstown Railway line and the Goods Railway line in the south. To the east follows the Leichhardt Municipal Council boundary to Parramatta Road, along Kingston Road, Main Suburban Railway line and part of the Marrickville Council boundary. In the west follows Canterbury Road, Prospect Road, Liverpool Road, Frederick Street, Parramatta Road, Iron Cove Creek then along the western bank of Iron Cove. The main suburbs include Annandale, Balmain, Birchgrove, Canterbury (part), Dulwich Hill (part), Enmore, Haberfield, Hurlstone Park (part), Marrickville (part), Rozelle, Stanmore, St. Peters, Summer Hill, Sydenham.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Edward Grayndler OBE, 1867–1943. Grayndler was a foundation member of the Amalgamated Shearers' Union of Australasia in 1886 and in 1895 was appointed shearer's union organizer for the Australian Workers' Union. He was an industrial advocate and was a member of the Bruce-Page government's Industrial Delegation to the United States of America in 1927 .",
+      "area": "32 sq km",
+      "industry": "Manufacturing, engineering works, retail and service industries.",
+      "memberKey": "ALBANESE-ANTHONY",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "GREENWAY",
     "name": "Greenway",
     "abbrev": "GR",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "GREENWAY",
+      "website": "http://aec.gov.au/greenway",
+      "description": "Greenway covers an area from Prospect and Girraween in the south to Riverstone (part) and Vineyard (part) in the North. Suburbs and towns include Blacktown (part), Glenwood, Girraween, Kellyville Ridge, Kings Langley, Kings Park, Lalor Park, Parklea, Prospect, Quakers Hill (part), Riverstone (part), Rouse Hill (part), Schofields (part), Seven Hills, Stanhope Gardens and Vineyard (part).This description reflects local government areas in existence in 2015.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Francis Greenway, 1777–1837. Greenway, a former convict, was a noted colonial architect.",
+      "area": "81 sq km",
+      "industry": "Light and heavy engineering, light industrial, electronics, food processing and warehousing and distribution industries. The division also contains comprehensive educational facilities.",
+      "memberKey": "ROWLAND-MICHELLE",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "HUGHES",
     "name": "Hughes",
     "abbrev": "HU",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "HUGHES",
+      "website": "http://aec.gov.au/hughes",
+      "description": "Hughes is bound by Georges River, Newbridge Road and Davy Robinson Drive in the north, Liverpool City Council and Sutherland Shire Council in the west and south, follows Georges River, Oyster Bay, Kareela Golf Course, Box Road, Princes Highway, Kingsway, Hotham Road, North West Arm Road, Dent Creek and the Hacking River in the east. The main suburbs include Alfords Point, Bangor, Barden Ridge, Bundeena, Como, Engadine, Grays Point, Heathcote, Illawong, Kareela, Kirrawee, Lucas Heights, Maianbar, Menai, Moorebank, Sandy Point, Sutherland (part), Waterfall and Wattle Grove.This description reflects local government areas in existence in 2015.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Rt Hon. William Morris Hughes CH KC, 1862–1952. Hughes was the Prime Minister of Australia (1915–23) and a Member of the House of Representatives (1901–52).",
+      "area": "369 sq km",
+      "industry": "Atomic reactor, light manufacturing industries, army barracks and military reserve.",
+      "memberKey": "KELLY-CRAIG",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "HUME",
     "name": "Hume",
     "abbrev": "HU",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "HUME",
+      "website": "http://aec.gov.au/hume",
+      "description": "Hume includes the entire Councils of Boorowa, Goulburn Mulwaree and Upper Lachlan and parts of Camden Council, Liverpool City Council, Wingecarribee Shire Council and Wollondilly Shire Council. Towns include Appin, Boorowa, Bundanoon, Camden Park, Colo Vale, Crookwell, Exeter, Goulburn, Gunning, Hill Top, Marulan, Menangle, Meryla, Oak Dale, Penrose, Taralga, Werai (part), Wingello (part) and Yerrinbool (part).This description reflects local government areas in existence in 2015.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Hamilton Hume, 1797–1873. Hume was an explorer of south-eastern Australia. He was part of the first expedition to travel overland from Sydney to Port Phillip and part of the first European expedition to discover the Darling River.",
+      "area": "17 240 sq km",
+      "industry": "Mixed farming, grazing, fat lambs, fruit, vegetables, wine, timber and textiles. The area is noted for its fine wool with Goulburn being the home of the Big Merino. Belgenny Farm, former home of John and Elizabeth Macarthur, the Macarthur Campus of the Western Sydney University, the University of Sydney farms and the Mount Annan Botanic Gardens are also located within the Hume electorate.",
+      "memberKey": "TAYLOR-ANGUS",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "HUNTER",
     "name": "Hunter",
     "abbrev": "HU",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "HUNTER",
+      "website": "http://aec.gov.au/hunter",
+      "description": "Hunter includes the Muswellbrook Shire Council, Singleton Council, Cessnock City Council (part) and Lake Macquarie City Council (part). The main towns include Broke, Cessnock, Denman, Mulbring, Muswellbrook, Paxton, Putty, Singleton, Widden and Wyee.This description reflects local government areas in existence in 2015.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named for the Hunter River, which was part of the electoral division when it was first created. The river was discovered by John Shortland in 1797 and named after Captain John Hunter RN, the second Governor of the Colony of New South Wales (1795–1800).",
+      "area": "10 640 sq km",
+      "industry": "Agriculture, coal-mining, dairy farming, engineering, farming, forestry, fruit and vegetables, horse studs and racing, timber milling, tourism, wine grapes, wineries and wool. Liddell and Bayswater Power Stations are also in the division.",
+      "memberKey": "FITZGIBBON-JOEL",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "KINGSFORD-SMITH",
     "name": "Kingsford Smith",
     "abbrev": "KI",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "KINGSFORD-SMITH",
+      "website": "http://aec.gov.au/kingsford smith",
+      "description": "Kingsford Smith covers an area from La Perouse in the south to Randwick and Coogee in the north. The main suburbs include Banksmeadow, Botany, Chifley, Clovelly (part), Coogee, Daceyville, Eastgardens, Eastlakes, Hillsdale, Kensington, Kingsford, La Perouse, Little Bay, Malabar, Maroubra, Mascot, Matraville, Pagewood, Phillip Bay, Port Botany, Randwick (part) and South Coogee.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Sir Charles Edward Kingsford Smith MC AFC, 1897–1935. Kingsford Smith was Australia's most famous aviator. In 1928, he made the first trans-Pacific flight from the United States to Australia. He also made the first non-stop crossing of the Australian mainland, the first flights between Australia and New Zealand, and the first eastward Pacific crossing from Australia to the United States.",
+      "area": "91 sq km",
+      "industry": "Shipping, aviation, paper manufacturing, light manufacturing, commercial and retail businesses. Sydney's domestic and international airports are located in the division.",
+      "memberKey": "THISTLETHWAITE-MATT",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "LINDSAY",
     "name": "Lindsay",
     "abbrev": "LI",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "LINDSAY",
+      "website": "http://aec.gov.au/lindsay",
+      "description": "Lindsay covers an area from Agnes Banks and Londonderry in the north to Mulgoa and Badgerys Creek (part) in the south, Colyton in the east and Leonay in the west. Suburbs include Anges Banks, Badgerys Creek (part), Berkshire Park, Cambridge Gardens, Castlereagh, Claremont Meadows, Colyton, Cranebrook, Emu Plains, Glenmore Park, Kingswood, Leonay, Llandilo, Luddenham, Mulgoa, Orchard Hills, Penrith, Regentville, St Marys, Werrington and Werrington County.This description reflects local government areas in existence in 2015.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Norman Alfred Lindsay, 1879–1969. Lindsay was a prominent Australian painter, novelist and artist who is known for creating 'The Magic Pudding'.",
+      "area": "339 sq km",
+      "industry": "Agriculture, farming (dairying, poultry, beef, fruit, vegetables), distilling (saki), construction and service industries, tourism, wholesale and retail trade, building materials, engineering and electrical equipment, textiles, plastic and aluminium products, colour TV manufacturing, pharmaceutical goods and concrete and gravel extraction.",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "LYNE",
     "name": "Lyne",
     "abbrev": "LY",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "LYNE",
+      "website": "http://aec.gov.au/lyne",
+      "description": "Lyne covers an area from Ballengarra in the north to Paterson and Karuah in the south and inland to the western boundaries of the Shires of Greater Taree, Port Macquarie – Hastings, Gloucester, Dungog and Maitland (part). The main towns include Bonny Hills, Bulahdelah, Dungog, Forster, Gloucester, Gresford, Harrington, Hawks Nest, Lake Cathie, Lansdowne, Laurieton, Nabiac, North Haven, Old Bar, Paterson, Smiths Lake, Stroud, Taree and Wauchope.This description reflects local government areas in existence in 2015.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Sir William John Lyne, 1844–1913. Lyne was a participant in the Constitutional Conventions that led to the Commonwealth of Australia and was the first member of the Australian Parliament to be offered a commission to form a government.",
+      "area": "16 099 sq km",
+      "industry": "Timber, beef/dairy cattle, mixed farming, fishing and oyster farming, boat building, engineering, mining and tourism.",
+      "memberKey": "GILLESPIE-DAVID",
+      "partyKey": "NP"
+    }
   },
   {
     "key": "MACARTHUR",
     "name": "Macarthur",
     "abbrev": "MA",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "MACARTHUR",
+      "website": "http://aec.gov.au/macarthur",
+      "description": "Macarthur covers an area from The Northern Road, Narellan Road, and the western border of the Campbelltown City Council in the west to the eastern border of the Shire of Campbelltown in the east. The northern boundary follows the northern border of the Camden Council and Campbelltown City Council, Campbelltown Road, Williamson and Henderson Roads. The southern boundary follows the southern boundary of the Campbelltown City Council. The main suburbs include Airds, Blairmount, Bradbury, Campbelltown, Catherine Field, Claymore, Currans Hill, Denham Court, Glen Alpine, Gilead, Harrington Park, Ingleburn, Leppington, Leumeah, Menangle Park, Minto, Oran Park, Raby, Rosemedow, St. Andrews, St. Helens Park and Wedderburn.This description reflects local government areas in existence in 2015.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Jointly named in honour of Elizabeth Macarthur (1766–1850) and Captain John Macarthur (1767–1834). The Macarthurs were early settlers in New South Wales and founders of the Australian merino wool industry.",
+      "area": "363 sq km",
+      "industry": "Commercial, service, small business and light industrial activities, fruit, vegetable, fodder crops and wine production.",
+      "memberKey": "FREELANDER-MIKE",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "MACKELLAR",
     "name": "Mackellar",
     "abbrev": "MA",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "MACKELLAR",
+      "website": "http://aec.gov.au/mackellar",
+      "description": "Mackellar covers an area from the northern part of Palm Beach, south to Dee Why and west to Duffys Forest. The main suburbs include Avalon, Bayview, Beacon Hill, Belrose, Bilgola Plateau, Church Point, Clareville, Collaroy, Cottage Point, Cromer, Davidson, Dee Why, Duffys Forest, Frenchs Forest (part), Forestville (part), Ingleside, Ku-Ring-Gai Chase, Mona Vale, Morning Bay, Narrabeen, Narraweena, Newport, Palm Beach, Scotland Island, Terrey Hills and Warriewood.This description reflects local government areas in existence in 2015.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Isobel Marion Dorothea Mackellar OBE, 1885–1968. Mackellar was a poet and author who was best known for writing 'My country'.",
+      "area": "233 sq km",
+      "industry": "Light manufacturing, service industries, commercial wholesale and retail trades and tourism.",
+      "memberKey": "FALINSKI-JASON",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "MACQUARIE",
     "name": "Macquarie",
     "abbrev": "MA",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "MACQUARIE",
+      "website": "http://aec.gov.au/macquarie",
+      "description": "Macquarie covers an area from the Hawkesbury and Nepean Rivers in the east, the City Councils of Blue Mountains and Hawkesbury border in the west. The Wollemi and Yengo National Parks form the northern border and the Coxs River, Lake Burragorang and Warragamba River form the southern border. Suburbs and towns include: Bilpin, Blackheath, Central Macdonald, Faulconbridge, Glenbrook, Katoomba, Lower Portland (part), Mellong, Mogo Creek, Mount Victoria, Mount Wilson, Richmond, Sackville (part), St. Albans and Windsor.This description reflects local government areas in existence in 2015.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Major-General Lachlan Macquarie, 1761–1824. Macquarie was Governor of the Colony of New South Wales (1810–21). The area covered by the electoral division when it was first established in 1901 was also known as the Macquarie district.",
+      "area": "4 374 sq km",
+      "industry": "Tourism, mixed farming, arts and crafts, horse breeding and training, printing and publishing, small manufacturing, higher education with the Western Sydney University Richmond Campus. Macquarie is also home to the Glenbrook and Richmond RAAF bases.",
+      "memberKey": "TEMPLEMAN-SUSAN",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "MCMAHON",
     "name": "McMahon",
     "abbrev": "MC",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "MCMAHON",
+      "website": "http://aec.gov.au/mcmahon",
+      "description": "McMahon is bound by South Creek in the west, the north boundary follows the Western Motorway, Ropes Creek and the Great Western Highway. The eastern boundary follows Centenary Road, Merrylands Road, Oxford Street, Woodville Road, Fairfield St, Pine Road, Prospect Creek and Orphan School Creek. The southern boundary follows King Road, Polding Street, Mimosa Road, The Horsley Road, Cowpasture Road, part of the western boundary of Abbotsbury, the westlink M7 motorway and Elizabeth Drive. Suburbs include Canley Vale, Eastern Creek, Fairfield, Fairfield West, Guildford (part), Huntingwood, Kemps Creek, Merrylands, Minchinbury, Mount Vernon, Old Guildford, Orchard Hills, Pemulwuy, Smithfield, South Wentworthville, St Clair, Wetherill Park, Woodpark and Yennora.This description reflects local government areas in existence in 2015.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of the Rt Hon. Sir William McMahon GCMG CH, 1908–88. McMahon was Prime Minister of Australia (1971–72) and a Member of the House of Representatives (1949–82).",
+      "area": "168 sq km",
+      "industry": "Building/construction, light manufacturing, wholesale and retail, transport industry, agriculture and mixed farming.",
+      "memberKey": "BOWEN-CHRIS",
+      "partyKey": "ALP 2004– Note: following the 2009 redistribution the Division of Prospect became the Division of McMahon."
+    }
   },
   {
     "key": "MITCHELL",
     "name": "Mitchell",
     "abbrev": "MI",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "MITCHELL",
+      "website": "http://aec.gov.au/mitchell",
+      "description": "Mitchell covers an area from Nelson and Box Hill in the northwest to Northmead and North Rocks in the southeast. The main suburbs include Baulkham Hills, Beaumont Hills, Bella Vista, Box Hill, Castle Hill, Kellyville, Nelson, Northmead, North Rocks, Rouse Hill, Winston Hills and West Pennant Hills.This description reflects local government areas in existence in 2015.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Sir Thomas Livingstone Mitchell, 1792–1855. Mitchell was a noted surveyor, who built and improved many roads in New South Wales, and an explorer who conducted several expeditions throughout south-eastern Australia. These expeditions included following the courses of the Darling, Lachlan and Murray Rivers.",
+      "area": "101 sq km",
+      "industry": "Commercial and business services, light industry, education and retail.",
+      "memberKey": "HAWKE-ALEX",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "NEW-ENGLAND",
     "name": "New England",
     "abbrev": "NE",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "NEW-ENGLAND",
+      "website": "http://aec.gov.au/new england"
+    }
   },
   {
     "key": "NEWCASTLE",
     "name": "Newcastle",
     "abbrev": "NE",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "NEWCASTLE",
+      "website": "http://aec.gov.au/newcastle",
+      "description": "Newcastle covers an area from the Hunter River and the Rail Trail in the north, Minmi in the west and Newcastle Link Road, Lake Road, Reservoir Road, Wallsend Road, Newcastle Inner City Bypass, the Main Northern Railway line, Marshall Street and Main Road in the south and the coast from Merewether to Stockton in the east. The main suburbs include Adamstown, Broadmeadow, Cardiff Heights, Carrington, Elermore Vale, Fletcher, Jesmond, Kooragang, Kotara, Lambton, Maryland, Merewether, Minmi, Newcastle, New Lambton, Sandgate, Shortland, Stockton, Waratah and Wallsend.This description reflects local government areas in existence in 2015.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named after the city covered by the electoral division. Newcastle was named by Governor King in 1804.",
+      "area": "171 sq km",
+      "industry": "Ship-building and repairs, transport equipment, tourism, tertiary education, food-processing, railway goods, chemicals and heavy engineering. Newcastle is the second largest city in NSW and is a busy port, handling imports and exports.",
+      "memberKey": "CLAYDON-SHARON",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "NORTH-SYDNEY",
     "name": "North Sydney",
     "abbrev": "NO",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "NORTH-SYDNEY",
+      "website": "http://aec.gov.au/north sydney",
+      "description": "North Sydney covers an area from Sydney Harbour in the south to Fullers Road, Victoria Avenue, Warrane Road, Warrane Reserve, Eastern Valley Way and Scotts Creek in the north and from Middle Harbour, Wyong Road, Macpherson Street, Military Road, Falcon Street, Bent Street, Forsyth Park, Montpelier Street, Eaton Street, Rawson Street, Kurraba Road, Andersons Park and Neutral Bay in the east to Punt Road, Pittwater Road and Lane Cove River in the west. Suburbs include Artarmon, Castlecrag, Cremorne, Crows Nest, Greenwich, Henley, Hunters Hill, Kirribilli, Lane Cove, McMahons Point, Middle Cove, Naremburn, Northbridge, North Sydney, Riverview, Waverton, Willoughby and Woolwich.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named after the area covered by the electoral division.",
+      "area": "53 sq km",
+      "industry": "North Sydney is the third largest business centre in Australia. It contains communications, property and business services, and wholesale and retail industries.",
+      "memberKey": "ZIMMERMAN-TRENT",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "PAGE",
     "name": "Page",
     "abbrev": "PA",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "PAGE",
+      "website": "http://aec.gov.au/page",
+      "description": "Page covers an area from Sapphire Beach in the south to Nimbin in the north on the coastal side, and from Nymboida in the south to the Queensland border on the inland side. The main towns include Casino, Dunoon, Evans Head, Grafton, Iluka, Kyogle, Lismore, Nimbin, Sapphire Beach and Wooli.This description reflects local government areas in existence in 2015.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of the Rt Hon. Sir Earle Christmas Grafton Page GCMG CH, 1880–1961. Page was caretaker Prime Minister of Australia (7 April–16 April 1939) and a Member of the House of Representatives (1919–61).",
+      "area": "19 342 sq km",
+      "industry": "Dairy and beef cattle, pigs, maize, tropical fruit, sugar cane, fishing, prawning, oysters, butter and dairy factories, timber mills, several abattoirs and tourism.",
+      "memberKey": "HOGAN-KEVIN",
+      "partyKey": "NP"
+    }
   },
   {
     "key": "PARKES",
     "name": "Parkes",
     "abbrev": "PA",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "PARKES",
+      "website": "http://aec.gov.au/parkes",
+      "description": "Parkes covers an area from the Queensland border in the North including Unincorporated NSW, the City Councils of Broken Hill and Dubbo and the Shire Councils of Central Darling, Cobar, Lachlan, Bogan, Bourke, Brewarrina, Walgett, Moree Plains, Narrabri, Coonamble, Warren, Narromine, Gilgandra, Warrumbungle, Gunnedah and part of Gwydir. The main towns include Bourke, Brewarrina, Broken Hill, Cobar, Condobolin, Coonabarabran, Coonamble, Dubbo, Gilgandra, Ivanhoe, Menindee, Moree, Narrabri, Nyngan, Tibooburra, Walgett, Warren and Wilcannia.This description reflects local government areas in existence in 2015.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Sir Henry Parkes KCMG GCMG, 1815–96. Parkes was a statesman who advocated for electoral and constitutional reform in the colony and land reform. As a result of his early promotion of federation of the colonies, Parkes is known as the 'Father of Federation'.",
+      "area": "393 413 sq km",
+      "industry": "Wool, beef, pork, wheat, cotton, oil seed crops, lucerne, fruit, vegetables, dairy cattle, horse, sheep and cattle studs, comprehensive agricultural support services, coal and opal mining, timber, wine growing, tourism, light engineering and construction industries.",
+      "memberKey": "COULTON-MARK",
+      "partyKey": "NP"
+    }
   },
   {
     "key": "PARRAMATTA",
     "name": "Parramatta",
     "abbrev": "PA",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "PARRAMATTA",
+      "website": "http://aec.gov.au/parramatta",
+      "description": "Parramatta covers an area from Carlingford (part) and Rydalmere in the east to Toongabbie and South Wentworthville in the west. The main suburbs include Carlingford (part), Constitution Hill, Dundas, Granville, Harris Park, Holroyd, Merrylands, Mays Hill, Oatlands, Old Toongabbie, Parramatta, Pendle Hill, Rosehill, Rydalmere, Telopea, Toongabbie, South Wentworthville, Wentworthville and Westmead.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named after the city covered by the electoral division. The name 'Parramatta' is variously believed to be:\n* the Dharuk word for 'head of the river', or\n* derived from an Aboriginal word meaning 'place where the eels lie down' or 'dark jungle head of a river', or\n* derived from the name of the tribe 'Burramattagal'.",
+      "area": "57 sq km",
+      "industry": "Retail, financial services, transport industry, building materials, major industry, tourism and higher education with the Western Sydney University's Parramatta campus.",
+      "memberKey": "OWENS-JULIE",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "PATERSON",
     "name": "Paterson",
     "abbrev": "PA",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "PATERSON",
+      "website": "http://aec.gov.au/paterson",
+      "description": "Paterson extends from Neath, Kurri Kurri and Williamtown in the south, along the Hunter River and Port Stephens in the north and along the Hunter Expressway to the west. The main towns include Kurri Kurri, Maitland, Medowie, Neath, Nelson Bay, Raymond Terrace and Williamtown.This description reflects local government areas in existence in 2015.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "The electoral division is jointly named in honour of:\n* Colonel William Paterson, 1755–1810. Paterson was a solider and botanist who served as Lieutenant-Governor of the Colony of New South Wales (1794–95, 1800–1808 and 1809). The town and river are named after Paterson, and\n* Andrew Barton 'Banjo' Paterson CBE, 1864–1941. Paterson was a journalist, war correspondent and poet whose many works include 'The Man from Snowy River'.",
+      "area": "1 123 sq km",
+      "industry": "Beef and dairy cattle, mixed farming, maize, fishing and oyster farming, general engineering, transport, construction, tourism and recreational industries.",
+      "memberKey": "SWANSON-MERYL",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "REID",
     "name": "Reid",
     "abbrev": "RE",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "REID",
+      "website": "http://aec.gov.au/reid",
+      "description": "Reid covers an area from the Parramatta River in the north, Drummoyne and Rodd Point in the east, Silverwater, Auburn (part) and Lidcombe (part) in the west and Strathfield, Burwood and Croydon in the south. The main suburbs include Abbotsford, Auburn (part), Burwood, Cabarita, Chiswick, Concord, Croydon, Drummoyne, Five Dock, Homebush, Lidcombe (part), Mortlake, Newington, Rodd Point, Russell Lea, Silverwater, Strathfield, Sydney Olympic Park and Wareemba.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of the Rt Hon. Sir George Houstoun Reid KC GCB GCMG, 1845–1918. Reid was an active member of the Constitutional Conventions that led to the Commonwealth of Australia, Prime Minister of Australia (1904–05), a Member of the House of Representatives (1901–09) and Australia's first High Commissioner to London.",
+      "area": "55 sq km",
+      "industry": "Light industry, commercial retail and engineering works. Wholesale and retail trades, including Sydney Markets.",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "RICHMOND",
     "name": "Richmond",
     "abbrev": "RI",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "RICHMOND",
+      "website": "http://aec.gov.au/richmond",
+      "description": "Richmond covers an area from the New South Wales/Queensland border in the north to Ballina and Pimlico in the south. The main towns include Ballina, Bangalow, Brunswick Heads, Burringbar, Byron Bay, Hastings Point, Kingscliff, Lennox Head, Mullumbimby, Murwillumbah, Suffolk Park, and Tweed Heads.This description reflects local government areas in existence in 2015.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named after the area covered by the electoral division.",
+      "area": "2 148 sq km",
+      "industry": "Tourism, commercial fishing, agriculture including dairy, beef cattle, tropical fruits, sugarcane, coffee and macadamia nuts, sugar processing, timber, light engineering, boat building and cottage industries.",
+      "memberKey": "ELLIOT-JUSTINE",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "RIVERINA",
     "name": "Riverina",
     "abbrev": "RI",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "RIVERINA",
+      "website": "http://aec.gov.au/riverina",
+      "description": "Riverina is located in the south of NSW and extends from Parkes, Cowra, Harden and Gundagai in the east to Ungarie, Ardlethan and Coolamon in the west and from Tullamore, Peak Hill and Parkes in the north to Lockhart, Tarcutta and Gundagai in the south. Towns include Ardlethan, Coolamon, Cootamundra, Cowra, Forbes, Grenfell, Gundagai, Harden, Junee, Parkes, Peak Hill, Tarcutta, Temora, Tullamore, Ungarie, Wagga Wagga, West Wyalong and Young.This description reflects local government areas in existence in 2015.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named after the area covered by the electoral division.",
+      "area": "48 988 sq km",
+      "industry": "Wheat, barley, canola, rice and cereal crops. Fat lambs, wool, poultry, dairying, cattle, ostrich, emu, deer, and goat farming. Food processing, fruit, grapes and wine making. Flour-milling, concrete pipes, steel construction, saw milling, joinery, plaster works and tourism.",
+      "memberKey": "MCCORMACK-MICHAEL",
+      "partyKey": "NP"
+    }
   },
   {
     "key": "ROBERTSON",
     "name": "Robertson",
     "abbrev": "RO",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "ROBERTSON",
+      "website": "http://aec.gov.au/robertson",
+      "description": "Robertson covers an area from the Hawkesbury River and Broken Bay in the south, west to Gunderman, north along the Gosford City Council Boundary to Kulnura, then east and south along the Gosford City Council boundary until it crosses the main Northern Railway Line at Lisarow. South along the main Northern Railway line to North Gosford, then east along Glennie Street, Clyde Road, Carlton Road, The Entrance Road, Ocean View Drive and Wamberal Lagoon inlet to the coast. The main towns include Erina, Gosford, Gunderman, Kulnura, Mooney Mooney, Narara, Patonga, Somersby, Terrigal and Woy Woy.This description reflects local government areas in existence in 2015.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Sir John Robertson KCMG, 1816–91. Robertson was a statesman who advocated for electoral and constitutional reform in the colony and land reform.",
+      "area": "980 sq km",
+      "industry": "Tourism, retail, service industries, light manufacturing and processing. Citrus, vegetable and flower growing, poultry products.",
+      "memberKey": "WICKS-LUCY",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "SHORTLAND",
     "name": "Shortland",
     "abbrev": "SH",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "SHORTLAND",
+      "website": "http://aec.gov.au/shortland",
+      "description": "Shortland covers an area from Highfields, Cardiff and Boolaroo in the north to Budgewoi and San Remo in the south and is bounded on the east by the Pacific Ocean and on the west by Wallsend Road, Reservoir Road, Lowry Street, Main Road, Lake Macquarie, Wyee Road and Pacific Highway. The main suburbs include Belmont, Boolaroo, Budgewoi, Catherine Hill Bay, Cardiff, Caves Beach, Chain Valley Bay, Charlestown, Doyalson, Dudley, Eleebana, Gateshead, Gwandalan, Highfields, Hillsborough, Mannering Park, Redhead, San Remo, Speers Point, Swansea, Valentine and Windale.This description reflects local government areas in existence in 2015.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Naval Lieutenant John Shortland, 1769–1810. Shortland named the Hunter River, made the first chart of the harbour and collected samples of coal near what would become Shortland.",
+      "area": "265 sq km",
+      "industry": "Coal mining, tourism, fishing, power stations, building industry and poultry farming.",
+      "memberKey": "CONROY-PAT",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "SYDNEY",
     "name": "Sydney",
     "abbrev": "SY",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "SYDNEY",
+      "website": "http://aec.gov.au/sydney",
+      "description": "Sydney covers an area from Pyrmont, The Rocks and Potts Point (including Sydney Harbour) in the north to Rosebery in the south. Bounded in the east by the eastern border of Potts Point and Darlinghurst to Oxford Street, Flinders Street, South Dowling Street and Southern Cross Drive, the division extends to Glebe, Camperdown, Newtown and Erskineville in the west. The main suburbs include Camperdown, Darlinghurst (part), Erskineville, Glebe, Haymarket, Newtown, Potts Point, Pyrmont, Rosebery, Surry Hills, The Rocks, Waterloo and Woolloomooloo.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named after the city covered by the electoral division. The name 'Sydney' was used by Captain Arthur Phillip in honour of Thomas Townshend, First Viscount Sydney, who as British Home Secretary submitted the plan for a convict settlement at Botany Bay.",
+      "area": "44 sq km",
+      "industry": "Commercial, financial, retail, merchandising, service, transport, entertainment and shipping industries.",
+      "memberKey": "PLIBERSEK-TANYA",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "WARRINGAH",
     "name": "Warringah",
     "abbrev": "WA",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "WARRINGAH",
+      "website": "http://aec.gov.au/warringah",
+      "description": "Warringah covers an area from Neutral Bay, Mosman and Manly in the south to Curl Curl and Frenchs Forest (part) in the north. Bound by Middle Harbour, Military Road, Falcon Street, Bent Street, Forsyth Park, Montpelier Street, Eaton Street, Rawson Street, Kurraba Road, Anderson Park and Neutral Bay in the west. The main suburbs include Allambie Heights, Balgowlah, Brookvale, Cremorne Point, Curl Curl, Fairlight, Forestville (part), Frenchs Forest (part), Killarney Heights, Manly, Manly Vale, Mosman, Netural Bay, Queenscliff and Seaforth.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named after the area in which the electoral division is located. 'Warringah' is believed to be an Aboriginal word meaning 'sign of rain', 'across the waves' or 'sea'.",
+      "area": "68 sq km",
+      "industry": "Manufacturing; construction; retail; professional, scientific and technical services; health care and social assistance; service and leisure industries.",
+      "memberKey": "ABBOTT-TONY",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "WATSON",
     "name": "Watson",
     "abbrev": "WA",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "WATSON",
+      "website": "http://aec.gov.au/watson",
+      "description": "Watson covers an area from the Main Suburban Railway, Centenary Drive and the Hume Highway in the north to the South Western Motorway, Kingsgrove Road and Canterbury Road in the south. In the east by Old Canterbury Road and Prospect Road and in the west by Fairford Road, Stacey Street, Rookwood Road, Joseph Street and Olympic Dive. The main suburbs include Ashfield, Bankstown (part), Belfield, Belmore, Campsie, Canterbury (part), Chullora, Croydon Park, Enfiled, Greenacre, Kingsgrove, Lakemba, Mount Lewis, Punchbowl, Rookwood, Roselands and Strathfield South.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of the Hon. John Christian Watson, 1867–1941. Watson was Prime Minister of Australia (27 April–17 August 1904) and a Member of the House of Representatives (1901–10).",
+      "area": "47 sq km",
+      "industry": "Light manufacturing and service industries.",
+      "memberKey": "BURKE-TONY",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "WENTWORTH",
     "name": "Wentworth",
     "abbrev": "WE",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "WENTWORTH",
+      "website": "http://aec.gov.au/wentworth",
+      "description": "Wentworth covers an area from Elizabeth Bay along the southern shore of Sydney Harbour to Watsons Bay and down the coast to Clovelly. The western boundary runs along the eastern border of Potts Point and Darlinghurst to Oxford Street, Flinders Street, South Dowling Street and Dacey Avenue. The southern boundary follows Alison Road, King Street, Wentworth Street, Stanley Street, Avoca Street, Frenchmans Road, Clovelly Road, Walker Avenue and Bundock Park. The main suburbs include Bellevue Hill, Bondi, Clovelly (part), Darlinghurst (part), Darling Point, Dover Heights, Elizabeth Bay, Moore Park, Paddington, Point Piper, Rose Bay, Vaucluse, Watsons Bay and Waverley.This description reflects local government areas in existence in 2015.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of William Charles Wentworth, 1790 –1872. Wentworth accompanied Blaxland and Lawson on their 1813 crossing of the Blue Mountains and advocated the establishment of free and representative government.",
+      "area": "38 sq km",
+      "industry": "Finance, property, service, wholesale and retail trade, tourism, education, sport and recreation.",
+      "memberKey": "PHELPS-KERRYN",
+      "partyKey": "IND"
+    }
   },
   {
     "key": "WERRIWA",
     "name": "Werriwa",
     "abbrev": "WE",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "WERRIWA",
+      "website": "http://aec.gov.au/werriwa",
+      "description": "Werriwa covers an area from Badgerys Creek, Cecil Hills and Bonnyrigg (part) in the north, to Denham Court, Bardia, Macquarie Links and Macquarie Fields in the south. Bounded by the Georges River, South Western Motorway, Liverpool Street, Calabro Avenue, Hoxton Park Road and Maxwells Creek to the east and Bringelly Road, The Northern Road, the western border of Badgerys Creek and Oaky Creek to the west. The main suburbs include Ashcroft, Austral, Badgerys Creek, Bardia, Bonnyrigg Heights, Bringelly, Cartwright, Casula, Cecil Hills, Cecil Park, Denham Court, Edmondson Park, Elizabeth Hills, Glenfield, Green Valley, Heckenberg, Hinchinbrook, Horningsea Park, Hoxton Park, Long Point, Lurnea, Macquarie Fields, Macquarie Links, Prestons and West Hoxton.This description reflects local government areas in existence in 2015.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "'Werriwa' was the Aboriginal name for Lake George, which was located in the electoral division when it was first established in 1901. The name 'Werriwa' is believed to be an Aboriginal word meaning 'deep water' or 'sick crawfish'.",
+      "area": "172 sq km",
+      "industry": "Manufacturing, retail, health care services and industries",
+      "memberKey": "STANLEY-ANNE-MAREE",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "WHITLAM",
     "name": "Whitlam",
     "abbrev": "WH",
-    "state": "NSW"
+    "state": "NSW",
+    "details": {
+      "key": "WHITLAM",
+      "website": "http://aec.gov.au/whitlam",
+      "description": "Whitlam covers an area from Fitzroy Falls, Robertson and Dunmore in the south to Lake Avon, Alpine, Welby, Kembla Grange and Primbee in the north. In the east follows the coast from Primbee to Shell Cove and in the west Sutton Forest and Werai (part). The main localities include Alpine, Berrima, Bowral, Dapto, Dunmore, Fitzroy Falls, Kembla Grange, Mittagong, Moss Vale, Primbee, Robertson, Shellharbour, Sutton Forest, Unanderra, Welby and Werai (part).This description reflects local government areas in existence in 2015.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of the Hon. Edward Gough Whitlam AC QC, 1916–2014. Whitlam was Prime Minister of Australia (1972–75) and a Member of the House of Representatives (1952–78).",
+      "area": "1 331 sq km",
+      "industry": "Mining, engineering, light and heavy manufacturing, transport, tourism, construction, dairy farming and retail industries.",
+      "memberKey": "JONES-STEPHEN",
+      "partyKey": "ALP 2010– Note: following the 2016 redistribution the Division of Throsby became the Division of Whitlam."
+    }
   },
   {
     "key": "LINGIARI",
     "name": "Lingiari",
     "abbrev": "LI",
-    "state": "NT"
+    "state": "NT",
+    "details": {
+      "key": "LINGIARI",
+      "website": "http://aec.gov.au/lingiari",
+      "description": "Lingiari covers the majority of the Northern Territory, with the exception of the Darwin Municipality and most of the Palmerston Municipality.\nLingiari includes the Territory of Cocos (Keeling) Islands and the Territory of Christmas Island.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Vincent Lingiari AM 19??–88, who was a member of the Gurindji people from the Victoria River District. Mr Lingiari was a stockman and lands right leader who worked for many years to improve conditions for Aboriginal people. In 1966, he led the walk-off of his people from Wave Hill Station, which eventually resulted in the establishment of Wattie Creek and a land grant to the Gurindji people.",
+      "area": "1,348,157.94 sq km",
+      "industry": "Cattle, tourism, horticulture, fishing, light industry in Alice Springs, bauxite, copper, gold and uranium mining.",
+      "memberKey": "SNOWDON-WARREN",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "SOLOMON",
     "name": "Solomon",
     "abbrev": "SO",
-    "state": "NT"
+    "state": "NT",
+    "details": {
+      "key": "SOLOMON",
+      "website": "http://aec.gov.au/solomon",
+      "description": "Solomon covers the Darwin Municipality, the Palmerston Municipality (with the exception of the suburbs of Farrar, Johnston, Mitchell, Yarrawonga and Zuccoli), and the unincorporated areas of the Darwin Rates Act Area and East Arm.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named after Vaiben Louis Solomon, 1853–1908, who was an active member of the Constitutional Conventions that led to the Commonwealth of Australia. Between 1901 and 1903 Mr Solomon was elected as one of the first Members of the House of Representatives as the member for the South Australian seat that included the Northern Territory. Mr Solomon also represented the Northern Territory seat in the South Australian House of Assembly on several occasions.",
+      "area": "190.61 sq km",
+      "industry": "Tourism, mining, horticulture, fishing and light industry.",
+      "memberKey": "GOSLING-LUKE-JOHN",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "BLAIR",
     "name": "Blair",
     "abbrev": "BL",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "BLAIR",
+      "website": "http://aec.gov.au/blair",
+      "description": "The Division of Blair consists of:\n \n part of the Brisbane City Council,\n part of the Ipswich City Council,\n part of the Scenic Rim Regional Council, and \n part of the Somerset Regional Council.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities",
+      "nomenclature": "Named in honour of Harold Blair AM, 1924–76, the noted tenor, in recognition of his work for Aboriginal advancement and service to the arts. Mr Blair established the Aboriginal Children's Holiday Project and was a member of the the Aborigines' Welfare Board in Victoria (1957–58) and the Aborigines Advancement League, the Federal Council for the Advancement of Aborigines and Torres Strait Islanders, and the Commonwealth Aboriginal Arts Board.",
+      "area": "6,472 sq km",
+      "industry": "Dairy and beef cattle farming, small crop production, commercial, construction and infrastructure industries, tourism and defence.",
+      "memberKey": "NEUMANN-SHAYNE-KENNETH",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "BONNER",
     "name": "Bonner",
     "abbrev": "BO",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "BONNER",
+      "website": "http://aec.gov.au/bonner",
+      "description": "The Division of Bonner consists of:\n \n part of the Brisbane City Council, and\n part of the Redland City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion",
+      "nomenclature": "Named in honour of Neville Thomas Bonner AO, 1922–99, an elder of the Jagera people, in recognition of his service as a Senator for Queensland (1971–83) and leader of indigenous Australia.",
+      "area": "374 sq km",
+      "industry": "Industries include tourism, transport, manufacturing and retail. The Port of Brisbane is located in Bonner as are light industrial areas in Murarrie, Hemmant and Lytton.",
+      "memberKey": "VASTA-ROSS",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "BOWMAN",
     "name": "Bowman",
     "abbrev": "BO",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "BOWMAN",
+      "website": "http://aec.gov.au/bowman",
+      "description": "The Division of Bowman consists of:\n \n part of the Redland City Council, and\n part of the Brisbane City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion",
+      "nomenclature": "Named in honour of David Bowman, 1860–1916, one of the first members of the Labour party in the Queensland Parliament (1899–1902 and 1904–1916) who rendered valuable service in the interests of the community.",
+      "area": "536 sq km",
+      "industry": "Farming, retail and industrial activities. Tourism on the islands and a winery at Mount Cotton.",
+      "memberKey": "LAMING-ANDREW",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "BRISBANE",
     "name": "Brisbane",
     "abbrev": "BR",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "BRISBANE",
+      "website": "http://aec.gov.au/brisbane",
+      "description": "The Division of Brisbane consists of part of the Brisbane City Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs",
+      "nomenclature": "Named in recognition of the City of Brisbane.",
+      "area": "57 sq km",
+      "industry": "The area is mostly residential but contains some light industry. It includes the Queensland Parliament House and Brisbane City Council Chambers. Many Commonwealth Government, State Government and business administrative offices are found in the area.",
+      "memberKey": "EVANS-TREVOR",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "CAPRICORNIA",
     "name": "Capricornia",
     "abbrev": "CA",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "CAPRICORNIA",
+      "website": "http://aec.gov.au/capricornia",
+      "description": "The Division of Capricornia consists of:\n \n Isaac Regional Council,\n Livingstone Shire Council,\n part of the Mackay Regional Council,\n part of the Rockhampton Regional Council, and \n part of the Whitsunday Regional Council.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities",
+      "nomenclature": "Named in recognition of the Tropic of Capricorn.",
+      "area": "90,903 sq km",
+      "industry": "Primary production, grains, beef cattle, grazing, fishing, coal mining, meat works, dairy products and tourism.",
+      "memberKey": "LANDRY-MICHELLE",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "DAWSON",
     "name": "Dawson",
     "abbrev": "DA",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "DAWSON",
+      "website": "http://aec.gov.au/dawson",
+      "description": "The Division of Dawson consists of:\n \n part of the Burdekin Shire Council,\n part of the Mackay Regional Council,\n part of the Townsville City Council, and \n part of the Whitsunday Regional Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities",
+      "nomenclature": "Named in honour of Andrew Dawson, 1863–1910, Premier of Queensland (1899–1903).",
+      "area": "14,630 sq km",
+      "industry": "Various small crops, prawn and fish farms, sugar growing and refining, beef cattle, coal mining related industries, abattoirs and tourism.",
+      "memberKey": "CHRISTENSEN-GEORGE",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "DICKSON",
     "name": "Dickson",
     "abbrev": "DI",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "DICKSON",
+      "website": "http://aec.gov.au/dickson",
+      "description": "The Division of Dickson consists of:\n \n part of the Brisbane City Council, and\n part of the Moreton Bay Regional Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion",
+      "nomenclature": "Named in honour of Sir James Robert Dickson, 1832–1901, a leading advocate for Federation, Premier of Queensland (1898–99) and Minister for Defence in the first Federal Ministry.",
+      "area": "724 sq km",
+      "industry": "Farming, retail and industrial activities.",
+      "memberKey": "DUTTON-PETER",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "FADDEN",
     "name": "Fadden",
     "abbrev": "FA",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "FADDEN",
+      "website": "http://aec.gov.au/fadden",
+      "description": "The Division of Fadden consists of:\n \n part of the Gold Coast City Council, and\n part of the Redland City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion",
+      "nomenclature": "Named in honour of Sir Arthur William Fadden, 1895–1973, Prime Minister of Australia (August–October 1941) and a Member of the House of Representatives (1936–58).",
+      "area": "387 sq km",
+      "industry": "Residential areas are concentrated in the south with semi-rural in the north. Commercial activities include tourism, market gardens, sugar cane farming, and light industry including boat building.",
+      "memberKey": "ROBERT-STUART",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "FAIRFAX",
     "name": "Fairfax",
     "abbrev": "FA",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "FAIRFAX",
+      "website": "http://aec.gov.au/fairfax",
+      "description": "The Division of Fairfax consists of part of the Sunshine Coast Regional Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities",
+      "nomenclature": "Named in honour of Ruth Beatrice Fairfax OBE, 1878–1948, a founder of the Country Women's Association and its first Queensland president.",
+      "area": "1,004 sq km",
+      "industry": "Avocados, ginger, sugar cane, fruit juice, tropical and exotic fruits, dairy and beef cattle, tourism, health care, construction and infrastructure industries.",
+      "memberKey": "OBRIEN-TED",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "FISHER",
     "name": "Fisher",
     "abbrev": "FI",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "FISHER",
+      "website": "http://aec.gov.au/fisher",
+      "description": "The Division of Fisher consists of part of the Sunshine Coast Regional Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities",
+      "nomenclature": "Named in honour of Andrew Fisher, 1862–1928, Prime Minister of Australia (1908–09, 1910–13, 1914–15) and a Member of the House of Representatives (1901–15).",
+      "area": "1,198 sq km",
+      "industry": "Health care, retail, tourism, education and construction and development are the major employers. Other industries include pineapple, orchard and flower crops, dairy and beef cattle farming, and horse racing.",
+      "memberKey": "WALLACE-ANDREW",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "FLYNN",
     "name": "Flynn",
     "abbrev": "FL",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "FLYNN",
+      "website": "http://aec.gov.au/flynn",
+      "description": "The Division of Flynn consists of:\n \n Banana Shire Council, \n Central Highlands Regional Council, \n Gladstone Regional Council, \n North Burnett Regional Council, \n Woorabinda Aboriginal Shire Council, \n part of the Bundaberg Regional Council, \n part of the Rockhampton Regional Council, and \n part of the South Burnett Regional Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities",
+      "nomenclature": "Named in honour of the Reverend John Flynn OBE, 1880–1951, founder of the Royal Flying Doctor Service, who, in the early days of flying and also of radio harnessed both to the relief of suffering and the saving of lives in the remote regions of Queensland and, ultimately, Australia.",
+      "area": "132,824 sq km",
+      "industry": "Primary production including coal, oil, gas, orchards, cotton, grain and cattle. The Port of Gladstone is a major export facility for the area.",
+      "memberKey": "ODOWD-KEN",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "FORDE",
     "name": "Forde",
     "abbrev": "FO",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "FORDE",
+      "website": "http://aec.gov.au/forde",
+      "description": "The Division of Forde consists of:\n \n part of the Gold Coast City Council, and \n part of the Logan City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion",
+      "nomenclature": "Named in honour of Francis Michael Forde, 1890–1983, Prime Minister of Australia (July 1945) and a Member of the House of Representatives (1922–46).",
+      "area": "418 sq km",
+      "industry": "Retail, commercial and industrial activities.",
+      "memberKey": "VAN-MANEN-BERT",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "GRIFFITH",
     "name": "Griffith",
     "abbrev": "GR",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "GRIFFITH",
+      "website": "http://aec.gov.au/griffith",
+      "description": "The Division of Griffith consists of part of the Brisbane City Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs",
+      "nomenclature": "Named in honour of Sir Samuel Walker Griffith QC, 1845–1920, for his involvement with Federation and the development of the Australian Constitutuion and who was the the first Chief Justice of the High Court of Australia (1903–19).",
+      "area": "57 sq km",
+      "industry": "The area is mostly residential with some food processing and light industry. It is also the location of the world famous Brisbane Cricket Ground known as The Gabba.",
+      "memberKey": "BUTLER-TERRI",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "GROOM",
     "name": "Groom",
     "abbrev": "GR",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "GROOM",
+      "website": "http://aec.gov.au/groom",
+      "description": "The Division of Groom consists of part of the Toowoomba Regional Council.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities",
+      "nomenclature": "Named in honour of Sir Littleton Ernest Groom, 1867–1936, Speaker of the House of Representatives (1926–29 ) and a Member of the House of Representatives (1901–29 and 1931–36).",
+      "area": "5,586 sq km",
+      "industry": "This area is noted for its rich and diverse range of products and industries including agriculture, retailing and food processing as well as for the provision of educational and community services. Toowoomba is known as the Garden City. The University of Southern Queensland is located in Toowoomba while the Army Aviation Centre is based at Oakey.",
+      "memberKey": "MCVEIGH-JOHN",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "HERBERT",
     "name": "Herbert",
     "abbrev": "HE",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "HERBERT",
+      "website": "http://aec.gov.au/herbert",
+      "description": "The Division of Herbert consists of:\n \n Palm Island Aboriginal Shire Council,\n part of Hinchinbrook Shire Council, and\n part of the Townsville City Council.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities",
+      "nomenclature": "Named in honour of Sir Robert George Wyndham Herbert, 1831–1905, the first Premier of Queensland (1859–66).",
+      "area": "941 sq km",
+      "industry": "Copper, nickel and zinc refineries, bulk sugar terminal, and tropical fruits, prawn and fishing industry, beef cattle and tourism. Townsville, noted for its port facilities, is also home to James Cook University, the Great Barrier Reef Marine Park Authority and large defence establishments at Lavarack Barracks (Army) and Garbutt (RAAF).",
+      "memberKey": "OTOOLE-CATHY",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "HINKLER",
     "name": "Hinkler",
     "abbrev": "HI",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "HINKLER",
+      "website": "http://aec.gov.au/hinkler",
+      "description": "The Division of Hinkler consists of:\n \n part of the Bundaberg Regional Council, and\n part of the Fraser Coast Regional Council.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities",
+      "nomenclature": "Named in honour of Herbert John (Bert) Hinkler DSM AFC, 1892–1933, aviator who was the first person to fly solo from England to Australia in 1928.",
+      "area": "3,818 sq km",
+      "industry": "Sugar, a myriad of small crops including tomatoes, avocados and macadamia nuts, rum, fishing, seafood industries and tourism.",
+      "memberKey": "PITT-KEITH",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "KENNEDY",
     "name": "Kennedy",
     "abbrev": "KE",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "KENNEDY",
+      "website": "http://aec.gov.au/kennedy",
+      "description": "The Division of Kennedy consists of:\n \n Boulia Shire Council, \n Burke Shire Council, \n Cassowary Coast Regional Council, \n Charters Towers Regional Shire Council, \n Cloncurry Shire Council, \n Croydon Shire Council, \n Doomadgee Aboriginal Shire Council, \n Etheridge Shire Council, \n Flinders Shire Council, \n McKinlay Shire Council, \n Mornington Shire Council, \n Mt Isa City Council, \n Richmond Shire Council, \n Tablelands Regional Council, \n Yarrabah Aboriginal Shire Council, \n part of the Burdekin Shire Council, \n part of the Cairns Regional Council, \n part of the Carpentaria Shire Council, \n part of the Hinchinbrook Shire Council, \n part of the Mareeba Shire Council, and \n part of the Townsville City Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities",
+      "nomenclature": "Named in honour of Edmund Besley Kennedy, 1818–48, surveyor and explorer who sought to find an overland route to the Gulf of Carpentaria.",
+      "area": "567,377 sq km",
+      "industry": "Mainly primary production including grains (sorghum, sunflowers, wheat), beef cattle, cotton, coal mining, gemstones, sheep, sugar, agricultural services, copper, gold, silver, tin, lead, zinc, uranium, fishing (prawns, crabs, barramundi), marble, tobacco, fruit and vegetables, peanuts, dairy products and tourism.",
+      "memberKey": "KATTER-BOB",
+      "partyKey": "Katter's Australian Party/IND/NP"
+    }
   },
   {
     "key": "LEICHHARDT",
     "name": "Leichhardt",
     "abbrev": "LE",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "LEICHHARDT",
+      "website": "http://aec.gov.au/leichhardt",
+      "description": "The Division of Leichhardt consists of:\n \n Aurukun Shire Council, \n Cook Shire Council, \n Douglas Shire Council, \n Hope Vale Aboriginal Shire Council, \n Kowanyama Aboriginal Shire Council, \n Lockhart River Aboriginal Shire Council, \n Mapoon Aboriginal Shire Council, \n Napranum Aboriginal Shire Council, \n Northern Peninsula Area Regional Council, \n Pormpuraaw Aboriginal Shire Council, \n Torres Shire Council, \n Torres Strait Island Regional Council, \n Weipa Town Council, \n Wujal Wujal Aboriginal Shire Council,\n part of the Cairns Regional Council, \n part of the Carpentaria Shire Council, and \n part of the Mareeba Shire Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities",
+      "nomenclature": "Named in honour of Friedrich Wilhelm Ludwig Leichhardt, 1813–48, naturalist and explorer of the area from Moreton Bay to Port Essington.",
+      "area": "148,559 sq km",
+      "industry": "Sugar, tropical fruit, aquaculture, cattle, fishing, mining and tourism.",
+      "memberKey": "ENTSCH-WARREN",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "LILLEY",
     "name": "Lilley",
     "abbrev": "LI",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "LILLEY",
+      "website": "http://aec.gov.au/lilley",
+      "description": "The Division of Lilley consists of:\n \n part of the Brisbane City Council, and \n part of the Moreton Bay Regional Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs",
+      "nomenclature": "Named in honour of Sir Charles Lilley, 1827–97, Premier of Queensland (1868–70), member of the Queensland Parliament (1860–74) and responsible for introducing free education into Queensland.",
+      "area": "144 sq km",
+      "industry": "The area is mostly residential but includes Brisbane's domestic and international airports, light and heavy engineering, sea-cargo facilities, chemical production, warehousing (civilian and military), oil refining and storage and various small industries.",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "LONGMAN",
     "name": "Longman",
     "abbrev": "LO",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "LONGMAN",
+      "website": "http://aec.gov.au/longman",
+      "description": "The Division of Longman consists of:\n \n part of the Moreton Bay Regional Council, \n part of the Somerset Regional Council, and \n part of the Sunshine Coast Regional Council.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities",
+      "nomenclature": "Named in honour of Irene Maud Longman, 1877–1964, the first woman elected to the Queensland Parliament (1929–32) and at the time only the third woman elected to any Parliament in Australia. Mrs Longman was actively involved in issues relating to the family, women and mental health.",
+      "area": "1,237 sq km",
+      "industry": "Tourism, light industry, beef cattle, horse studs, prawn farming, poultry farms, pig farming, and various crops including grains, pineapples, fruit and flower farms.",
+      "memberKey": "LAMB-SUSAN",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "MARANOA",
     "name": "Maranoa",
     "abbrev": "MA",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "MARANOA",
+      "website": "http://aec.gov.au/maranoa",
+      "description": "The Division of Maranoa consists of:\n \n Balonne Shire Council, \n Barcaldine Regional Council, \n Barcoo Shire Council, \n Blackall Tambo Regional Council, \n Bulloo Shire Council, \n Diamantina Shire Council, \n Goondiwindi Regional Council, \n Longreach Regional Council, \n Maranoa Regional Council, \n Murweh Shire Council, \n Paroo Shire Council, \n Quilpie Shire Council, \n Western Downs Regional Council, \n Winton Shire Council, \n part of the South Burnett Regional Council, \n part of the Southern Downs Regional Council, and \n part of the Toowoomba Regional Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities",
+      "nomenclature": "Named for the district which is watered by the Maranoa River. The name 'Maranoa' is possibly a corruption of the Mandandanji words 'mara' for duck and 'ngoa' for egg.",
+      "area": "729,897 sq km",
+      "industry": "Mainly primary production including coal, oil, gas, orchards, cotton, grain, cattle and sheep.",
+      "memberKey": "LITTLEPROUD-DAVID",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "MCPHERSON",
     "name": "McPherson",
     "abbrev": "MC",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "MCPHERSON",
+      "website": "http://aec.gov.au/mcpherson",
+      "description": "The Division of McPherson consists of part of the Gold Coast City Council.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities",
+      "nomenclature": "Named after the McPherson Range for the range which runs north-west from Mount Glennie.",
+      "area": "229 sq km",
+      "industry": "Tourism and associated industries and a variety of small industries.",
+      "memberKey": "ANDREWS-KAREN",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "MONCRIEFF",
     "name": "Moncrieff",
     "abbrev": "MO",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "MONCRIEFF",
+      "website": "http://aec.gov.au/moncrieff",
+      "description": "The Division of Moncrieff consists of part of the Gold Coast City Council.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities",
+      "nomenclature": "Named in honour of Gladys Lillian Moncrieff, 1892–1976, light opera and musical comedy singer.",
+      "area": "100 sq km",
+      "industry": "Tourism and associated industries and a variety of small industries.",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "MORETON",
     "name": "Moreton",
     "abbrev": "MO",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "MORETON",
+      "website": "http://aec.gov.au/moreton",
+      "description": "The Division of Moreton consists of part of the Brisbane City Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs",
+      "nomenclature": "Named after Morton Bay, the bay bounded by Cape Moreton and Point Lookout. The bay was marked on his chart of May 1770 by Lieutenant James Cook RN, navigator on HM Bark Endeavour.",
+      "area": "109 sq km",
+      "industry": "The area is mainly residential with some light industrial and commercial activities. A light aircraft airport is in Archerfield.",
+      "memberKey": "PERRETT-GRAHAM",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "OXLEY",
     "name": "Oxley",
     "abbrev": "OX",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "OXLEY",
+      "website": "http://aec.gov.au/oxley",
+      "description": "The Division of Oxley consists of:\n \n part of the Brisbane City Council,\n part of the Ipswich City Council, and\n part of the Logan City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion",
+      "nomenclature": "Named in honour of John Joseph Oxley, 1784–1828, considered to be one of the greatest explorers and early pioneers of Southern Queensland.",
+      "area": "159 sq km",
+      "industry": "Railway workshops, industrial, light industrial and commercial activities.",
+      "memberKey": "DICK-MILTON",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "PETRIE",
     "name": "Petrie",
     "abbrev": "PE",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "PETRIE",
+      "website": "http://aec.gov.au/petrie",
+      "description": "The Division of Petrie consists of:\n \n part of the Brisbane City Council, and\n part of the Moreton Bay Regional Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion",
+      "nomenclature": "Named in honour of Andrew Petrie, 1798–1872, a noted civil engineer, pioneer, explorer and the first free settler in Brisbane in 1837.",
+      "area": "152 sq km",
+      "industry": "The area is mainly residential with some light industrial and commercial activities.",
+      "memberKey": "HOWARTH-LUKE",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "RANKIN",
     "name": "Rankin",
     "abbrev": "RA",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "RANKIN",
+      "website": "http://aec.gov.au/rankin",
+      "description": "The Division of Rankin consists of:\n \n part of the Brisbane City Council, and\n part of the Logan City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion",
+      "nomenclature": "Named in honour of Dame Annabelle Jane Mary Rankin DBE, 1908–86, first Queensland woman elected to the Senate (1947–71) and the first Australian woman to hold a top-level diplomatic post as High Commissioner to New Zealand (1971–74).",
+      "area": "131 sq km",
+      "industry": "A diversity of land use, from residential and acreage suburbs to light industrial.",
+      "memberKey": "CHALMERS-JIM",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "RYAN",
     "name": "Ryan",
     "abbrev": "RY",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "RYAN",
+      "website": "http://aec.gov.au/ryan",
+      "description": "The Division of Ryan consists of:\n \n part of the Brisbane City Council, and\n part of the Moreton Bay Regional Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion",
+      "nomenclature": "Named in homour of Thomas Joseph Ryan, 1876–1921, Premier of Queensland (1915–19) and a Member of the House of Representatives (1919–21).",
+      "area": "370 sq km",
+      "industry": "The area is mainly residential and acreage suburbs with some commercial and retail activities. The University of Queensland is located on the Brisbane River at St Lucia, while all of Brisbane's television transmitters are on Mount Coot-tha. By way of contrast, some farming still occurs in the outlying suburbs and the division also includes a large portion of Brisbane Forest Park.",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "WIDE-BAY",
     "name": "Wide Bay",
     "abbrev": "WI",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "WIDE-BAY",
+      "website": "http://aec.gov.au/wide bay",
+      "description": "The Division of Wide Bay consists of:\n \n Cherbourg Aboriginal Shire Council, \n Gympie Regional Council, \n Noosa Shire Council, \n part of the Fraser Coast Regional Council, \n part of the South Burnett Regional Council, and \n part of the Sunshine Coast Regional Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities",
+      "nomenclature": "Named after the bay sighted by Lieutenant James Cook RN, navigator on HM Bark Endeavour, on 18 May 1770.",
+      "area": "14,227 sq km",
+      "industry": "Eco-tourism (Fraser Island), historical attractions (Maryborough), natural attractions (Cooloola Coast), timber, dairying, grain, grazing, sugar, tropical fruit orchards, and railway rolling stock (including Queensland's 'tilt' trains).",
+      "memberKey": "OBRIEN-LLEW",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "WRIGHT",
     "name": "Wright",
     "abbrev": "WR",
-    "state": "QLD"
+    "state": "QLD",
+    "details": {
+      "key": "WRIGHT",
+      "website": "http://aec.gov.au/wright",
+      "description": "The Division of Wright consists of:\n \n Lockyer Valley Regional Council, \n part of the Gold Coast City Council, \n part of the Ipswich City Council, \n part of the Logan City Council, \n part of the Scenic Rim Regional Council, and \n part of the Southern Downs Regional Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities",
+      "nomenclature": "Named in honour of Judith Wright, 1915–2000, in recognition of her service and contributions to Australia as a poet, author and social and environmental activist. Ms Wright was founding president of the Wildlife Preservation Society of Queensland and a founding member of the Aboriginal Treaty Committee.",
+      "area": "7,577 sq km",
+      "industry": "Boutique tourism and a wide range of primary production activities.",
+      "memberKey": "BUCHHOLZ-SCOTT",
+      "partyKey": "LNQ"
+    }
   },
   {
     "key": "ADELAIDE",
     "name": "Adelaide",
     "abbrev": "AD",
-    "state": "SA"
+    "state": "SA",
+    "details": {
+      "key": "ADELAIDE",
+      "website": "http://aec.gov.au/adelaide",
+      "description": "The Division of Adelaide consists of:\n \n Adelaide City Council,\n City of Prospect,\n Corporation of the Town of Walkerville,\n part of the City of Burnside,\n part of the City of Charles Sturt,\n part of the City of Port Adelaide Enfield,\n part of the City of Unley, and \n part of the City of West Torrens",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs",
+      "nomenclature": "Named after the city covered by the electoral division. The city was named by King William IV after his Consort, Queen Adelaide.",
+      "area": "86 sq km",
+      "industry": "Adelaide central business district, Adelaide Oval, brewery, hospitals, light industry, markets, military barracks, South Australia Parliament, Government House and universities.",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "BARKER",
     "name": "Barker",
     "abbrev": "BA",
-    "state": "SA"
+    "state": "SA",
+    "details": {
+      "key": "BARKER",
+      "website": "http://aec.gov.au/barker",
+      "description": "The Division of Barker consists of: \n \n Berri Barmera Council,\n City of Mount Gambier,\n Coorong District Council,\n District Council of Grant, \n District Council of Karoonda East Murray,\n District Council of Loxton Waikerie,\n District Council of Robe,\n Kingston District Council,\n Naracoorte Lucindale Council,\n Mid Murray Council,\n Renmark Paringa Council,\n Rural City of Murray Bridge,\n Southern Mallee District Council,\n Tatiara District Council,\n Wattle Range Council,\n part of the Barossa Council,\n part of the Light Regional Council, \n part of the Outback Community Authority, and\n Unincorporated Riverland",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Captain Collet Barker, 1784–1831. Barker commanded the settlement at Fort Wellington in the Northern Territory and the penal settelement at King George Sound in Western Australia. It was on his return voyage to Sydney in 1831 that Barker explored the eastern shore of Gulf St Vincent, Mount Lofty and the mouth of the Murray River.",
+      "area": "65,206 sq km",
+      "industry": "Beef and dairy cattle, cropping, fishing, forestry, fresh and dried fruit, motor sports, paper products, sheep, timber, transport, tourism, vegetables and viticulture.",
+      "memberKey": "PASIN-TONY",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "BOOTHBY",
     "name": "Boothby",
     "abbrev": "BO",
-    "state": "SA"
+    "state": "SA",
+    "details": {
+      "key": "BOOTHBY",
+      "website": "http://aec.gov.au/boothby",
+      "description": "The Division of Boothby consists of: \n \n City of Holdfast Bay, \n part of the City of Marion,\n part of the City of Mitcham, and\n part of the City of Unley",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion",
+      "nomenclature": "Named in honour of William Robinson Boothby CMG, 1829–1903. Boothby introduced many electoral innovations in South Australia and from 1856 to 1903 superintended every State parliamentary election and drafted every Electoral Act in South Austalia. Boothby was State Returning Officer for the first House of Representatives election in South Australia in 1901 and, prior to his death, completed the 1903 redistribution of federal electoral divisions in South Australia.",
+      "area": "115 sq km",
+      "industry": "Major retailing, army camp and military barracks, tertiary education, tourism, several hospitals and various small industries.",
+      "memberKey": "FLINT-NICOLLE",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "GREY",
     "name": "Grey",
     "abbrev": "GR",
-    "state": "SA"
+    "state": "SA",
+    "details": {
+      "key": "GREY",
+      "website": "http://aec.gov.au/grey",
+      "description": "The Division of Grey consists of: \n \n Adelaide Plains Council,\n Anangu Pitjantjatjara Yankunytjatjara,\n City of Port Lincoln,\n Clare and Gilbert Valleys Council,\n Corporation of the City of Whyalla,\n District Council of Barunga West,\n District Council of Ceduna,\n District Council of Cleve,\n District Council of Coober Pedy,\n District Council of Elliston,\n District Council of Franklin Harbour,\n District Council of Kimba,\n District Council of Lower Eyre Peninsula,\n District Council of Mount Remarkable,\n District Council of Orroroo Carrieton,\n District Council of Peterborough,\n District Council of Streaky Bay,\n District Council of the Copper Coast\n District Council of Tumby Bay,\n Flinders Ranges Council,\n Maralinga Tjarutja,\n Municipal Council of Roxby Downs,\n Northern Areas Council,\n Port Augusta City Council,\n Port Pirie Regional Council,\n Regional Council of Goyder,\n Wakefield Regional Council,\n Wudinna District Council,\n Yorke Peninsula Council,\n part of Light Regional Council,\n Pastoral Unincorporated Area, and\n Unincorporated Area Whyalla",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Sir George Grey, 1812–98. Grey explored parts of north-western Australia and was Governor of South Australia (1841–45). As a delegate for New Zealand, Grey attended the 1891 National Australasian Convention, one of the conferences that led to the Commonwealth of Australia, and championed the principle of 'one man one vote'.",
+      "area": "908,595 sq km",
+      "industry": "Aquaculture, cattle, copper, fishing, gas, gypsum, iron ore, lead smelting, oil, opals, steel industry, salt, slate, tourism, uranium, viticulture, wheat and wool",
+      "memberKey": "RAMSEY-ROWAN",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "HINDMARSH",
     "name": "Hindmarsh",
     "abbrev": "HI",
-    "state": "SA"
+    "state": "SA",
+    "details": {
+      "key": "HINDMARSH",
+      "website": "http://aec.gov.au/hindmarsh",
+      "description": "The Division of Hindmarsh consists of: \n \n part of the City of Charles Sturt,\n part of the City of Port Adelaide Enfield, and\n part of the City of West Torrens",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Sir John Hindmarsh KH RN, 1785–60. Hindmarsh was the first Governor of the Colony of South Australia (1836–38).",
+      "area": "122 sq km",
+      "industry": "Aviation, cement, commercial fishing, electricity generation, flour mills, grain bulk handling, heavy engineering, major retailing, manufacturing industry, motion picture production, numerous sporting venues, petroleum storage, police academy, shipping, small industries, stevedoring, tourism, warship & submarine construction, waste disposal and wool stores.",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "KINGSTON",
     "name": "Kingston",
     "abbrev": "KI",
-    "state": "SA"
+    "state": "SA",
+    "details": {
+      "key": "KINGSTON",
+      "website": "http://aec.gov.au/kingston",
+      "description": "The Division of Kingston consists of: \n \n part of the City of Marion, and\n part of the City of Onkaparinga",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Charles Cameron Kingston, 1850–1908. Kingston was an active member of the Constitutional Conventions that led to the Commonwealth of Australia and a Member of the House of Representatives (1901–08).",
+      "area": "165 sq km",
+      "industry": "Construction, clothing, desalination plant, engineering, major retailing, optical lenses and various light industries",
+      "memberKey": "RISHWORTH-AMANDA",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "MAKIN",
     "name": "Makin",
     "abbrev": "MA",
-    "state": "SA"
+    "state": "SA",
+    "details": {
+      "key": "MAKIN",
+      "website": "http://aec.gov.au/makin",
+      "description": "The Division of Makin consists of: \n \n part of the City of Port Adelaide Enfield,\n part of the City of Salisbury, and\n part of the City of Tea Tree Gully",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of the Hon. Norman John Oswald Makin AO, 1889–1982. Makin was a Member of the House of Representatives (1919–46 and 1954–63) and Speaker of the House of Representatives (1929–31).",
+      "area": "162 sq km",
+      "industry": "Aviation, brick making, commercial and retail industry, higher education, hobby farmers, horse studs, light manufacturing, Modbury Hospital, tourism and wineries.",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "MAYO",
     "name": "Mayo",
     "abbrev": "MA",
-    "state": "SA"
+    "state": "SA",
+    "details": {
+      "key": "MAYO",
+      "website": "http://aec.gov.au/mayo",
+      "description": "The Division of Mayo consists of: \n \n Alexandrina Council,\n City of Victor Harbor,\n District Council of Yankalilla,\n Kangaroo Island Council,\n Mount Barker District Council,\n part of the Adelaide Hills Council,\n part of the City of Mitcham, and\n part of the City of Onkaparinga",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Dr Helen Mary Mayo OBE, 1878–1967. Mayo worked in the areas of maternal and child health and welfare in South Australia, was the first woman elected to an Australian University Council in 1914 and co-founded the Mothers' and Babies' Health Association in 1927.",
+      "area": "9,135 sq km",
+      "industry": "Apples, Army barracks at Woodside, beef, breweries, cereals, cherries, copper mines, dairying, forestry, natural spring water, pears, sheep, smallgoods, tourism and wine.",
+      "memberKey": "SHARKIE-REBEKHA",
+      "partyKey": "CA"
+    }
   },
   {
     "key": "SPENCE",
     "name": "Spence",
     "abbrev": "SP",
-    "state": "SA"
+    "state": "SA",
+    "details": {
+      "key": "SPENCE",
+      "website": "http://aec.gov.au/spence",
+      "description": "The Division of Spence consists of:\n \n City of Playford,\n Town of Gawler,\n part of the Barossa Council,\n part of the City of Salisbury, and\n part of the Light Regional Council",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion",
+      "nomenclature": "Named in honour of Catherine Helen Spence, 1825–1910. Spence was an advocate for female suffrage and electoral reform and was the first female political candidate in Australia when she stood (unsuccessfully) for a seat at the Federal Convention elections of 1897.",
+      "area": "532 sq km",
+      "industry": "Commercial, defence, Edinburgh RAAF Base, retail and technology based industry, Lyell McEwin Hospital, market gardens and viticulture."
+    }
   },
   {
     "key": "STURT",
     "name": "Sturt",
     "abbrev": "ST",
-    "state": "SA"
+    "state": "SA",
+    "details": {
+      "key": "STURT",
+      "website": "http://aec.gov.au/sturt",
+      "description": "The Division of Sturt consists of: \n \n Campbelltown City Council,\n City of Norwood Payneham and St Peters,\n part of Adelaide Hills Council,\n part of the City of Burnside,\n part of the City of Port Adelaide Enfield,\n part of the City of Tea Tree Gully, and\n part of the City of Unley",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs",
+      "nomenclature": "Named in honour of Captain Charles Sturt, 1795–1869. Sturt conducted several journeys of exploration into Australia's interior, served for a period as commandant of the garrison on Norfolk Island and served in the South Australian public service.",
+      "area": "97 sq km",
+      "industry": "Commercial and retail, light industry, University of South Australia campus and viticulture",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "BASS",
     "name": "Bass",
     "abbrev": "BA",
-    "state": "TAS"
+    "state": "TAS",
+    "details": {
+      "key": "BASS",
+      "website": "http://aec.gov.au/bass",
+      "description": "The Division of Bass is located on Launceston and consists of the:\n \n City of Launceston\n Municipality of Dorset\n Municipality of Flinders\n Municipality of George Town\n Municipality of West Tamar \n \n The Division of Bass includes Flinders Island.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of George Bass, 1771–1803. Bass was a surgeon, scientist and explorer who was one of those responsible for the early geographical investigation of the Australian coast. Bass’ explorations included the islands in Bass Strait, Tamar estuary, Derwent estuary and Mount Wellington.",
+      "area": "7,975.96 sq km",
+      "industry": "Aluminium and ferrous metal smelting, brewery, cattle (dairy and beef) farming, manufacturing, mining, ports and shipping, ship building, timber, tourism, fishing, wineries and wool.",
+      "memberKey": "HART-ROSS",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "BRADDON",
     "name": "Braddon",
     "abbrev": "BR",
-    "state": "TAS"
+    "state": "TAS",
+    "details": {
+      "key": "BRADDON",
+      "website": "http://aec.gov.au/braddon",
+      "description": "The Division of Braddon is focused on Burnie and Devonport and also consists of the:\n \n City of Burnie\n Municipality of Central Coast\n Municipality of Circular Head\n City of Devonport\n Municipality of King Island\n Municipality of Latrobe\n Municipality of Waratah-Wynard, and\n Municipality of West Coast\n \n The Division of Braddon includes King Island.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Sir Edward Nicholas Coventry Braddon KCMG, 1829–1904, who was an active member of the Constitutional Conventions that led to the Commonwealth of Australia. Between 1901 and 1904 Sir Edward Braddon was elected as one of the first Members of the House of Representatives as a member for Tasmania and later for the Division of Wilmot. Prior to this, Sir Edward Braddon served as Agent-General for Tasmania and was a member of the Tasmanian House of Assembly and Premier of Tasmania.",
+      "area": "21,369.24 sq km",
+      "industry": "Forestry, fishing, aquaculture, kelp harvesting, dairying, beef cattle production, and vegetable, poppy and pyrethrum growing are major primary industries. Vegetable processing, cheese manufacture, sawmilling and woodchipping complement these activities. Mining and tourism are major industries in Braddon.",
+      "memberKey": "KEAY-JUSTINE",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "CLARK",
     "name": "Clark",
     "abbrev": "CL",
-    "state": "TAS"
+    "state": "TAS",
+    "details": {
+      "key": "CLARK",
+      "website": "http://aec.gov.au/clark",
+      "description": "The Division of Clark is centred on Hobart and consists of the:\n \n City of Glenorchy\n City of Hobart, and\n part of the Municipality of Kingborough",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Andrew Inglis Clark, 1848–1907, in recognition of his contributions to the political and legal systems which have had a lasting and perpetual impact on Australia through his involvement with Federation and the development of the Australian Constitution.",
+      "area": "292.26 sq km",
+      "industry": "Banking and retail, chocolate and confectionery, catamaran construction, brewery, zinc works, food and timber processing, heavy transport, wholesale trade, engineering works, glass products and port facilities at Hobart."
+    }
   },
   {
     "key": "FRANKLIN",
     "name": "Franklin",
     "abbrev": "FR",
-    "state": "TAS"
+    "state": "TAS",
+    "details": {
+      "key": "FRANKLIN",
+      "website": "http://aec.gov.au/franklin",
+      "description": "The Division of Franklin consists of the:\n \n Municipality of Huon Valley,\n part of the City of Clarence, and\n part of the Municipality of Kingborough.\n \n The Division of Franklin includes Macquarie Island.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion",
+      "nomenclature": "Named in honour of Sir John Franklin KCH RN, 1786–1847, Lieutenant-Governor of Van Diemen’s Land (1837–43), in recognition of his service to the colony.",
+      "area": "10,009.23 sq km",
+      "industry": "Apples, pears, small fruits, aquaculture, fishing, beef cattle, sheep, forestry, cottage industry, vineyards and tourism.",
+      "memberKey": "COLLINS-JULIE",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "LYONS",
     "name": "Lyons",
     "abbrev": "LY",
-    "state": "TAS"
+    "state": "TAS",
+    "details": {
+      "key": "LYONS",
+      "website": "http://aec.gov.au/lyons",
+      "description": "The Division of Lyons consists of the:\n \n Municipality of Break O’Day\n Municipality of Brighton\n Municipality of Central Highlands\n Municipality of Derwent Valley\n Municipality of Glamorgan-Spring Bay\n Municipality of Kentish\n Municipality of Meander Valley\n Municipality of Northern Midlands\n Municipality of Sorell\n Municipality of Southern Midlands\n Municipality of Tasman\n part of the City of Clarence",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Jointly named in honour of:\n \n Joseph Aloysius Lyons CH, 1879–1939, Prime Minister of Australia (1932–39) and a Member of the House of Representatives (1929–39), and\n Dame Enid Muriel Lyons, DGBE(C) AD, 1897–1981, first woman member of the House of Representatives (1943-51) and first woman to hold Cabinet rank as Vice-President of the Executive Council (1949–51)",
+      "area": "35,721.83 sq km",
+      "industry": "Fishing, forestry, wool, cattle (dairy and beef), fruit, wine, hydro-power generation, mining and tourism.",
+      "memberKey": "MITCHELL-BRIAN",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "ASTON",
     "name": "Aston",
     "abbrev": "AS",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "ASTON",
+      "website": "http://aec.gov.au/aston",
+      "description": "The Division of Aston consists of Knox City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Matilda 'Tilly' Ann Aston, 1873–1947. Aston was a blind writer and teacher who founded the Victorian Association of Braille Writers in 1894 and the Association for the Advancement of the Blind. Aston was also the head of the School for the Blind.",
+      "area": "113 sq km",
+      "industry": "Light industry, including electronics, chemical production, food manufacturing, retail and healthcare services.",
+      "memberKey": "TUDGE-ALAN",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "BALLARAT",
     "name": "Ballarat",
     "abbrev": "BA",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "BALLARAT",
+      "website": "http://aec.gov.au/ballarat",
+      "description": "The Division of Ballarat consists of:\n \n Ballarat City Council,\n Hepburn Shire Council, and\n Moorabool Shire Council.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named after the city covered by the electoral division. The name of the city is believed to be derived from the Aborignal word 'balaarat' meaning resting place or reclining on elbow.",
+      "area": "4,322 sq km",
+      "industry": "Agriculture and farming including beef cattle, sheep, fruit and vegetable production, gold mining, education and training, professional, scientific and technical services, health care, tourism and retail.",
+      "memberKey": "KING-CATHERINE",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "BENDIGO",
     "name": "Bendigo",
     "abbrev": "BE",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "BENDIGO",
+      "website": "http://aec.gov.au/bendigo",
+      "description": "The Division of Bendigo consists of:\n \n Greater Bendigo City Council,\n Mount Alexander Shire Council,\n part of the Macedon Ranges Shire Council, and\n part of the Mitchell Shire Council.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named after the city covered by the electoral division. The city is named after a Ravenswood shepherd who was nicknamed 'Bendigo' after an English pugilist, Abednego William Thompson.",
+      "area": "5,496 sq km",
+      "industry": "Administrative, commercial and educational. Farming, agricultural and viticultural, gold mining and other extractive industries.",
+      "memberKey": "CHESTERS-LISA",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "BRUCE",
     "name": "Bruce",
     "abbrev": "BR",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "BRUCE",
+      "website": "http://aec.gov.au/bruce",
+      "description": "The Division of Bruce consists of:\n \n part of the Casey City Council, and\n part of the Greater Dandenong City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of the Rt Hon. Lord Stanley Melbourne Bruce CH MC, 1883–1967. Bruce was Prime Minister of Australia (1923–29) and a Member of the House of Representatives (1918–29 and 1931–33).",
+      "area": "95 sq km",
+      "industry": "Commercial, warehousing, light engineering, manufacturing, transport and retail.",
+      "memberKey": "HILL-JULIAN",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "CALWELL",
     "name": "Calwell",
     "abbrev": "CA",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "CALWELL",
+      "website": "http://aec.gov.au/calwell",
+      "description": "The Division of Calwell consists of:\n \n part of the Brimbank City Council, and\n part of the Hume City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Arthur Augustus Calwell, 1896–1973. Calwell was a Member of the House of Representatives (1940–72).",
+      "area": "265 sq km",
+      "industry": "Manufacturing, food processing, transport and freight, postal and warehousing, retail, construction, aviation, education and training, and tourism.",
+      "memberKey": "VAMVAKINOU-MARIA",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "CASEY",
     "name": "Casey",
     "abbrev": "CA",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "CASEY",
+      "website": "http://aec.gov.au/casey",
+      "description": "The Division of Casey consists of part of the Yarra Ranges Shire Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Lord Richard Gavin Gardiner Casey KG GCMG CH DSO MC PC, 1890–1976. Casey was a Member of the House of Representatives (1931–40 and 1949–60) and Governor-General of Australia (1965–69).",
+      "area": "2,466 sq km",
+      "industry": "Agriculture and farming including orchards, nurseries, flower farms, market gardens and vineyards, manufacturing, education and training, health care, retail and tourism.",
+      "memberKey": "SMITH-TONY",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "CHISHOLM",
     "name": "Chisholm",
     "abbrev": "CH",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "CHISHOLM",
+      "website": "http://aec.gov.au/chisholm",
+      "description": "The Division of Chisholm consists of:\n \n part of the Monash City Council, and\n part of the Whitehorse City Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Caroline Chisholm, 1808–77. Chisholm was known for her work in encouraging emigration to Australia, her social work in New South Wales and Victoria, paticularly with immigrant girls, and the buidling of a series of shelter sheds along the routes to the diggings in the Victorian goldfields.",
+      "area": "65 sq km",
+      "industry": "Light and heavy industries including warehouses and metal, transport, education, and retail.",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "COOPER",
     "name": "Cooper",
     "abbrev": "CO",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "COOPER",
+      "website": "http://aec.gov.au/cooper",
+      "description": "The Division of Cooper consists of:\n \n Darebin City Council,\n part of the Moreland City Council, and\n part of the Yarra City Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of William Cooper, 1861–1941. Cooper was a Yorta Yorta man who as a spokesman for Aboriginal people called for direct representation in parliament, enfranchisement, land rights and federal control of Aboriginal affairs.",
+      "area": "60 sq km",
+      "industry": "Retail, manufacturing, education and training, transport, textiles, clothing and footwear, warehousing, construction and healthcare."
+    }
   },
   {
     "key": "CORANGAMITE",
     "name": "Corangamite",
     "abbrev": "CO",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "CORANGAMITE",
+      "website": "http://aec.gov.au/corangamite",
+      "description": "The Division of Corangamite consists of:\n \n Borough of Queenscliff\n Surf Coast Shire Council,\n part of the Colac Otway Shire Council,\n part of the Golden Plains Shire Council, and\n part of the Greater Geelong City Council.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named after the geographic area covered at one time by the electoral division. 'Corangamite' is believed to be derived from the Gulidjan word for 'bitter water'.",
+      "area": "5,441 sq km",
+      "industry": "Tourism, retail, healthcare, agriculture, food production and processing, manufacturing and commercial fishing.",
+      "memberKey": "HENDERSON-SARAH",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "CORIO",
     "name": "Corio",
     "abbrev": "CO",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "CORIO",
+      "website": "http://aec.gov.au/corio",
+      "description": "The Division of Corio consists of part of the Greater Geelong City Council.",
+      "demographic": "Provincial – outside capital cities, but with a majority of enrolment in major provincial cities.",
+      "nomenclature": "Named after the geographic area covered by the electoral division. 'Corio' is beleved to have originated from an Aboriginal word 'coraiyo' meaning small marsupial or sandy cliffs or from the Aboriginal word 'Korayn' meaning salt.",
+      "area": "773 sq km",
+      "industry": "Health and allied services, education and research, manufacturing, tourism, agribusiness, construction and business services.",
+      "memberKey": "MARLES-RICHARD",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "DEAKIN",
     "name": "Deakin",
     "abbrev": "DE",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "DEAKIN",
+      "website": "http://aec.gov.au/deakin",
+      "description": "The Division of Deakin consists of:\n \n part of the Manningham City Council,\n part of the Maroondah City Council, and \n part of the Whitehorse City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of the Hon. Alfred Deakin, 1856–1919. Deakin was an active member of the Constitutional Conventions that led to the Commonwealth of Australia, Prime Minister of Australia (1903–04, 1905–08 and 1909–10) and a Member of the House of Representatives (1901–13).",
+      "area": "79 sq km",
+      "industry": "Light manufacturing, commercial and retail industries, and education.",
+      "memberKey": "SUKKAR-MICHAEL",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "DUNKLEY",
     "name": "Dunkley",
     "abbrev": "DU",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "DUNKLEY",
+      "website": "http://aec.gov.au/dunkley",
+      "description": "The Division of Dunkley consists of:\n \n Frankston City Council, and\n part of the Mornington Peninsula Shire Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Louisa Margaret Dunkley, 1866–1927. Dunkley was a union leader and feminist who founded the Victorian Women's Post and Telegraph Association in 1900 and campaigned for equal pay for women.",
+      "area": "152 sq km",
+      "industry": "Light industry, commercial and retail.",
+      "memberKey": "CREWTHER-CHRIS",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "FLINDERS",
     "name": "Flinders",
     "abbrev": "FL",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "FLINDERS",
+      "website": "http://aec.gov.au/flinders",
+      "description": "The Division of Flinders consists of:\n \n part of the Mornington Peninsula Shire Council, and\n The unincorporated areas of Elizabeth, French, and Sandstone Islands.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Matthew Flinders, 1774–1814. Flinders was a well-known navigator and explorer who charted parts of the Australian coast. The adoption of the name Australia is due to him.",
+      "area": "871 sq km",
+      "industry": "Healthcare, retail, dairy farms, fishing, poultry, orchards, light industries, education and training, wineries, and tourism.",
+      "memberKey": "HUNT-GREG",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "FRASER",
     "name": "Fraser",
     "abbrev": "FR",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "FRASER",
+      "website": "http://aec.gov.au/fraser",
+      "description": "The Division of Fraser consists of:\n \n part of the Brimbank City Council, and\n part of the Maribyrnong City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of the Rt Hon. John Malcom Fraser AC CH, 1930–2015. Fraser was Prime Minister of Australia (1975–83) and a Member of the House of Representatives (1955–83).",
+      "area": "106 sq km",
+      "industry": "Manufacturing, wholesale trade, construction, transport and warehousing, retail trade, health care and education. Major industrial areas are located in the eastern and southern parts of the division."
+    }
   },
   {
     "key": "GELLIBRAND",
     "name": "Gellibrand",
     "abbrev": "GE",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "GELLIBRAND",
+      "website": "http://aec.gov.au/gellibrand",
+      "description": "The Division of Gellibrand consists of:\n \n Hobsons Bay City Council,\n part of the Maribyrnong City Council, and\n part of Wyndham City Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Joseph Gellibrand, 1786–1836. Gellibrand was a lawyer and explorer.",
+      "area": "124 sq km",
+      "industry": "Manufacturing, transportation and warehousing, construction, food processing, education and training, healthcare, tourism and retail.",
+      "memberKey": "WATTS-TIM",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "GIPPSLAND",
     "name": "Gippsland",
     "abbrev": "GI",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "GIPPSLAND",
+      "website": "http://aec.gov.au/gippsland",
+      "description": "The Division of Gippsland consists of:\n \n East Gippsland Shire Council,\n Wellington Shire Council,\n part of Baw Baw Shire Council,\n part of Latrobe City Council, and\n The unincorporated area of Gabo Island.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named after the geographic area covered by the electoral division. The south-east region of Victoria was named in March 1840 to honour Sir George Gipps who was Governor of New South Wales at the time.",
+      "area": "33,182 sq km",
+      "industry": "Farming and agriculture, gas and electricity, mining, health care, retail, education and training, and correctional and defence services, tourism, forestry and fishing.",
+      "memberKey": "CHESTER-DARREN",
+      "partyKey": "NP"
+    }
   },
   {
     "key": "GOLDSTEIN",
     "name": "Goldstein",
     "abbrev": "GO",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "GOLDSTEIN",
+      "website": "http://aec.gov.au/goldstein",
+      "description": "The Division of Goldstein consists of:\n \n Bayside City Council, and\n part of Glen Eira City Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Vida Jane Goldstein, 1869–1949. Goldstein was a suffragist, feminist and invovled in social welfare. As a Senate candidate in 1903, Goldstein was one of the first women in the British Empire to be nominated for and to stand for election to a national parliament. Goldstein made a further four attempts to be elected to Federal parliament.",
+      "area": "50 sq km",
+      "industry": "Light industrial and commercial activities and retail trade.",
+      "memberKey": "WILSON-TIM",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "GORTON",
     "name": "Gorton",
     "abbrev": "GO",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "GORTON",
+      "website": "http://aec.gov.au/gorton",
+      "description": "The Division of Gorton consists of:\n \n Melton City Council, and\n part of Brimbank City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of the Rt Hon. Sir John Grey Gorton GCMG AC CH, 1911-2002. Gorton was Prime Minister of Australia (1968–71), a Senator for Victoria (1949–68) and a Member of the House of Representatives (1968–75).",
+      "area": "540 sq km",
+      "industry": "Harness racing, horse training and breeding facilities, retail, construction, health care, transport and warehousing.",
+      "memberKey": "OCONNOR-BRENDAN",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "HIGGINS",
     "name": "Higgins",
     "abbrev": "HI",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "HIGGINS",
+      "website": "http://aec.gov.au/higgins",
+      "description": "The Division of Higgins consists of:\n \n part of the Boroondara City Council,\n part of the Glen Eira City Council,\n part of the Monash City Council, and\n part of the Stonnington City Council",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Henry Bournes Higgins KC, 1851–1929. Higgins was an active member of the Constitutional Conventions that led to the Commonwealth of Australia, Member of the House of Representatives (1901–06), a Justice of the High Court (1906–29) and President of the Commonwealth Conciliation and Arbitration Court (1907–21). Higgins is known for the Harvester Decision.",
+      "area": "41 sq km",
+      "industry": "Retail, health care, food services and education.",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "HOLT",
     "name": "Holt",
     "abbrev": "HO",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "HOLT",
+      "website": "http://aec.gov.au/holt",
+      "description": "The Division of Holt consists of part of the Casey City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of the Rt Hon. Harold Edward Holt CH, 1908–67. Holt was Prime Minister of Australia (1966–67) and a Member of the House of Representatives (1935–67).",
+      "area": "266 sq km",
+      "industry": "Light industry, retail, education and training, manufacturing, health care and construction.",
+      "memberKey": "BYRNE-ANTHONY",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "HOTHAM",
     "name": "Hotham",
     "abbrev": "HO",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "HOTHAM",
+      "website": "http://aec.gov.au/hotham",
+      "description": "The Division of Hotham consists of:\n \n part of the Glen Eira City Council,\n part of the Greater Dandenong City Council,\n part of the Kingston City Council, and \n part of the Monash City Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named after Sir Charles Hotham RN KCB, 1806–55. Hotham was Lieutenant-Governor of Victoria (1854-55) and the first Governor of Victoria (1855).",
+      "area": "83 sq km",
+      "industry": "Retail, health care, food services and education.",
+      "memberKey": "ONEIL-CLARE",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "INDI",
     "name": "Indi",
     "abbrev": "IN",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "INDI",
+      "website": "http://aec.gov.au/indi",
+      "description": "The Division of Indi consists of:\n \n Alpine Shire Council,\n Benalla Rural City Council,\n Indigo Shire Council,\n Mansfield Shire Council,\n Murrindindi Shire Council,\n Towong Shire Council,\n Wangaratta Rural City Council,\n Wodonga Rural City Council,\n part of the Strathbogie Shire Council,\n the unincorporated area of Falls Creek Alpine Resort,\n the unincorporated area of Lake Mountain Alpine Resort,\n the unincorporated area of Mount Buller Alpine Resort, and\n the unincorporated area of Mount Hotham Alpine Resort.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named after an Aboriginal name for the Murray River.",
+      "area": "29,187 sq km",
+      "industry": "Tourism, forestry, wood chipping, viticulture, agriculture, timber processing and manufacturing.",
+      "partyKey": "IND"
+    }
   },
   {
     "key": "ISAACS",
     "name": "Isaacs",
     "abbrev": "IS",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "ISAACS",
+      "website": "http://aec.gov.au/isaacs",
+      "description": "The Division of Isaacs consists of:\n \n part of the Greater Dandenong City Council, and\n part of the Kingston City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Sir Isaac Alfred Isaacs GCB GCMG KCMG PC QC, 1855–1948. Isaacs was an active member of the Constitutional Conventions that led to the Commonwealth of Australia, Member of the House of Representatives (1901–06), a Justice of the High Court (1906–30), Chief Justice of the High Court (1930–31) and the first Australian Governor-General of Australia (1931–36).",
+      "area": "155 sq km",
+      "industry": "Light manufacturing, aviation and retail.",
+      "memberKey": "DREYFUS-MARK",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "JAGAJAGA",
     "name": "Jagajaga",
     "abbrev": "JA",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "JAGAJAGA",
+      "website": "http://aec.gov.au/jagajaga",
+      "description": "The Division of Jagajaga consists of:\n \n Banyule City Council, and\n part of the Nillumbik Shire Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of the three principal Aboriginal elders who signed a treaty with John Batman in 1835 which intended to give the white settlers 500,000 acres of land at the north-west end of Port Phillip Bay and 100,000 acres around Geelong.",
+      "area": "104 sq km",
+      "industry": "Commercial and light industrial area which includes construction, and retail trade.",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "KOOYONG",
     "name": "Kooyong",
     "abbrev": "KO",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "KOOYONG",
+      "website": "http://aec.gov.au/kooyong",
+      "description": "The Division of Kooyong consists of:\n \n part of the Boroondara City Council, and\n part of the Whitehorse City Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named after the geographic location covered at one time by the electoral division. 'Kooyong' is believed to be an Aboriginal word for camp or resting place or possibly derived from the word 'guyun' meaning fighting spear.",
+      "area": "55 sq km",
+      "industry": "Retail, health care, education and training.",
+      "memberKey": "FRYDENBERG-JOSH",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "LA-TROBE",
     "name": "La Trobe",
     "abbrev": "LA",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "LA-TROBE",
+      "website": "http://aec.gov.au/la trobe",
+      "description": "The Division of La Trobe consists of:\n \n part of the Cardinia Shire Council, \n part of the Casey City Council, and\n part of the Yarra Ranges Shire Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Charles Joseph La Trobe, 1801–75. La Trobe was the first Lieutenant-Governor of the Colony of Victoria (1851–54).",
+      "area": "748 sq km",
+      "industry": "Agriculture and horticulture, including dairy and beef farming and vegetable production, construction, education and training, retail and tourism.",
+      "memberKey": "WOOD-JASON",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "LALOR",
     "name": "Lalor",
     "abbrev": "LA",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "LALOR",
+      "website": "http://aec.gov.au/lalor",
+      "description": "The Division of Lalor consists of part of the Wyndham City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Peter Lalor, 1827–89. Lalor was leader of the Eureka Stockade rebellion in Ballarat in 1854. In 1855 he was one of the first representatives from the goldfields elected to the Victorian Legislative Council.",
+      "area": "493 sq km",
+      "industry": "Melbourne's water treatment plant, market gardening, manufacturing, transportation and warehousing, construction, retail, education and training, health care and tourism.",
+      "memberKey": "RYAN-JOANNE",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "MACNAMARA",
     "name": "Macnamara",
     "abbrev": "MA",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "MACNAMARA",
+      "website": "http://aec.gov.au/macnamara",
+      "description": "The Division of Macnamara consists of:\n \n Port Phillip City Council,\n part of Glen Eira City Council,\n part of Melbourne City Council, and\n part of Stonnington City Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Dame Annie Jean Macnamara DBE, 1899–1968. Macnamara was a medical researcher and doctor who discovered there was more than one type of the polio virus and worked extensively with children suffering from poliomyelitis, training doctors and physiotherapists in the management of the disease.",
+      "area": "41 sq km",
+      "industry": "Manufacturing, commercial and retail enterprises and tourism."
+    }
   },
   {
     "key": "MALLEE",
     "name": "Mallee",
     "abbrev": "MA",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "MALLEE",
+      "website": "http://aec.gov.au/mallee",
+      "description": "The Division of Mallee consists of:\n \n Buloke Shire Council,\n Central Goldfields Shire Council,\n Gannawarra Shire Council,\n Hindmarsh Shire Council,\n Horsham Rural City Council,\n Loddon Shire Council,\n Mildura Rural City Council,\n Swan Hill Rural City Council,\n West Wimmera Shire Council,\n Yarriambiack Shire Council,\n part of the Northern Grampians Shire Council, and\n part of the Pyrenees Shire Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named after the georaphic location covered by the electoral division. 'Mallee' is believe to be an Aboriginal word for dwarf eucalypts which grow in the area.",
+      "area": "81,962 sq km",
+      "industry": "Dried fruit, citrus and stone fruit, wheat and cereals, wool, sheep, vegetables, vineyards, olive oil, dairy and beef cattle, meat works, mining and flour milling.",
+      "partyKey": "NP"
+    }
   },
   {
     "key": "MARIBYRNONG",
     "name": "Maribyrnong",
     "abbrev": "MA",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "MARIBYRNONG",
+      "website": "http://aec.gov.au/maribyrnong",
+      "description": "The Division of Maribyrnong consists of:\n \n Moonee Valley City Council,\n Part of the Brimbank City Council,\n Part of the Hume City Council,\n Part of the Maribyrnong City Council, and\n Part of the Melbourne City Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named after the Maribyrnong River. The name 'Maribyrnong' is variously believed to be:\n \n an Aboriginal word for 'yam' or 'edible root', or\n derived from the Woiwaurrung word 'Mirrangbamurn', with 'mirrang' meaning eye and 'barmurn' meaning ringtail possum, or\n from the traditional name 'Mareingalk', country belonging to the Mareinbulluc",
+      "area": "64 sq km",
+      "industry": "Retail, health care, education and training.",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "MCEWEN",
     "name": "McEwen",
     "abbrev": "MC",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "MCEWEN",
+      "website": "http://aec.gov.au/mcewen",
+      "description": "The Division of McEwen consists of:\n \n part of the Hume City Council,\n part of the Macedon Ranges Shire Council,\n part of the Mitchell Shire Council,\n part of the Nillumbik Shire Council, and\n part of the Whittlesea City Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of the Rt Hon. Sir John McEwen GCMG CH, 1900–80. McEwen was Prime Minister of Australia (1967–68) and a Member of the House of Representatives (1934–71).",
+      "area": "2,670 sq km",
+      "industry": "Cattle grazing, wool growing, market gardening, wines, dairying, various small businesses and tourism.",
+      "memberKey": "MITCHELL-ROB",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "MELBOURNE",
     "name": "Melbourne",
     "abbrev": "ME",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "MELBOURNE",
+      "website": "http://aec.gov.au/melbourne",
+      "description": "The Division of Melbourne consists of:\n \n part of the Melbourne City Council,\n part of the Moonee Valley City Council,\n part of the Moreland City Council, and\n part of the Yarra City Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named after the City of Melbourne. The settlement of Port Phillip was named 'Melbourne' on 5 March 1837 in honour of Lord Melbourne who was the Prime Minister of Great Britain at the time.",
+      "area": "40 sq km",
+      "industry": "Professional, scientific and technical services, financial services, accommodation and food services, health care, education and training, retail and manufacturing.",
+      "memberKey": "BANDT-ADAM",
+      "partyKey": "GRN"
+    }
   },
   {
     "key": "MENZIES",
     "name": "Menzies",
     "abbrev": "ME",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "MENZIES",
+      "website": "http://aec.gov.au/menzies",
+      "description": "The Division of Menzies consists of:\n \n Part of Manningham City Council,\n Part of the Maroondah City Council, and\n Part of the Nillumbik City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of the Rt Hon. Sir Robert Gordon Menzies KT CH QC, 1894–1978. Menzies was Prime Minister of Australia (1939–41 and 1949–66) and a Member of the House of Representatives (1934–66).",
+      "area": "184 sq km",
+      "industry": "Retail, healthcare, education and training, manufacturing and various light industries.",
+      "memberKey": "ANDREWS-KEVIN",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "MONASH",
     "name": "Monash",
     "abbrev": "MO",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "MONASH",
+      "website": "http://aec.gov.au/monash",
+      "description": "The Division of Monash consists of:\n \n Bass Coast Shire Council,\n South Gippsland Shire Council,\n part of the Cardinia Shire Council,\n part of the Latrobe City Council,\n part of the Baw Baw Shire Council, and\n the unincorporated area of Mount Baw Baw Alpine Resort.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Sir John Monash CB(M) KCB(M) GCMG, 1865–1931. Monash was one of the foremost Allied military commanders of the First World War and was recognised for his outstanding contributions to the community.",
+      "area": "8,879 sq km",
+      "industry": "Dairy farming, agriculture, wineries, fishing, construction, food services, manufacturing, transportation and tourism."
+    }
   },
   {
     "key": "NICHOLLS",
     "name": "Nicholls",
     "abbrev": "NI",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "NICHOLLS",
+      "website": "http://aec.gov.au/nicholls",
+      "description": "The Division of Nicholls consists of:\n \n Campaspe Shire Council,\n Greater Shepparton City Council,\n Moira Shire Council,\n part of the Mitchell Shire Council, and\n part of the Strathbogie Shire Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "In recognition of their significant contribution in advocating for Aboriginal rights and welfare, the electoral divison is jointly named in honour of:\n \n Sir Douglas Ralph Nicholls MBE(C) OBE(C) KCVO, 1906–88, a Yorta Yorta, Baraparapa, Dja Dja Wurrung, Jupagalk and Wergaia man, and\n Lady Gladys Nicholls, 1906–81, a Baraparapa and Dja Dja Wurrung woman.",
+      "area": "14,768 sq km",
+      "industry": "Dairy farming and agriculture including wineries and orchards, food processing, health care, education and training , and retail."
+    }
   },
   {
     "key": "SCULLIN",
     "name": "Scullin",
     "abbrev": "SC",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "SCULLIN",
+      "website": "http://aec.gov.au/scullin",
+      "description": "The Division of Scullin consists of part of the Whittlesea City Council.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of the Rt Hon. James Henry Scullin, 1876–1953. Scullin was Prime Minister of Australia (1929–32) and a Member of the House of Representatives (1910–13 and 1922–49).",
+      "area": "116 sq km",
+      "industry": "Manufacturing, light industrial, food processing, packaging and distribution, health and education.",
+      "memberKey": "GILES-ANDREW",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "WANNON",
     "name": "Wannon",
     "abbrev": "WA",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "WANNON",
+      "website": "http://aec.gov.au/wannon",
+      "description": "The Division of Wannon consists of:\n \n Ararat Rural City Council,\n Corangamite Shire Council,\n Glenelg Shire Council,\n Moyne Shire Council,\n Southern Grampians Shire Council,\n Warrnambool City Council,\n part of the Colac Otway Shire Council,\n part of the Golden Plains Shire Council,\n part of the Northern Grampians Shire Council, and\n part of the Pyrenees Shire Council.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named after the Wannon River. The name 'Wannon' is believed to have been obtained by Major Mitchell from the local Jardwadjali people.",
+      "area": "33,419 sq km",
+      "industry": "Agriculture and farming including dairy and beef, lamb and wool production, wineries, forestry, fishing, power generation and wind farms, aluminium smelting, mining, retail and tourism.",
+      "memberKey": "TEHAN-DAN",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "WILLS",
     "name": "Wills",
     "abbrev": "WI",
-    "state": "VIC"
+    "state": "VIC",
+    "details": {
+      "key": "WILLS",
+      "website": "http://aec.gov.au/wills",
+      "description": "The Division of Wills consists of part of the Moreland City Council.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of William John Wills, 1834–61. Wills was the surveyor and astronomer of an ultimately unsuccessful 1860 government expedition to cross Australia from Melbourne to the Gulf of Carpentaria.",
+      "area": "46 sq km",
+      "industry": "Paper, tiles, clothing manufacturing, steel, paints, glass, textiles, Australian Defence Industries, joinery, electrical goods, retail and hardware industries.",
+      "memberKey": "KHALIL-PETER",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "BRAND",
     "name": "Brand",
     "abbrev": "BR",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "BRAND",
+      "website": "http://aec.gov.au/brand",
+      "description": "Brand covers the Shire of Kwinana and the City of Rockingham including Garden Island. The main suburbs include Anketell, Baldivis, Bertram, Calista, Casuarina, Cooloongup, East Rockingham, Golden Bay, Hillman, Hope Valley, Karnup, Keralup (part), Kwinana Beach, Kwinana Town Centre, Leda, Mandogalup, Medina, Naval Base, Orelia, Parmelia, Peron, Port Kennedy, Postans, Rockingham, Safety Bay, Secret Harbour, Singleton, Shoalwater, The Spectacles, Waikiki, Wandi, Warnbro and Wellard.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Sir David Brand KCMG, 1912–79. Brand was Premier of Western Australia (1959–71).",
+      "area": "377 sq km",
+      "industry": "Heavy industry in the Kwinana industrial area, alumina refining, medical, construction, retail trade and the naval base, HMAS Stirling, on Garden Island.",
+      "memberKey": "KING-MADELEINE",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "BURT",
     "name": "Burt",
     "abbrev": "BU",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "BURT",
+      "website": "http://aec.gov.au/burt",
+      "description": "Burt covers parts of the Cities of Armadale, Canning and Gosnells. The division is constructed from suburbs in the south-east metropolitan areas of Perth including the suburbs of Armadale (part), Brookdale, Camillo, Canning Vale, Champion Lakes, Forrestdale, Gosnells (part), Harrisdale, Haynes, Hilbert (part), Huntingdale, Kelmscott, Langford, Mount Nasura, Piara Waters, Seville Grove, Southern River, Thornlie and Wungong (part).",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named to honour succeeding generations of the Burt family for their signifcant contributions to the justice system and for their wider contributions to public service, specifically:\n \n Sir Archibald Paull Burt KT, 1810–79, who was appointed the first Chief Justice of the Supreme Court of Western Australia in 1861,\n Septimus Burt, 1847–1919, whose public roles included that of Attorney-General of the colony of Western Australia (1890–97) at the time of colonial self-government, and\n The Honourable Sir Francis Theodore Page Burt AC KCMG QC, 1918–2004, who served as a judge of the Supreme Court of Western Australia, Chief Justice of Western Australia, Lieutenant Governor of Western Australia and Governor of Western Australia (1990–93).",
+      "area": "172 sq km",
+      "industry": "Light industry, commercial, medical and retail trade, construction and manufacturing.",
+      "memberKey": "KEOGH-MATT",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "CANNING",
     "name": "Canning",
     "abbrev": "CA",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "CANNING",
+      "website": "http://aec.gov.au/canning",
+      "description": "Canning covers an area from the south-east metropolitan areas of Perth to the adjoining rural areas in the east and south. It encompasses the Cities of Armadale (part) and Mandurah and the Shires of Boddington, Kalamunda (part), Murray, Serpentine-Jarrahdale and Waroona. It includes the boundary suburbs of Armadale (part), Ashendon, Bannister (part), Bedfordale, Byford, Canning Mills, Carmel, Crossman, Darling Downs, Gosnells (part), Hilbert (part), Hopeland, Jarrahdale, Keralup (part), Keysbrook, Lake Clifton, Lakelands, Lesley, Lower Hotham, Madora Bay, Mardella, Marradong, Martin, Mount Richon, Mount Wells, Nanga Brook, Oakford, Oldbury, Orange Grove, Pickering Brook, Preston Beach, Quindanning, Roleystone, Solus, Stake Hill, Upper Murray, Wagerup, Wungong (part), and Wuraming.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Alfred Wernam Canning, 1860–1936. Canning was a surveyor who surveyed routes for a rabbit-proof fence from Starvation Harbour to Cape Keraudren and stockroutes to bring cattle from the Kimberley district to feed those working the Western Australian goldfields.",
+      "area": "6,304 sq km",
+      "industry": "Some heavy and light industry, mining, agriculture, recreation, tourism and forestry.",
+      "memberKey": "HASTIE-ANDREW",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "COWAN",
     "name": "Cowan",
     "abbrev": "CO",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "COWAN",
+      "website": "http://aec.gov.au/cowan",
+      "description": "Cowan covers an area from Tapping and Wanneroo in the north to Kiara and Lockridge in the south. The division covers the City of Joondalup, the City of Wanneroo and the City of Swan. It includes the suburbs of Alexander Heights, Ashby, Ballajura, Beechboro, Bennett Springs, Cullacabardee, Darch, Girrawheen, Gnangara, Greenwood, Hocking, Jandabup, Kiara, Kingsley (part), Koondoola, Landsdale, Lockridge, Madeley, Malaga, Marangaroo, Pearsall, Sinagra, Tapping, Wangara, Wanneroo, Warwick and Whiteman.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Edith Dircksey Cowan OBE, 1861–1932. Cowan was the first woman elected to any Parliament in Australia, state or Commonwealth, when she was elected in 1921 as the Member for West Perth in the Western Australian Legislative Assembly.",
+      "area": "180 sq km",
+      "industry": "Mainly retail and service industries, with some light industry, manufacturing and market gardens.",
+      "memberKey": "ALY-ANNE",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "CURTIN",
     "name": "Curtin",
     "abbrev": "CU",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "CURTIN",
+      "website": "http://aec.gov.au/curtin",
+      "description": "Curtin covers an area west of Perth, bordered by the Indian Ocean in the west and the Swan River in the south. The suburbs include Churchlands, City Beach, Claremont, Cottesloe, Crawley, Daglish, Dalkeith, Doubleview, Floreat, Glendalough, Herdsman, Innaloo, Jolimont, Karrakatta, Karrinyup (part), Mount Claremont, Mosman Park, Osborne Park (part), Nedlands, Peppermint Grove, Scarborough (part), Shenton Park, Swanbourne, Subiaco, West Leederville, Wembley, Wembley Downs and Woodlands.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of John Joseph Ambrose Curtin, 1885–1945. Curtin was Prime Minister of Australia (1941–45) and a Member of the House of Representatives (1928–31 and 1934–45).",
+      "area": "98 sq km",
+      "industry": "Industries include medical, education, retail, recreation, light industrial, professional services, commercial, and hospitality.",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "DURACK",
     "name": "Durack",
     "abbrev": "DU",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "DURACK",
+      "website": "http://aec.gov.au/durack",
+      "description": "Durack covers a large area from Kununurra in the north to Quairading in the south and includes coastal islands. The division includes the Cities of Greater Geraldton and Karratha and the Shires of Broome, Carnarvon, Cunderdin, Dandaragan, Derby-West Kimberley, East Pilbara, Exmouth, Goomalling, Narembeen, Quairading, Sandstone, Shark Bay, Victoria Plains, Wiluna and Yilgarn.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named to honour suceeding generations of the Durack family who were pioneers and developers of the Kimberley region, including:\n \n \n Patrick Durack, 1834–98, who took up land on the Ord River in the East Kimberley in 1882,\n W J Durack who worked as a doctor in the Marble Bar and Murchinson district and was the first to diagnose leprosy in the Aboriginal people of this area,\n Michael Patrick Durack, 1865–1950, who promoted the development of the nothern parts of Western Australia,\n Dame Mary Gertrude Durack DBE AC, 1913–94, the author and historian who wrote about the outback, Australian settlers, the history of missionaries in Western Australia and her family's striggles and achievements as pioneers in the Kimberley region,\n Elizabeth Durack OBE, 1915–2000, the artist whose works capture remote parts of north and centeral Western Australia,\n Kimberley Michael Durack, 1917–1968, who established the Ord River Research Station, which led to irrigated farming around Kununurra, and\n Peter Drew Durack, 1926–2008, who was a Senator for Western Australia (1971–1993) and introduced the Freedom of Information Act.",
+      "area": "1,629,858 sq km",
+      "industry": "Industries include fishing, agriculture, mining and tourism.",
+      "memberKey": "PRICE-MELISSA",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "FORREST",
     "name": "Forrest",
     "abbrev": "FO",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "FORREST",
+      "website": "http://aec.gov.au/forrest",
+      "description": "Forrest covers an area in the south west corner of Western Australia from the Shire of Harvey in the north to the Shires of Augusta-Margaret River and Nannup in the south. The Division includes the cities of Bunbury and Busselton and the shires of Augusta-Margaret River, Capel, Dardanup, Donnybrook-Balingup, Harvey and Nannup.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Sir John Forrest, 1847–1918. Forrest was an active member of the Constitutional Conventions that led to the Commonwealth of Australia and a member of the House of Representatives (1901–18).",
+      "area": "11 072 sq km",
+      "industry": "Agriculture, forestry, mining, fisheries, manufacturing, commerce and tourism.",
+      "memberKey": "MARINO-NOLA",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "FREMANTLE",
     "name": "Fremantle",
     "abbrev": "FR",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "FREMANTLE",
+      "website": "http://aec.gov.au/fremantle",
+      "description": "Fremantle covers the Cities of Cockburn, Fremantle and Melville (part) and the town of East Fremantle. It is situated south west of Perth and includes Rottnest Island. The suburbs include Atwell, Aubin Grove, Banjup, Beaconsfield, Beeliar, Bibra Lake, Coolbellup, Coogee, Cockburn Central, East Fremantle, Fremantle, Hamilton Hill, Hammond Park, Henderson, Hilton, Jandakot, Kardinya (part), Leeming (part), Munster, North Coogee, North Fremantle, North Lake, O'Connor, Palmyra, Samson, South Fremantle, South Lake, Spearwood, Success, Wattleup, White Gum Valley and Yangebup.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named after the City of Fremantle. The city was named after Captain Charles Howe Fremantle who arrived at the Swan River Colony on 2 May 1829, hoisted the British flag on the South Head, and took formal possession in the name of His Majesty King George IV, of 'all that part of New Holland which is not included within the territory of New South Wales'.",
+      "area": "196 sq km",
+      "industry": "Industries include retail, commercial, manufacturing, medical, education, professional services, hospitality, tourism and fishing.",
+      "memberKey": "WILSON-JOSH",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "HASLUCK",
     "name": "Hasluck",
     "abbrev": "HA",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "HASLUCK",
+      "website": "http://aec.gov.au/hasluck",
+      "description": "Hasluck covers the Shires of Mundaring and Kalamunda (part), and the Cities of Gosnells (part) and Swan (part). It includes the suburbs of Bailup, Beckenham, Beechina, Bickley, Caversham, Forrestfield (part), Gidgegannup, Gorrie, Guildford, Hazelmere, Helena Valley, Jane Brook, Kalamunda, Kenwick, Lesmurdie, Maddington, Maida Vale, Malmalling, Middle Swan (part), Midland, Red Hill (part), Reservoir, Sawyers Valley, South Guildford (part), Stratton, The Lakes, Viveash, Walliston, Wattle Grove, and Wooroloo.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "In recognition of their service to Australia, the electoral division is jointly named in honour of:\n \n Rt Hon Sir Paul Meernaa Caedwalla Hasluck KG GCMG GCVO, 1905–93. Hasluck was a diplomat, Member of the House of Representatives (1949–69) and a Governor-General of Australia (1969–74), and\n Dame Alexandra Margaret Martin Hasluck AD, 1908–93, a noted author.",
+      "area": "1,192 sq km",
+      "industry": "Retail, transport and service industries, light industry, medical, construction, manufacturing and agriculture.",
+      "memberKey": "WYATT-KEN",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "MOORE",
     "name": "Moore",
     "abbrev": "MO",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "MOORE",
+      "website": "http://aec.gov.au/moore",
+      "description": "Moore contains most of the City of Joondalup and a small portion of the City of Wanneroo. It includes the suburbs of Burns Beach, Connolly, Craigie, Currambine, Duncraig, Edgewater, Greenwood, Heathridge, Hillarys, Iluka, Joondalup, Kallaroo, Kingsley (part), Kinross, Marmion, Mullaloo, Ocean Reef, Padbury, Sorrento and Woodvale.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of George Fletcher Moore, 1798–1886. Throughout the 1830s Moore explored a number of areas in Western Australia and was appointed Advocate-General of the Colony of Western Australia in 1834.",
+      "area": "90 sq km",
+      "industry": "Industries include medical, education, retail, recreation, light industrial, commercial, and hospitality.",
+      "memberKey": "GOODENOUGH-IAN",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "OCONNOR",
     "name": "O'Connor",
     "abbrev": "OC",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "OCONNOR",
+      "website": "http://aec.gov.au/o'connor",
+      "description": "O'Connor covers a large area from the Shire of Ngaanyatjarraku in the north to the Shire of Dundas in the south following the coast west to Manjimup. The Division includes the Cities of Albany and Kalgoorlie-Boulder, and the Shires of Boyup Brook, Bridgetown-Greenbushes, Brookton, Collie, Coolgardie, Corrigin, Denmark, Dundas, Esperance, Kondinin, Laverton, Manjimup, Ngaanyatjarraku, Wandering and Williams.",
+      "demographic": "Rural – outside capital cities and without majority of enrolment in major provincial cities.",
+      "nomenclature": "Named in honour of Charles Yelverton O'Connor, 1843–1902. In 1891, O'Connor became Western Australia's engineer-in-chief and was responsible for designing Fremantle Harbour and the pipeline which supplies Kalgoorlie and other goldfields with water.",
+      "area": "868,576 sq km",
+      "industry": "Industries include agriculture, fishing, forestry, aquaculture, mining and tourism.",
+      "memberKey": "WILSON-RICK",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "PEARCE",
     "name": "Pearce",
     "abbrev": "PE",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "PEARCE",
+      "website": "http://aec.gov.au/pearce",
+      "description": "Pearce contains all of the Shires of Beverly, Chittering, Gingin, Northam, Toodyay and York and parts of the Cities of Swan and Wanneroo. The Division includes the suburbs of Aveley, Banksia Grove, Baskerville, Brabham, Brigadoon, Bullsbrook, Carramar, Clarkson, Dayton, Ellenbrook, Henley Brook, Herne Hill, Lexia, Mariginiup, Melaleuca, Middle Swan (part), Mindarie, Morangup, Neerabup, Red Hill (part), Tamala Park, West Swan and Wundowie.",
+      "demographic": "Outer Metropolitan – situated in capital cities and containing large areas of recent suburban expansion.",
+      "nomenclature": "Named in honour of Sir George Foster Pearce, 1870–1952. Pearce was a Senator for Western Australia (1901–38) and served as Acting Prime Minister for seven months in 1916.",
+      "area": "13,250 sq km",
+      "industry": "Industries include fishing, tourism, agriculture, hospitality, retail, commercial and education. Pearce Air Base located in Bullsbrook.",
+      "memberKey": "PORTER-CHRISTIAN",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "PERTH",
     "name": "Perth",
     "abbrev": "PE",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "PERTH",
+      "website": "http://aec.gov.au/perth",
+      "description": "Perth is bordered by the Swan River to the south and east, the Mitchell Freeway and Kings Park to the west and the Cities of Vincent and Bassendean, the suburbs of Coolbinia (part), Menora, Inglewood (part), Bedford, Morley(part) and Noranda to the north. Suburbs include Ashfield, Bassendean, Bayswater, Bedford, Coolbinia (part), Dianella (part), East Perth, Eden Hill, Embleton, Highgate, Inglewood, Kings Park, Leederville, Maylands, Menora, Morley (part), Mount Hawthorn, Mount Lawley, Noranda, Northbridge, North Perth, Perth and West Perth.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named after the City of Perth. Under instructions from the Secretary for the Colonies, Sir George Murray, the new town and future seat of government in the Colony of Western Australia was called Perth. Murray was a Perthsire man and represented his birthpace in the House of Commons.",
+      "area": "80 sq km",
+      "industry": "Industries include medical, education, retail, recreation, light industrial, commercial, tourism, transport, professional services, public services and hospitality.",
+      "memberKey": "GORMAN-PATRICK",
+      "partyKey": "ALP"
+    }
   },
   {
     "key": "STIRLING",
     "name": "Stirling",
     "abbrev": "ST",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "STIRLING",
+      "website": "http://aec.gov.au/stirling",
+      "description": "Stirling contains the majority of the City of Stirling and a small portion of the City of Bayswater. Suburbs include Balcatta, Balga, Carine, Dianella (part), Gwelup, Hamersley, Joondanna, Karrinyup (part), Mirrabooka, Morley (part), Nollamara, North Beach, Osborne park (part), Scarborough (part), Stirling, Trigg, Tuart Hill, Watermans Bay, Westminster and Yokine.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named after Sir James Stirling RN, 1791–1865. Stirling was the first Governor of the Colony of Western Australia (1828–39) and took a leading role in exploring the coastal districts near the Swan, Murray, Collie, Preston, Blackwood and Vasse Rivers.",
+      "area": "74 sq km",
+      "industry": "Industries include light industrial, retail, commercial, medical, fishing, tourism and recreation.",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "SWAN",
     "name": "Swan",
     "abbrev": "SW",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "SWAN",
+      "website": "http://aec.gov.au/swan",
+      "description": "Swan is bordered by the Swan River in the north and west, the Canning River and the City of Canning in the south, and the Roe Highway, Great Eastern Highway and Perth Airport in the east. Suburbs include Ascot, Belmont, Burswood, Bentley, Cannington, Carlisle, Cloverdale, Como, East Cannington, East Victoria Park, Forrestfield (part), High Wycombe, Karawara, Kensington, Kewdale, Lathlain, Manning, Redcliffe, Rivervale, Perth Airport, Queens Park, Salter Point, South Guildford (part), South Perth, St James, Victoria Park, Waterford, Welshpool and Wilson.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named after the Swan River. The river was named in 1697 by the Dutch explorer Willem de Vlamingh after the famous black swans of the area.",
+      "area": "134 sq km",
+      "industry": "Industries include education, tourism, recreation, light industry, commercial, retail and transport.",
+      "memberKey": "IRONS-STEVE",
+      "partyKey": "LP"
+    }
   },
   {
     "key": "TANGNEY",
     "name": "Tangney",
     "abbrev": "TA",
-    "state": "WA"
+    "state": "WA",
+    "details": {
+      "key": "TANGNEY",
+      "website": "http://aec.gov.au/tangney",
+      "description": "Tangney is bordered by the Swan and Canning Rivers to the north and east. It contains most of the City of Melville, a part of the City of Canning and a small portion of the City of Cockburn. The suburbs include Alfred Cove, Applecross, Ardross, Attadale, Bateman, Bicton, Booragoon, Brentwood, Bull Creek, Ferndale, Kardinya (part), Leeming (part), Lynwood, Melville, Mount Pleasant, Murdoch, Myaree, Parkwood, Riverton, Rossmoyne, Shelley, Willagee, Willetton and Winthrop.",
+      "demographic": "Inner Metropolitan – situated in capital cities and consisting of well-established built-up suburbs.",
+      "nomenclature": "Named in honour of Dame Dorothy Margaret Tangney DBE, 1907–85. As a Senator for Western Australia (1943–68), Tangney was the first woman member of the Senate.",
+      "area": "83 sq km",
+      "industry": "Industries include light industrial, retail, commercial, medical, education and recreation.",
+      "memberKey": "MORTON-BEN",
+      "partyKey": "LP"
+    }
   }
 ]

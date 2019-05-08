@@ -85,6 +85,26 @@ class ElectService {
         return null;
     }
 
+    /*
+    public async loadElectorateDetails(electorateKey: string): Promise<IPartyDetails|null> {
+        const electorate = this.getElectorate(electorateKey);
+        if (electorate) {
+            const url = DATA_PATH + "/electorates/" + electorate.key + ".json";
+            try {
+                electorate.details = await this.fetchJSON<IPartyDetails>(url);
+                return electorate.details;
+            }
+            catch (e) {
+                console.warn("Couldn't load details from " + url + " for electorate " + electorateKey);
+            }
+        }
+        else {
+            console.warn("No electorate " + electorateKey);
+        }
+        return null;
+    }
+    */
+
     private async fetchJSON<T extends any>(url: string): Promise<T> {
         const res = await fetch(url);
         const str = await res.text();

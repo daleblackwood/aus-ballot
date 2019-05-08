@@ -4,12 +4,8 @@
             "name": "Australian Greens",
             "alts": [
                 "Greens",
-                "The Greens (VIC)",
-                "The Greens (WA)",
-                "The Greens (NSW)",
-                "The Greens (QLD)",
-                "The Greens (SA)",
-                "The Greens"
+                "The Greens",
+                "The Australian Greens"
             ],
             "color": "green"
         },
@@ -39,13 +35,17 @@
         },
         "LNP": {
             "name": "Liberal National Party of Queensland",
-            "color": "blue"
+            "color": "blue",
+            "alts": [
+                "Liberal National Party",
+                "LNP",
+                "LNPQ"
+            ]
         },
         "LP": {
             "name": "Liberal Party of Australia",
             "alts": [
-                "Liberal",
-                "Libs"
+                "Liberal Party"
             ],
             "color": "blue"
         },

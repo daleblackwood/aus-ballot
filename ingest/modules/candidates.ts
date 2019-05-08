@@ -33,14 +33,23 @@ type CandidateField = (
     "contact_email"
 );
 
-export { ingest, load };
+export { ingest, load, writeParties, writeElectorates };
 
 async function ingest() {
     const result = await this.load();
     await writeJSON(DIR_OUT + "/candidates.json", mapToArray(result.candidateMap));
-    await writeJSON(DIR_OUT + "/electorates.json", mapToArray(result.electorateMap));
-    await writeJSON(DIR_OUT + "/parties.json", mapToArray(result.partyMap));
+    await writeElectorates(result.electorateMap);
+    await writeParties(result.partyMap);
 }
+
+async function writeParties(map: KeyMap<IParty>) {
+    await writeJSON(DIR_OUT + "/parties.json", mapToArray(map));
+}
+
+async function writeElectorates(map: KeyMap<IElectorate>) {
+    await writeJSON(DIR_OUT + "/electorates.json", mapToArray(map));
+}
+
 
 function readStr(row: any, field: CandidateField) {
     return (row[field] || "").trim();
@@ -54,7 +63,13 @@ let electorateMap: KeyMap<IElectorate> = {};
 let partyMap: KeyMap<IParty> = {};
 let candidateMap: KeyMap<ICandidate> = {};
 
-async function load() {
+export interface IElectorateResult {
+    electorateMap: KeyMap<IElectorate>,
+    partyMap: KeyMap<IParty>,
+    candidateMap: KeyMap<ICandidate>
+}
+
+async function load(): Promise<IElectorateResult> {
     electorateMap = {};
     partyMap = {};
     candidateMap = {};
