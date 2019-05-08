@@ -1,5 +1,6 @@
 import * as fs from "fs";
 import * as Papa from "papaparse";
+import * as showdown from "showdown";
 import { KeyMap, IParty, IElectorate } from "../../ui/src/model/Types";
 import { Utils } from "../../ui/src/utils/Utils";
 
@@ -18,6 +19,13 @@ export async function loadJSON<T extends any>(path: string): Promise<T> {
     return json;
 }
 
+export async function loadMDHTML(path: string): Promise<string> {
+    const str = await loadText(__dirname + "/../../README.md");
+    const converter = new showdown.Converter();
+    const html = converter.makeHtml(str);
+    return html;
+}
+
 export async function loadText(path: string): Promise<string> {
     const file = await new Promise<string>((resolve, reject) => {
         fs.readFile(path, { encoding: "utf-8" }, (err, res) => err ? reject(err) : resolve(res));
@@ -27,8 +35,12 @@ export async function loadText(path: string): Promise<string> {
 
 export async function writeJSON(path: string, data: any) {
     const json = JSON.stringify(data, null, "  ");
+    await writeText(path, json);
+}
+
+export async function writeText(path: string, text: string) {
     await new Promise<any>((resolve, reject) => {
-        fs.writeFile(path, json, { encoding: "utf-8" }, err => err ? reject(err) : resolve());
+        fs.writeFile(path, text, { encoding: "utf-8" }, err => err ? reject(err) : resolve());
     });
 }
 

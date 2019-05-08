@@ -7,6 +7,7 @@ import { Switch, Route } from "react-router";
 import { PartyPage } from "../pages/PartyPage";
 import * as history from "history";
 import { KeyMap } from "../model/Types";
+import { AboutPage } from "../pages/AboutPage";
 
 interface IPopupState {
     route: string;
@@ -47,9 +48,12 @@ export class PopupModal extends BaseComp {
 
     protected renderBody() {
         const hashProps = this.state.hashProps;
-        console.log("body", hashProps);
         if (hashProps.party) {
             return <PartyPage party={ hashProps.party }/>;
+        }
+        switch(hashProps.page) {
+            case "about":
+                return <AboutPage />;
         }
         return null;
     }

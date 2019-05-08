@@ -32,11 +32,34 @@ table {
     right: 0;
 }
     .app > .header {
-        background-color: #444;
+        background-color: #636;
         color: #FFF;
         padding: 1em 2em;
         height: var(--header-height);
     }
+
+        .app > .header > .logo {
+            width: 300px;
+            margin: -1em 0 0 -2em;
+        }
+        .app > .header > h1 {
+            margin: -15px 0 0 12px;
+            font-size: 1.3em;
+        }
+
+        .app > .header > .buttons {
+            position: absolute;
+            top: 0.5em;
+            right: 0.5em;
+        }
+        .app > .header > .buttons a {
+            display: inline-block;
+            background-color: #888;
+            border-radius: 1.5em;
+            line-height: 1.5em;
+            color: #FFF;
+            padding: 0 1em;
+        }
     .app > .page {
         position: absolute;
         top: var(--header-height);
@@ -62,6 +85,10 @@ table {
                 right: 0;
             }
 
+
+/* - - - - - - - - - - - -
+    COMPONENTS
+- - - - - - - - - - - - -*/
 
 .electorate-icon {
     display: inline-block;
@@ -110,4 +137,46 @@ button.close {
 }
 button.close::before {
     content: "×";
+}
+
+.search-area > div {
+    width: 100%;
+}
+
+
+/* - - - - - - - - - - - -
+    MOBILE
+- - - - - - - - - - - - -*/
+
+@media only screen and (max-width: 600px) {
+
+
+    .app > .header > h1 {
+        font-size: 1em;
+    }
+
+    .app > .page > .panel {
+        position: relative;
+        bottom: 0;
+        top: 0;
+        padding: 2em;
+        overflow-y: auto;
+    }
+        .app > .page > .panel.left {
+            width: 100%;
+            max-width: 100%;
+        }
+        .app > .page > .panel.right {
+            width: 100%;
+            min-width: auto;
+        }
+
+    .search-area .search-list {
+        display: none;
+    }
+
+    .search-area.searching .search-list {
+        display: block;
+    }
+
 }

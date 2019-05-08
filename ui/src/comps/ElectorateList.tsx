@@ -33,14 +33,16 @@ export class ElectorateList extends BaseComp<{}, IElectorateListState> {
         for (const electorate of electorates) {
             items.push(this.renderElectorate(electorate));
         }
+
+        const searchClass = "search-area " + (this.state.search ? "searching" : "");
         
         return (
-            <>
+            <div className={searchClass}>
                 <Input icon="search" placeholder="Search..." onChange={this.handleInput} />
-                <List divided relaxed>
+                <List divided relaxed className="search-list">
                     { items }
                 </List>
-            </>
+            </div>
         );
     }
 
@@ -55,16 +57,26 @@ export class ElectorateList extends BaseComp<{}, IElectorateListState> {
         const url = appService.getElectorateLink(electorate.key);
         const iconStyle: React.CSSProperties = {};
         if (electorate.details) {
-            const party = electService.getParty(electorate.details.partyKey);
+            let party = electService.getParty(electorate.details.partyKey);
+            if (! party && electorate.results) {
+                const result = electorate.results.slice().sort((a, b) => {
+                    return a.votes > b.votes ? -1 : 1;
+                })[0];
+                if (result) {
+                    party = electService.getParty(result.party);
+                }
+            }
             if (party) {
                 iconStyle.backgroundColor = party.color;
             }
         }
+        const clearSearch = ()=> this.setState({...this.state, search: ""});
+
         return (
             <List.Item key={electorate.key} className="electorate-item" >
                 <List.Icon>
                     <div className="electorate-icon" style={iconStyle}>
-                        <Link to={url}>{ electorate.abbrev }</Link>
+                        <Link to={url} onClick={clearSearch}>{ electorate.abbrev }</Link>
                     </div>
                 </List.Icon>
                 <List.Content>

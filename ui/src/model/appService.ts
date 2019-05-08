@@ -11,8 +11,8 @@ export const MODALS: { [key: string]: JSX.Element|null } = {
     [ModalName.PARTY]: null
 }
 
-export const APP_TITLE = "Electoral Ballot Information";
-export const APP_SUBTITLE = "Australian Federal Election 2019";
+export const APP_TITLE = "Australian Federal Election 2019";
+export const APP_SUBTITLE = "Ballot Information";
 export const DEFAULT_TITLE = APP_TITLE + " " + APP_SUBTITLE;
 
 class AppService {

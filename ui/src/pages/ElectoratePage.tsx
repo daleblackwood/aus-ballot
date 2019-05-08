@@ -16,22 +16,6 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
 
     public state: IElectoratePageState = {};
 
-    /*
-
-    public componentDidMount() {
-        this.load();
-    }
-
-    public componentWillReceiveProps() {
-        this.load();
-    }
-
-    private async load() {
-        //const electorateDetails = await electService.loadElectorateDetails(this.props.electorate || "");
-        this.setState({ ...this.state, electorateDetails });
-    }
-    */
-
     public render() {
         const electorate = electService.getElectorate(this.props.electorate || "");
         if (!electorate) {
@@ -39,6 +23,7 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
                 <div>Please select an electorate.</div>
             );
         }
+        appService.setTitle(electorate.name);
         return (
             <div className="electorate">
                 <h2>{electorate.name}, {electorate.state}</h2>

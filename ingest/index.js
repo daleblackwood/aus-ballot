@@ -3,7 +3,7 @@ const process = require("process");
 
 async function run() {
     console.log("\naus-ballot ingestion:");
-    const moduleNames = ["candidates", "votes", "parties", "electorates"];
+    const moduleNames = ["candidates", "votes", "parties", "electorates", "markdown"];
     let runargs = process.argv.includes("all") ? moduleNames.slice() : process.argv;
     try {
         let processed = 0;

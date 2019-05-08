@@ -45,7 +45,9 @@
         "LP": {
             "name": "Liberal Party of Australia",
             "alts": [
-                "Liberal Party"
+                "Liberal Party",
+                "Liberal",
+                "Liberals"
             ],
             "color": "blue"
         },
@@ -55,7 +57,8 @@
                 "Nationals",
                 "Nats",
                 "National Party",
-                "The Nationals"
+                "The Nationals",
+                "National"
             ],
             "color": "blue"
         },

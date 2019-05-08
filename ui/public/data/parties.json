@@ -95,7 +95,9 @@
       "Liberal Party of Australia",
       "LP",
       "LP",
-      "Liberal Party"
+      "Liberal Party",
+      "Liberal",
+      "Liberals"
     ]
   },
   {
@@ -110,7 +112,8 @@
       "Nationals",
       "Nats",
       "National Party",
-      "The Nationals"
+      "The Nationals",
+      "National"
     ]
   },
   {
@@ -215,17 +218,6 @@
       "The Great Australian Party",
       "TGAP",
       "TGA"
-    ]
-  },
-  {
-    "key": "LIB",
-    "name": "Liberal",
-    "abbrev": "LIB",
-    "color": "grey",
-    "matches": [
-      "Liberal",
-      "LIB",
-      "LIB"
     ]
   },
   {

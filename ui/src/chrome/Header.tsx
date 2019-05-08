@@ -5,7 +5,11 @@ export class Header extends React.Component {
     public render() {
         return (
             <div className="header">
-                <h1>2019 Australian Election Ballot and Candidate Information</h1>
+                <img src="/logo.png" className="logo" alt="AusBallot" title="AusBallot"/>
+                <h1>2019 Australian Election Ballot Information</h1>
+                <div className="buttons">
+                    <a href="#page:about">?</a>
+                </div>
             </div>
         );
     }
