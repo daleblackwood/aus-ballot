@@ -42,6 +42,7 @@ class AppService {
         path = this.resolvePath(path);
         console.log("navigate to " + path);
         this.subRoute.setValue(path);
+        this.history.push(path);
     }
 
     public resolvePath(path: string) {

@@ -4,7 +4,6 @@ import { Router, Route, Switch } from "react-router";
 import "./styles/App.css";
 
 import { Header } from "./chrome/Header";
-import { HomePage } from "./pages/HomePage";
 import { appService } from "./model/appService";
 import { ElectoratesPage } from "./pages/ElectoratesPage";
 import { electService } from "./model/electService";

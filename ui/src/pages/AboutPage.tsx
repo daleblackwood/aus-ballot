@@ -15,7 +15,15 @@ export class AboutPage extends BasePage {
     public render() {
         const template = { __html: this.state.html };
         return (
-            <div dangerouslySetInnerHTML={template} />
+            <>
+                <div dangerouslySetInnerHTML={template} />
+                <h3>Your Privacy</h3>
+                <p>This website doesn't collect or store information about you.
+                    It does, however, use Google Analytics to collect anonymous visitor statistics
+                    - just like the rest of the internet.</p>
+                <h3>Contact</h3>
+                <p>If you have any issues, please leave them on the github page.</p>
+            </>
         );
     }
 

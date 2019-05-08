@@ -18,9 +18,28 @@ export class ElectoratePage extends BasePage<IElectoratePageProps> {
 
     public render() {
         const electorate = electService.getElectorate(this.props.electorate || "");
+        electService.subElectorateKey.setValue(this.props.electorate || "");
         if (!electorate) {
             return (
-                <div>Please select an electorate.</div>
+                <div className="electorate">
+                    <h2>Welcome to AusBallot</h2>
+
+                    <h3>How to use this tool</h3>
+                    <p><em>Search an electorate to get started.</em></p>
+                    
+                    <h3>Don't know your electorate?</h3>
+                    <p>
+                        If you're unsure which electorate you belong to, use this tool from the AEC:<br/>
+                        <a href="https://electorate.aec.gov.au/" target="_blank">Find my electorate on the AEC page</a>
+                    </p>
+
+                    <h3>About this tool</h3>
+                    <p>This is a free, open-source tool made by an Australian programmer without political affiliation.
+                        All information is automatically read from publically available information.</p>
+                    <p>
+                        <a href="#page:about">More about this tool / source</a>
+                    </p>
+                </div>
             );
         }
         appService.setTitle(electorate.name);

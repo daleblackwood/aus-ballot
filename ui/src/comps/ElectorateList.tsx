@@ -10,15 +10,22 @@ import { appService } from "../model/appService";
 interface IElectorateListState {
     electorates: IElectorate[];
     search: string;
+    focused: boolean;
 }
 
 export class ElectorateList extends BaseComp<{}, IElectorateListState> {
 
-    public state: IElectorateListState = { electorates: [], search: "" };
+    public state: IElectorateListState = { electorates: [], search: "", focused: false };
 
     componentDidMount() {
         this.handleInput = this.handleInput.bind(this);
         this.listen(electService.subElectorates, electorates => this.setState({ ...this.state, electorates }));
+        this.listen(electService.subElectorateKey, key => {
+            const electorate = electService.getElectorate(key);
+            if (electorate) {
+                this.setState({ ...this.state, search: electorate.name, focused: false });
+            };
+        });
     }
 
     public render() {
@@ -34,11 +41,37 @@ export class ElectorateList extends BaseComp<{}, IElectorateListState> {
             items.push(this.renderElectorate(electorate));
         }
 
-        const searchClass = "search-area " + (this.state.search ? "searching" : "");
+        let showList = Boolean(this.state.search);
+        if (this.state.focused) {
+            showList = true;
+        }
+        const searchClass = "search-area " + (showList ? "searching" : "");
+
+        const inputFocus = () => this.setState({ ...this.state, focused: true });
+
+        const iconClick = () => {
+            if (this.state.search) {
+                this.setState({ ...this.state, search: "" });
+            }
+            appService.navigate("/");
+        };
+
+        const iconType = this.state.search ? "close" : "search";
         
         return (
             <div className={searchClass}>
-                <Input icon="search" placeholder="Search..." onChange={this.handleInput} />
+                <div className="ui icon input">
+                    <input placeholder="Find Electorate..." 
+                        type="text"
+                        value={this.state.search}
+                        onChange={this.handleInput}
+                        onFocus={inputFocus}
+                    />
+                    <i className={iconType + " icon"} 
+                        onClick={iconClick} 
+                        style={{pointerEvents: "auto"}}
+                    />
+                </div>
                 <List divided relaxed className="search-list">
                     { items }
                 </List>
@@ -70,13 +103,12 @@ export class ElectorateList extends BaseComp<{}, IElectorateListState> {
                 iconStyle.backgroundColor = party.color;
             }
         }
-        const clearSearch = ()=> this.setState({...this.state, search: ""});
 
         return (
             <List.Item key={electorate.key} className="electorate-item" >
                 <List.Icon>
                     <div className="electorate-icon" style={iconStyle}>
-                        <Link to={url} onClick={clearSearch}>{ electorate.abbrev }</Link>
+                        <Link to={url}>{ electorate.abbrev }</Link>
                     </div>
                 </List.Icon>
                 <List.Content>
