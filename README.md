@@ -1,7 +1,10 @@
 # aus-ballot
 ## Australian Federal Election 2019
 
-### Information Accuracy
+### Hosted Version
+A hosted version of this project can be found at http://ausballot.com
+
+### Information Gathering
 The application scans and collates publically available information in an attempt
 to make it easier to display. While every effort has been undertaken to generate
 accurate information, the nature of the types of systems used and the ever-changing
